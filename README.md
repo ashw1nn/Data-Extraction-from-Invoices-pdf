@@ -42,12 +42,12 @@ I belive using more training data can helpo fine-tuning the model after which th
 ## accuracy_check.py
 I have created a confidence score that tells on how much we can trust the extracted data.
 I checked the following and each were given a set of weighted score:
- The INV no. format, (10%)
- The date formats, (18% - 2 dates)
- Is due date later than Invoice date?, (2%)
- Is the tax percentage valid tax percent or not? (10%)
- Does each item in the bill have a quantity entry? (10%)
- Does the total of individual items sum up to the actual extracted total from the bill? (50%)
+ - The INV no. format, (10%)
+ - The date formats, (18% - 2 dates)
+ - Is due date later than Invoice date?, (2%)
+ - Is the tax percentage valid tax percent or not? (10%)
+ - Does each item in the bill have a quantity entry? (10%)
+ - Does the total of individual items sum up to the actual extracted total from the bill? (50%)
 
 ## main.py
 This file uses the above mentioned tools and outputs the report.txt, outputs.csv and updates the extracts/ and logs/ directory with the extracted jsons.
