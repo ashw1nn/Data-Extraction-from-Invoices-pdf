@@ -1,13 +1,13 @@
 # Usuage
 First, install the required packages to your environment using the following commad:
-pip install -r requirements.txt
+- pip install -r requirements.txt
 
 Then, run the code using,
-python3 main.py --input-dir /path/to/your/input_directory --output-dir /path/to/your/output_directory
+- python3 main.py --input-dir /path/to/your/input_directory --output-dir /path/to/your/output_directory
 
 Make sure that your input and output directories already exists. The code defaults to the following:
-input-dir = Jan to May
-output-dir = extracts
+- input-dir = Jan to May
+- output-dir = extracts
 
 # Documentation
 ## outputs.csv
