@@ -1,0 +1,160 @@
+{
+    "invoice_number": "INV-101",
+    "invoice_date": "24 Jan 2024",
+    "due_date": "24 Jan 2024",
+    "gstin": "23AADCU2395N1ZY",
+    "place_of_supply": "23-MADHYA PRADESH",
+    "total_amount": 3654.0,
+    "sale_info": {
+        "items": [
+            "Solasafe sunscreen gel spf 50",
+            "Dermatologist Consultation",
+            "Ahaglow Advanced Skin Rejuvenating  Face Wash Gel",
+            "Acutret 10 capsules",
+            "Biluma cream - 15 gm",
+            "Triluma Cream - 15 gm",
+            "Isotroin 10 MG - 10 Capsule",
+            "Cetaphil DAM Advance Ultra-Hydrati- ng Lotion Face - 100 gm"
+        ],
+        "rate": [
+            450.64,
+            350.0,
+            556.34,
+            146.79,
+            462.37,
+            535.04,
+            156.36,
+            386.31
+        ],
+        "cost_price": [
+            600.85,
+            350.0,
+            632.2,
+            183.48,
+            525.42,
+            629.46,
+            177.68,
+            438.98
+        ],
+        "discount": [
+            "-25%",
+            null,
+            "-12%",
+            "-20%",
+            "-12%",
+            "-15%",
+            "-12%",
+            "-12%"
+        ],
+        "quantity": [
+            "1",
+            "1",
+            "1 PAC",
+            "1 STRP",
+            "1 PAC",
+            "1 TUB",
+            "2 STRP",
+            "1 TUB"
+        ],
+        "taxable_value": [
+            450.64,
+            350.0,
+            556.34,
+            146.79,
+            462.37,
+            535.04,
+            312.71,
+            386.31
+        ],
+        "tax_amount": [
+            81.11,
+            0.0,
+            100.14,
+            17.61,
+            83.23,
+            64.21,
+            37.53,
+            69.53
+        ],
+        "tax_percentage": [
+            18.0,
+            0.0,
+            18.0,
+            12.0,
+            18.0,
+            12.0,
+            12.0,
+            18.0
+        ],
+        "amount": [
+            531.75,
+            350.0,
+            656.48,
+            164.4,
+            545.6,
+            599.25,
+            350.24,
+            455.84
+        ],
+        "sgst_amount": [
+            40.555,
+            0.0,
+            50.07,
+            8.805,
+            41.615,
+            32.105,
+            18.765,
+            34.765
+        ],
+        "cgst_amount": [
+            40.555,
+            0.0,
+            50.07,
+            8.805,
+            41.615,
+            32.105,
+            18.765,
+            34.765
+        ],
+        "igst_amount": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "sgst_rate": [
+            18.0,
+            0.0,
+            18.0,
+            12.0,
+            18.0,
+            12.0,
+            12.0,
+            18.0
+        ],
+        "cgst_rate": [
+            18.0,
+            0.0,
+            18.0,
+            12.0,
+            18.0,
+            12.0,
+            12.0,
+            18.0
+        ],
+        "igst_rate": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ]
+    }
+}

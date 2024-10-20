@@ -1,0 +1,115 @@
+{
+    "invoice_number": "INV-98",
+    "invoice_date": "16 Jan 2024",
+    "due_date": "16 Jan 2024",
+    "gstin": "23AADCU2395N1ZY",
+    "place_of_supply": "23-MADHYA PRADESH",
+    "total_amount": 4627.0,
+    "sale_info": {
+        "items": [
+            "Acne-UV Gel - spf 50 (50 gm)",
+            "Keraglo- AD shampoo",
+            "Bioderma Pigmentbio C-concentrate",
+            "Cetaphil gentle cleansing lotion - 250  ML",
+            "Anaboom AD Lotion - 50 ml"
+        ],
+        "rate": [
+            620.34,
+            237.29,
+            2363.64,
+            458.64,
+            241.63
+        ],
+        "cost_price": [
+            775.42,
+            296.61,
+            2626.27,
+            521.19,
+            274.58
+        ],
+        "discount": [
+            "-20%",
+            "-20%",
+            "-10%",
+            "-12%",
+            "-12%"
+        ],
+        "quantity": [
+            "1 PAC",
+            "1 UNT",
+            "1 PCS",
+            "1",
+            "1 BTL"
+        ],
+        "taxable_value": [
+            620.34,
+            237.29,
+            2363.64,
+            458.64,
+            241.63
+        ],
+        "tax_amount": [
+            111.66,
+            42.71,
+            425.46,
+            82.56,
+            43.49
+        ],
+        "tax_percentage": [
+            18.0,
+            18.0,
+            18.0,
+            18.0,
+            18.0
+        ],
+        "amount": [
+            732.0,
+            280.0,
+            2789.1,
+            541.2,
+            285.12
+        ],
+        "sgst_amount": [
+            55.83,
+            21.355,
+            212.73,
+            41.28,
+            21.745
+        ],
+        "cgst_amount": [
+            55.83,
+            21.355,
+            212.73,
+            41.28,
+            21.745
+        ],
+        "igst_amount": [
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "sgst_rate": [
+            18.0,
+            18.0,
+            18.0,
+            18.0,
+            18.0
+        ],
+        "cgst_rate": [
+            18.0,
+            18.0,
+            18.0,
+            18.0,
+            18.0
+        ],
+        "igst_rate": [
+            null,
+            null,
+            null,
+            null,
+            null
+        ]
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "invoice_number": "INV-140",
+    "invoice_date": "06 Mar 2024",
+    "due_date": "06 Mar 2024",
+    "gstin": "23AADCU2395N1ZY",
+    "place_of_supply": "23-MADHYA PRADESH",
+    "total_amount": 1148.0,
+    "sale_info": {
+        "items": [
+            "Keraglo Men Tablet - 30 tablets",
+            "Kera-FM 5% Topical Solution"
+        ],
+        "rate": [
+            477.97,
+            521.39
+        ],
+        "cost_price": [
+            597.46,
+            651.74
+        ],
+        "discount": [
+            "-20%",
+            "-20%"
+        ],
+        "quantity": [
+            "1 BTL",
+            "1 BTL"
+        ],
+        "taxable_value": [
+            477.97,
+            521.39
+        ],
+        "tax_amount": [
+            86.03,
+            62.57
+        ],
+        "tax_percentage": [
+            18.0,
+            12.0
+        ],
+        "amount": [
+            564.0,
+            583.96
+        ],
+        "sgst_amount": [
+            43.015,
+            31.285
+        ],
+        "cgst_amount": [
+            43.015,
+            31.285
+        ],
+        "igst_amount": [
+            null,
+            null
+        ],
+        "sgst_rate": [
+            18.0,
+            12.0
+        ],
+        "cgst_rate": [
+            18.0,
+            12.0
+        ],
+        "igst_rate": [
+            null,
+            null
+        ]
+    }
+}

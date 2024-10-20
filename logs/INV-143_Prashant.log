@@ -1,0 +1,101 @@
+2024-10-20 23:29:35,169 - INV-143_Prashant - DEBUG - Logger initialized and logging to file.
+2024-10-20 23:29:35,169 - INV-143_Prashant - INFO - Initializing PDF reader for file: Jan to Mar/INV-143_Prashant.pdf
+2024-10-20 23:29:35,169 - INV-143_Prashant - INFO - PDF reader initialized successfully.
+2024-10-20 23:29:35,169 - INV-143_Prashant - INFO - PDF contains only 1 page, Extracting data from PDF...
+2024-10-20 23:29:35,194 - INV-143_Prashant - DEBUG - TA X  I N V O I C E O R I G I N A L  F O R  R E C I P I E N T 
+UNCUE DERMACARE PRIVATE LIMITED
+GSTIN 23AADCU2395N1ZY     
+C/o KARUNA GUPTA KURELE, 1st Floor
+S.P Bungalow Ke Pichhe, Shoagpur Shahdol, Shahdol
+Shahdol, MADHYA PRADESH, 484001
+Mobile +91 8585960963   Email ruhi@dermaq.in
+Invoice #: INV-143 Invoice Date: 28 Mar 2024 Due Date: 28 Mar 2024
+Customer Details:
+Prashant
+Place of Supply: 
+23-MADHYA PRADESH
+#Item Rate / Item QtyTaxable ValueTax AmountAmount
+1Arachitol 317.86 72,225.00267.00 (12%)2,492.00
+2PRP  2,169.49
+2,542.37 
+(-14.67%)24,338.98781.02 (18%)5,120.00
+Taxable Amount ₹6,563.98
+CGST 6.0% ₹133.50
+SGST 6.0% ₹133.50
+CGST 9.0% ₹390.51
+SGST 9.0% ₹390.51
+Total₹7,612.00
+Total Discount ₹880.00
+Total Items / Qty : 2 / 9.000 Total amount (in words):  INR Seven Thousand, Six Hundred And Twelve Rupees Only .
+Amount Payable: ₹152.00
+Amount Paid: ₹7,460.00
+Pay using UPI: 
+Bank Details:
+Bank:Kotak Mahindra Bank
+Account #: 1146860541
+IFSC Code: kkbk0000725
+Branch: PUNE - CHINCHWAD
+UnCue Dermacare Pvt LtdFor UNCUE DERMACARE PRIVATE LIMITED  
+Authorized Signatory 
+Swipe | Simple Invoicing, Billing and Payments | Visit getswipe.in
+Page 1 / 1 This is a computer generated document and requires no signature.Powered By
+
+2024-10-20 23:29:35,194 - INV-143_Prashant - INFO - Extracted basic data from PDF
+2024-10-20 23:29:35,194 - INV-143_Prashant - DEBUG - Invoice Number: INV-143
+2024-10-20 23:29:35,194 - INV-143_Prashant - DEBUG - Invoice Date: 28 Mar 2024
+2024-10-20 23:29:35,194 - INV-143_Prashant - DEBUG - Due Date: 28 Mar 2024
+2024-10-20 23:29:35,194 - INV-143_Prashant - DEBUG - GSTIN: 23AADCU2395N1ZY
+2024-10-20 23:29:35,194 - INV-143_Prashant - DEBUG - Total Amount: ₹7612.0
+2024-10-20 23:29:35,194 - INV-143_Prashant - DEBUG - Place of Supply: 23-MADHYA PRADESH
+2024-10-20 23:29:35,194 - INV-143_Prashant - DEBUG - 1Arachitol 317.86 72,225.00267.00 (12%)2,492.00
+2PRP  2,169.49
+2,542.37 
+(-14.67%)24,338.98781.02 (18%)5,120.00
+2024-10-20 23:29:35,194 - INV-143_Prashant - INFO - Extracting data from list of items purchased...
+2024-10-20 23:29:35,194 - INV-143_Prashant - DEBUG - Arachitol 317.86 72,225.00267.00 (12%)2,492.00
+2024-10-20 23:29:35,194 - INV-143_Prashant - DEBUG - Amount:2,492.00
+2024-10-20 23:29:35,194 - INV-143_Prashant - DEBUG - Tax Pecentage:12.0
+2024-10-20 23:29:35,194 - INV-143_Prashant - DEBUG - Tax Amount:267.00
+2024-10-20 23:29:35,194 - INV-143_Prashant - DEBUG - Taxable Value:2,225.00
+2024-10-20 23:29:35,194 - INV-143_Prashant - DEBUG - Quantity:7
+2024-10-20 23:29:35,194 - INV-143_Prashant - DEBUG - Discount:None
+2024-10-20 23:29:35,194 - INV-143_Prashant - DEBUG - Cost Price:317.86
+2024-10-20 23:29:35,195 - INV-143_Prashant - DEBUG - Rate:317.86
+2024-10-20 23:29:35,195 - INV-143_Prashant - DEBUG - Item:Arachitol
+2024-10-20 23:29:35,195 - INV-143_Prashant - DEBUG - SGST Amount:133.5
+2024-10-20 23:29:35,195 - INV-143_Prashant - DEBUG - CGST Amount:133.5
+2024-10-20 23:29:35,195 - INV-143_Prashant - DEBUG - IGST Amount:None
+2024-10-20 23:29:35,195 - INV-143_Prashant - DEBUG - SGST Rate:12.0
+2024-10-20 23:29:35,195 - INV-143_Prashant - DEBUG - CGST Rate:12.0
+2024-10-20 23:29:35,195 - INV-143_Prashant - DEBUG - IGST Rate:None
+2024-10-20 23:29:35,195 - INV-143_Prashant - DEBUG - --------------------------
+2024-10-20 23:29:35,195 - INV-143_Prashant - DEBUG - PRP  2,169.49 2,542.37  (-14.67%)24,338.98781.02 (18%)5,120.00
+2024-10-20 23:29:35,195 - INV-143_Prashant - DEBUG - Amount:5,120.00
+2024-10-20 23:29:35,195 - INV-143_Prashant - DEBUG - Tax Pecentage:18.0
+2024-10-20 23:29:35,195 - INV-143_Prashant - DEBUG - Tax Amount:781.02
+2024-10-20 23:29:35,195 - INV-143_Prashant - DEBUG - Taxable Value:4,338.98
+2024-10-20 23:29:35,195 - INV-143_Prashant - DEBUG - Quantity:2
+2024-10-20 23:29:35,195 - INV-143_Prashant - DEBUG - Discount:-14.67%
+2024-10-20 23:29:35,195 - INV-143_Prashant - DEBUG - Cost Price:2,542.37
+2024-10-20 23:29:35,195 - INV-143_Prashant - DEBUG - Rate:2,169.49
+2024-10-20 23:29:35,195 - INV-143_Prashant - DEBUG - Item:PRP
+2024-10-20 23:29:35,195 - INV-143_Prashant - DEBUG - SGST Amount:390.51
+2024-10-20 23:29:35,195 - INV-143_Prashant - DEBUG - CGST Amount:390.51
+2024-10-20 23:29:35,195 - INV-143_Prashant - DEBUG - IGST Amount:None
+2024-10-20 23:29:35,195 - INV-143_Prashant - DEBUG - SGST Rate:18.0
+2024-10-20 23:29:35,195 - INV-143_Prashant - DEBUG - CGST Rate:18.0
+2024-10-20 23:29:35,195 - INV-143_Prashant - DEBUG - IGST Rate:None
+2024-10-20 23:29:35,195 - INV-143_Prashant - DEBUG - --------------------------
+2024-10-20 23:29:35,195 - INV-143_Prashant - INFO - Extracted data from list of items purchased.
+2024-10-20 23:29:35,195 - INV-143_Prashant.log - DEBUG - Checking invoice number: INV-143
+2024-10-20 23:29:35,195 - INV-143_Prashant.log - DEBUG - Invoice number passed pattern check
+2024-10-20 23:29:35,195 - INV-143_Prashant.log - DEBUG - Parsed invoice date: 2024-03-28 00:00:00
+2024-10-20 23:29:35,195 - INV-143_Prashant.log - DEBUG - Parsed due date: 2024-03-28 00:00:00
+2024-10-20 23:29:35,195 - INV-143_Prashant.log - DEBUG - Invoice date check passed
+2024-10-20 23:29:35,195 - INV-143_Prashant.log - DEBUG - Due date check passed
+2024-10-20 23:29:35,195 - INV-143_Prashant.log - DEBUG - Date logic check passed
+2024-10-20 23:29:35,195 - INV-143_Prashant.log - DEBUG - Calculated total amount: 7612.0, expected: 7612.0
+2024-10-20 23:29:35,195 - INV-143_Prashant.log - DEBUG - Total amount consistency check passed
+2024-10-20 23:29:35,195 - INV-143_Prashant.log - DEBUG - Valid tax percentage count: 2
+2024-10-20 23:29:35,195 - INV-143_Prashant.log - DEBUG - Valid quantity count: 2
+2024-10-20 23:29:35,195 - INV-143_Prashant.log - INFO - Final confidence score: 1.0

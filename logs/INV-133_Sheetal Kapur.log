@@ -1,0 +1,164 @@
+2024-10-20 23:29:34,824 - INV-133_Sheetal Kapur - DEBUG - Logger initialized and logging to file.
+2024-10-20 23:29:34,824 - INV-133_Sheetal Kapur - INFO - Initializing PDF reader for file: Jan to Mar/INV-133_Sheetal Kapur.pdf
+2024-10-20 23:29:34,825 - INV-133_Sheetal Kapur - INFO - PDF reader initialized successfully.
+2024-10-20 23:29:34,825 - INV-133_Sheetal Kapur - INFO - PDF contains only 1 page, Extracting data from PDF...
+2024-10-20 23:29:34,846 - INV-133_Sheetal Kapur - DEBUG - TA X  I N V O I C E O R I G I N A L  F O R  R E C I P I E N T 
+UNCUE DERMACARE PRIVATE LIMITED
+GSTIN 23AADCU2395N1ZY     
+C/o KARUNA GUPTA KURELE, 1st Floor
+S.P Bungalow Ke Pichhe, Shoagpur Shahdol, Shahdol
+Shahdol, MADHYA PRADESH, 484001
+Mobile +91 8585960963   Email ruhi@dermaq.in
+Invoice #: INV-133 Invoice Date: 01 Mar 2024 Due Date: 01 Mar 2024
+Customer Details:
+Sheetal Kapur
+Place of Supply: 
+23-MADHYA PRADESH
+#Item Rate / Item QtyTaxable ValueTax AmountAmount
+1Glogeous facewash 785.17
+923.73 (-15%)1 BTL785.17141.33 (18%)926.50
+2Bristaa Intense Cream  749.95
+872.03 (-14%)1 BTL749.95134.99 (18%)884.94
+3Anaboom AD Lotion - 50 ml  233.39
+274.58 (-15%)1 BTL233.3942.01 (18%)275.40
+4Anaboom AD Shampoo  290.10
+329.66 (-12%)1 BTL290.1052.22 (18%)342.32
+5Acutret 5 mg 81.18
+101.47 (-20%)3 STRP243.5429.22 (12%)272.76
+Taxable Amount ₹2,302.15
+CGST 6.0% ₹14.61
+SGST 6.0% ₹14.61
+CGST 9.0% ₹185.27
+SGST 9.0% ₹185.27
+Round Off 0.08
+Total₹2,702.00
+Total Discount ₹471.03
+Total Items / Qty : 5 / 7.000 Total amount (in words):  INR Two Thousand, Seven Hundred And Two Rupees Only .
+Amount Paid
+Pay using UPI: 
+Bank Details:
+Bank:Kotak Mahindra Bank
+Account #: 1146860541
+IFSC Code: kkbk0000725
+Branch: PUNE - CHINCHWAD
+UnCue Dermacare Pvt LtdFor UNCUE DERMACARE PRIVATE LIMITED  
+Authorized Signatory 
+Swipe | Simple Invoicing, Billing and Payments | Visit getswipe.in
+Page 1 / 1 This is a computer generated document and requires no signature.Powered By
+
+2024-10-20 23:29:34,846 - INV-133_Sheetal Kapur - INFO - Extracted basic data from PDF
+2024-10-20 23:29:34,846 - INV-133_Sheetal Kapur - DEBUG - Invoice Number: INV-133
+2024-10-20 23:29:34,846 - INV-133_Sheetal Kapur - DEBUG - Invoice Date: 01 Mar 2024
+2024-10-20 23:29:34,846 - INV-133_Sheetal Kapur - DEBUG - Due Date: 01 Mar 2024
+2024-10-20 23:29:34,846 - INV-133_Sheetal Kapur - DEBUG - GSTIN: 23AADCU2395N1ZY
+2024-10-20 23:29:34,846 - INV-133_Sheetal Kapur - DEBUG - Total Amount: ₹2702.0
+2024-10-20 23:29:34,847 - INV-133_Sheetal Kapur - DEBUG - Place of Supply: 23-MADHYA PRADESH
+2024-10-20 23:29:34,847 - INV-133_Sheetal Kapur - DEBUG - 1Glogeous facewash 785.17
+923.73 (-15%)1 BTL785.17141.33 (18%)926.50
+2Bristaa Intense Cream  749.95
+872.03 (-14%)1 BTL749.95134.99 (18%)884.94
+3Anaboom AD Lotion - 50 ml  233.39
+274.58 (-15%)1 BTL233.3942.01 (18%)275.40
+4Anaboom AD Shampoo  290.10
+329.66 (-12%)1 BTL290.1052.22 (18%)342.32
+5Acutret 5 mg 81.18
+101.47 (-20%)3 STRP243.5429.22 (12%)272.76
+2024-10-20 23:29:34,847 - INV-133_Sheetal Kapur - INFO - Extracting data from list of items purchased...
+2024-10-20 23:29:34,847 - INV-133_Sheetal Kapur - DEBUG - Glogeous facewash 785.17 923.73 (-15%)1 BTL785.17141.33 (18%)926.50
+2024-10-20 23:29:34,847 - INV-133_Sheetal Kapur - DEBUG - Amount:926.50
+2024-10-20 23:29:34,847 - INV-133_Sheetal Kapur - DEBUG - Tax Pecentage:18.0
+2024-10-20 23:29:34,847 - INV-133_Sheetal Kapur - DEBUG - Tax Amount:141.33
+2024-10-20 23:29:34,847 - INV-133_Sheetal Kapur - DEBUG - Taxable Value:785.17
+2024-10-20 23:29:34,847 - INV-133_Sheetal Kapur - DEBUG - Quantity:1 BTL
+2024-10-20 23:29:34,847 - INV-133_Sheetal Kapur - DEBUG - Discount:-15%
+2024-10-20 23:29:34,847 - INV-133_Sheetal Kapur - DEBUG - Cost Price:923.73
+2024-10-20 23:29:34,847 - INV-133_Sheetal Kapur - DEBUG - Rate:785.17
+2024-10-20 23:29:34,847 - INV-133_Sheetal Kapur - DEBUG - Item:Glogeous facewash
+2024-10-20 23:29:34,847 - INV-133_Sheetal Kapur - DEBUG - SGST Amount:70.665
+2024-10-20 23:29:34,847 - INV-133_Sheetal Kapur - DEBUG - CGST Amount:70.665
+2024-10-20 23:29:34,847 - INV-133_Sheetal Kapur - DEBUG - IGST Amount:None
+2024-10-20 23:29:34,847 - INV-133_Sheetal Kapur - DEBUG - SGST Rate:18.0
+2024-10-20 23:29:34,847 - INV-133_Sheetal Kapur - DEBUG - CGST Rate:18.0
+2024-10-20 23:29:34,847 - INV-133_Sheetal Kapur - DEBUG - IGST Rate:None
+2024-10-20 23:29:34,847 - INV-133_Sheetal Kapur - DEBUG - --------------------------
+2024-10-20 23:29:34,847 - INV-133_Sheetal Kapur - DEBUG - Bristaa Intense Cream  749.95 872.03 (-14%)1 BTL749.95134.99 (18%)884.94
+2024-10-20 23:29:34,847 - INV-133_Sheetal Kapur - DEBUG - Amount:884.94
+2024-10-20 23:29:34,847 - INV-133_Sheetal Kapur - DEBUG - Tax Pecentage:18.0
+2024-10-20 23:29:34,847 - INV-133_Sheetal Kapur - DEBUG - Tax Amount:134.99
+2024-10-20 23:29:34,847 - INV-133_Sheetal Kapur - DEBUG - Taxable Value:749.95
+2024-10-20 23:29:34,847 - INV-133_Sheetal Kapur - DEBUG - Quantity:1 BTL
+2024-10-20 23:29:34,847 - INV-133_Sheetal Kapur - DEBUG - Discount:-14%
+2024-10-20 23:29:34,847 - INV-133_Sheetal Kapur - DEBUG - Cost Price:872.03
+2024-10-20 23:29:34,847 - INV-133_Sheetal Kapur - DEBUG - Rate:749.95
+2024-10-20 23:29:34,847 - INV-133_Sheetal Kapur - DEBUG - Item:Bristaa Intense Cream
+2024-10-20 23:29:34,847 - INV-133_Sheetal Kapur - DEBUG - SGST Amount:67.495
+2024-10-20 23:29:34,847 - INV-133_Sheetal Kapur - DEBUG - CGST Amount:67.495
+2024-10-20 23:29:34,847 - INV-133_Sheetal Kapur - DEBUG - IGST Amount:None
+2024-10-20 23:29:34,847 - INV-133_Sheetal Kapur - DEBUG - SGST Rate:18.0
+2024-10-20 23:29:34,847 - INV-133_Sheetal Kapur - DEBUG - CGST Rate:18.0
+2024-10-20 23:29:34,847 - INV-133_Sheetal Kapur - DEBUG - IGST Rate:None
+2024-10-20 23:29:34,847 - INV-133_Sheetal Kapur - DEBUG - --------------------------
+2024-10-20 23:29:34,847 - INV-133_Sheetal Kapur - DEBUG - Anaboom AD Lotion - 50 ml  233.39 274.58 (-15%)1 BTL233.3942.01 (18%)275.40
+2024-10-20 23:29:34,847 - INV-133_Sheetal Kapur - DEBUG - Amount:275.40
+2024-10-20 23:29:34,847 - INV-133_Sheetal Kapur - DEBUG - Tax Pecentage:18.0
+2024-10-20 23:29:34,847 - INV-133_Sheetal Kapur - DEBUG - Tax Amount:42.01
+2024-10-20 23:29:34,847 - INV-133_Sheetal Kapur - DEBUG - Taxable Value:233.39
+2024-10-20 23:29:34,847 - INV-133_Sheetal Kapur - DEBUG - Quantity:1 BTL
+2024-10-20 23:29:34,847 - INV-133_Sheetal Kapur - DEBUG - Discount:-15%
+2024-10-20 23:29:34,847 - INV-133_Sheetal Kapur - DEBUG - Cost Price:274.58
+2024-10-20 23:29:34,847 - INV-133_Sheetal Kapur - DEBUG - Rate:233.39
+2024-10-20 23:29:34,847 - INV-133_Sheetal Kapur - DEBUG - Item:Anaboom AD Lotion - 50 ml
+2024-10-20 23:29:34,847 - INV-133_Sheetal Kapur - DEBUG - SGST Amount:21.005
+2024-10-20 23:29:34,847 - INV-133_Sheetal Kapur - DEBUG - CGST Amount:21.005
+2024-10-20 23:29:34,847 - INV-133_Sheetal Kapur - DEBUG - IGST Amount:None
+2024-10-20 23:29:34,847 - INV-133_Sheetal Kapur - DEBUG - SGST Rate:18.0
+2024-10-20 23:29:34,847 - INV-133_Sheetal Kapur - DEBUG - CGST Rate:18.0
+2024-10-20 23:29:34,847 - INV-133_Sheetal Kapur - DEBUG - IGST Rate:None
+2024-10-20 23:29:34,847 - INV-133_Sheetal Kapur - DEBUG - --------------------------
+2024-10-20 23:29:34,847 - INV-133_Sheetal Kapur - DEBUG - Anaboom AD Shampoo  290.10 329.66 (-12%)1 BTL290.1052.22 (18%)342.32
+2024-10-20 23:29:34,848 - INV-133_Sheetal Kapur - DEBUG - Amount:342.32
+2024-10-20 23:29:34,848 - INV-133_Sheetal Kapur - DEBUG - Tax Pecentage:18.0
+2024-10-20 23:29:34,848 - INV-133_Sheetal Kapur - DEBUG - Tax Amount:52.22
+2024-10-20 23:29:34,848 - INV-133_Sheetal Kapur - DEBUG - Taxable Value:290.10
+2024-10-20 23:29:34,848 - INV-133_Sheetal Kapur - DEBUG - Quantity:1 BTL
+2024-10-20 23:29:34,848 - INV-133_Sheetal Kapur - DEBUG - Discount:-12%
+2024-10-20 23:29:34,848 - INV-133_Sheetal Kapur - DEBUG - Cost Price:329.66
+2024-10-20 23:29:34,848 - INV-133_Sheetal Kapur - DEBUG - Rate:290.10
+2024-10-20 23:29:34,848 - INV-133_Sheetal Kapur - DEBUG - Item:Anaboom AD Shampoo
+2024-10-20 23:29:34,848 - INV-133_Sheetal Kapur - DEBUG - SGST Amount:26.11
+2024-10-20 23:29:34,848 - INV-133_Sheetal Kapur - DEBUG - CGST Amount:26.11
+2024-10-20 23:29:34,848 - INV-133_Sheetal Kapur - DEBUG - IGST Amount:None
+2024-10-20 23:29:34,848 - INV-133_Sheetal Kapur - DEBUG - SGST Rate:18.0
+2024-10-20 23:29:34,848 - INV-133_Sheetal Kapur - DEBUG - CGST Rate:18.0
+2024-10-20 23:29:34,848 - INV-133_Sheetal Kapur - DEBUG - IGST Rate:None
+2024-10-20 23:29:34,848 - INV-133_Sheetal Kapur - DEBUG - --------------------------
+2024-10-20 23:29:34,848 - INV-133_Sheetal Kapur - DEBUG - Acutret 5 mg 81.18 101.47 (-20%)3 STRP243.5429.22 (12%)272.76
+2024-10-20 23:29:34,848 - INV-133_Sheetal Kapur - DEBUG - Amount:272.76
+2024-10-20 23:29:34,848 - INV-133_Sheetal Kapur - DEBUG - Tax Pecentage:12.0
+2024-10-20 23:29:34,848 - INV-133_Sheetal Kapur - DEBUG - Tax Amount:29.22
+2024-10-20 23:29:34,848 - INV-133_Sheetal Kapur - DEBUG - Taxable Value:243.54
+2024-10-20 23:29:34,848 - INV-133_Sheetal Kapur - DEBUG - Quantity:3 STRP
+2024-10-20 23:29:34,848 - INV-133_Sheetal Kapur - DEBUG - Discount:-20%
+2024-10-20 23:29:34,848 - INV-133_Sheetal Kapur - DEBUG - Cost Price:101.47
+2024-10-20 23:29:34,848 - INV-133_Sheetal Kapur - DEBUG - Rate:81.18
+2024-10-20 23:29:34,848 - INV-133_Sheetal Kapur - DEBUG - Item:Acutret 5 mg
+2024-10-20 23:29:34,848 - INV-133_Sheetal Kapur - DEBUG - SGST Amount:14.61
+2024-10-20 23:29:34,848 - INV-133_Sheetal Kapur - DEBUG - CGST Amount:14.61
+2024-10-20 23:29:34,848 - INV-133_Sheetal Kapur - DEBUG - IGST Amount:None
+2024-10-20 23:29:34,848 - INV-133_Sheetal Kapur - DEBUG - SGST Rate:12.0
+2024-10-20 23:29:34,848 - INV-133_Sheetal Kapur - DEBUG - CGST Rate:12.0
+2024-10-20 23:29:34,848 - INV-133_Sheetal Kapur - DEBUG - IGST Rate:None
+2024-10-20 23:29:34,848 - INV-133_Sheetal Kapur - DEBUG - --------------------------
+2024-10-20 23:29:34,848 - INV-133_Sheetal Kapur - INFO - Extracted data from list of items purchased.
+2024-10-20 23:29:34,848 - INV-133_Sheetal Kapur.log - DEBUG - Checking invoice number: INV-133
+2024-10-20 23:29:34,848 - INV-133_Sheetal Kapur.log - DEBUG - Invoice number passed pattern check
+2024-10-20 23:29:34,848 - INV-133_Sheetal Kapur.log - DEBUG - Parsed invoice date: 2024-03-01 00:00:00
+2024-10-20 23:29:34,848 - INV-133_Sheetal Kapur.log - DEBUG - Parsed due date: 2024-03-01 00:00:00
+2024-10-20 23:29:34,848 - INV-133_Sheetal Kapur.log - DEBUG - Invoice date check passed
+2024-10-20 23:29:34,848 - INV-133_Sheetal Kapur.log - DEBUG - Due date check passed
+2024-10-20 23:29:34,848 - INV-133_Sheetal Kapur.log - DEBUG - Date logic check passed
+2024-10-20 23:29:34,848 - INV-133_Sheetal Kapur.log - DEBUG - Calculated total amount: 2701.92, expected: 2702.0
+2024-10-20 23:29:34,848 - INV-133_Sheetal Kapur.log - DEBUG - Total amount consistency check passed
+2024-10-20 23:29:34,848 - INV-133_Sheetal Kapur.log - DEBUG - Valid tax percentage count: 5
+2024-10-20 23:29:34,848 - INV-133_Sheetal Kapur.log - DEBUG - Valid quantity count: 5
+2024-10-20 23:29:34,848 - INV-133_Sheetal Kapur.log - INFO - Final confidence score: 1.0

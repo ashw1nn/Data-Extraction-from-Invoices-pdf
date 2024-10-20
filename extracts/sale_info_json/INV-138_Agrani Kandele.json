@@ -1,0 +1,85 @@
+{
+    "invoice_number": "INV-138",
+    "invoice_date": "06 Mar 2024",
+    "due_date": "06 Mar 2024",
+    "gstin": "23AADCU2395N1ZY",
+    "place_of_supply": "23-MADHYA PRADESH",
+    "total_amount": 1505.0,
+    "sale_info": {
+        "items": [
+            "Cetaphil Gentle Cleansing Lotion - Oily  Skin 125 ml",
+            "Solasafe sunscreen gel spf 50",
+            "IPCA Acne OC Moisturizer Cream - 75  gm"
+        ],
+        "rate": [
+            415.68,
+            480.68,
+            378.98
+        ],
+        "cost_price": [
+            461.86,
+            600.85,
+            473.73
+        ],
+        "discount": [
+            "-10%",
+            "-20%",
+            "-20%"
+        ],
+        "quantity": [
+            "1 BTL",
+            "1",
+            "1"
+        ],
+        "taxable_value": [
+            415.68,
+            480.68,
+            378.98
+        ],
+        "tax_amount": [
+            74.82,
+            86.52,
+            68.22
+        ],
+        "tax_percentage": [
+            18.0,
+            18.0,
+            18.0
+        ],
+        "amount": [
+            490.5,
+            567.2,
+            447.2
+        ],
+        "sgst_amount": [
+            37.41,
+            43.26,
+            34.11
+        ],
+        "cgst_amount": [
+            37.41,
+            43.26,
+            34.11
+        ],
+        "igst_amount": [
+            null,
+            null,
+            null
+        ],
+        "sgst_rate": [
+            18.0,
+            18.0,
+            18.0
+        ],
+        "cgst_rate": [
+            18.0,
+            18.0,
+            18.0
+        ],
+        "igst_rate": [
+            null,
+            null,
+            null
+        ]
+    }
+}

@@ -1,0 +1,85 @@
+{
+    "invoice_number": "INV-114",
+    "invoice_date": "29 Jan 2024",
+    "due_date": "29 Jan 2024",
+    "gstin": "23AADCU2395N1ZY",
+    "place_of_supply": "23-MADHYA PRADESH",
+    "total_amount": 1843.0,
+    "sale_info": {
+        "items": [
+            "Acne-UV Gel - spf 50 (50 gm)",
+            "Neurobion Forte - 30 tablets",
+            "Arachitol Nano (60k) 4*5ml"
+        ],
+        "rate": [
+            620.34,
+            29.53,
+            299.58
+        ],
+        "cost_price": [
+            775.42,
+            34.75,
+            340.43
+        ],
+        "discount": [
+            "-20%",
+            "-15%",
+            "-12%"
+        ],
+        "quantity": [
+            "1 PAC",
+            "3 STRP",
+            "3 BTL"
+        ],
+        "taxable_value": [
+            620.34,
+            88.6,
+            898.73
+        ],
+        "tax_amount": [
+            111.66,
+            15.95,
+            107.85
+        ],
+        "tax_percentage": [
+            18.0,
+            18.0,
+            12.0
+        ],
+        "amount": [
+            732.0,
+            104.55,
+            1006.58
+        ],
+        "sgst_amount": [
+            55.83,
+            7.975,
+            53.925
+        ],
+        "cgst_amount": [
+            55.83,
+            7.975,
+            53.925
+        ],
+        "igst_amount": [
+            null,
+            null,
+            null
+        ],
+        "sgst_rate": [
+            18.0,
+            18.0,
+            12.0
+        ],
+        "cgst_rate": [
+            18.0,
+            18.0,
+            12.0
+        ],
+        "igst_rate": [
+            null,
+            null,
+            null
+        ]
+    }
+}

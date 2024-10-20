@@ -1,0 +1,128 @@
+2024-10-20 23:29:34,914 - INV-138_Agrani Kandele - DEBUG - Logger initialized and logging to file.
+2024-10-20 23:29:34,914 - INV-138_Agrani Kandele - INFO - Initializing PDF reader for file: Jan to Mar/INV-138_Agrani Kandele.pdf
+2024-10-20 23:29:34,914 - INV-138_Agrani Kandele - INFO - PDF reader initialized successfully.
+2024-10-20 23:29:34,915 - INV-138_Agrani Kandele - INFO - PDF contains only 1 page, Extracting data from PDF...
+2024-10-20 23:29:34,933 - INV-138_Agrani Kandele - DEBUG - TA X  I N V O I C E O R I G I N A L  F O R  R E C I P I E N T 
+UNCUE DERMACARE PRIVATE LIMITED
+GSTIN 23AADCU2395N1ZY     
+C/o KARUNA GUPTA KURELE, 1st Floor
+S.P Bungalow Ke Pichhe, Shoagpur Shahdol, Shahdol
+Shahdol, MADHYA PRADESH, 484001
+Mobile +91 8585960963   Email ruhi@dermaq.in
+Invoice #: INV-138 Invoice Date: 06 Mar 2024 Due Date: 06 Mar 2024
+Customer Details:
+Agrani Kandele
+Ph: 8120482988Shipping Address:
+vadandana beauty parlour
+Murawara
+Katni, MADHYA PRADESH, 483501
+Place of Supply: 
+23-MADHYA PRADESH
+#Item Rate / Item QtyTaxable ValueTax AmountAmount
+1Cetaphil Gentle Cleansing Lotion - Oily 
+Skin 125 ml 415.68
+461.86 (-10%)1 BTL415.6874.82 (18%)490.50
+2Solasafe sunscreen gel spf 50  480.68
+600.85 (-20%)1480.6886.52 (18%)567.20
+3IPCA Acne OC Moisturizer Cream - 75 
+gm 378.98
+473.73 (-20%)1378.9868.22 (18%)447.20
+Taxable Amount ₹1,275.34
+CGST 9.0% ₹114.78
+SGST 9.0% ₹114.78
+Round Off 0.10
+Total₹1,505.00
+Total Discount ₹308.10
+Total Items / Qty : 3 / 3.000 Total amount (in words):  INR One Thousand, Five Hundred And Five Rupees Only .
+Amount Paid
+Pay using UPI: 
+Bank Details:
+Bank:Kotak Mahindra Bank
+Account #: 1146860541
+IFSC Code: kkbk0000725
+Branch: PUNE - CHINCHWAD
+UnCue Dermacare Pvt LtdFor UNCUE DERMACARE PRIVATE LIMITED  
+Authorized Signatory 
+Swipe | Simple Invoicing, Billing and Payments | Visit getswipe.in
+Page 1 / 1 This is a computer generated document and requires no signature.Powered By
+
+2024-10-20 23:29:34,933 - INV-138_Agrani Kandele - INFO - Extracted basic data from PDF
+2024-10-20 23:29:34,933 - INV-138_Agrani Kandele - DEBUG - Invoice Number: INV-138
+2024-10-20 23:29:34,933 - INV-138_Agrani Kandele - DEBUG - Invoice Date: 06 Mar 2024
+2024-10-20 23:29:34,933 - INV-138_Agrani Kandele - DEBUG - Due Date: 06 Mar 2024
+2024-10-20 23:29:34,933 - INV-138_Agrani Kandele - DEBUG - GSTIN: 23AADCU2395N1ZY
+2024-10-20 23:29:34,933 - INV-138_Agrani Kandele - DEBUG - Total Amount: ₹1505.0
+2024-10-20 23:29:34,933 - INV-138_Agrani Kandele - DEBUG - Place of Supply: 23-MADHYA PRADESH
+2024-10-20 23:29:34,933 - INV-138_Agrani Kandele - DEBUG - 1Cetaphil Gentle Cleansing Lotion - Oily 
+Skin 125 ml 415.68
+461.86 (-10%)1 BTL415.6874.82 (18%)490.50
+2Solasafe sunscreen gel spf 50  480.68
+600.85 (-20%)1480.6886.52 (18%)567.20
+3IPCA Acne OC Moisturizer Cream - 75 
+gm 378.98
+473.73 (-20%)1378.9868.22 (18%)447.20
+2024-10-20 23:29:34,933 - INV-138_Agrani Kandele - INFO - Extracting data from list of items purchased...
+2024-10-20 23:29:34,933 - INV-138_Agrani Kandele - DEBUG - Cetaphil Gentle Cleansing Lotion - Oily  Skin 125 ml 415.68 461.86 (-10%)1 BTL415.6874.82 (18%)490.50
+2024-10-20 23:29:34,934 - INV-138_Agrani Kandele - DEBUG - Amount:490.50
+2024-10-20 23:29:34,934 - INV-138_Agrani Kandele - DEBUG - Tax Pecentage:18.0
+2024-10-20 23:29:34,934 - INV-138_Agrani Kandele - DEBUG - Tax Amount:74.82
+2024-10-20 23:29:34,934 - INV-138_Agrani Kandele - DEBUG - Taxable Value:415.68
+2024-10-20 23:29:34,934 - INV-138_Agrani Kandele - DEBUG - Quantity:1 BTL
+2024-10-20 23:29:34,934 - INV-138_Agrani Kandele - DEBUG - Discount:-10%
+2024-10-20 23:29:34,934 - INV-138_Agrani Kandele - DEBUG - Cost Price:461.86
+2024-10-20 23:29:34,934 - INV-138_Agrani Kandele - DEBUG - Rate:415.68
+2024-10-20 23:29:34,934 - INV-138_Agrani Kandele - DEBUG - Item:Cetaphil Gentle Cleansing Lotion - Oily  Skin 125 ml
+2024-10-20 23:29:34,934 - INV-138_Agrani Kandele - DEBUG - SGST Amount:37.41
+2024-10-20 23:29:34,934 - INV-138_Agrani Kandele - DEBUG - CGST Amount:37.41
+2024-10-20 23:29:34,934 - INV-138_Agrani Kandele - DEBUG - IGST Amount:None
+2024-10-20 23:29:34,934 - INV-138_Agrani Kandele - DEBUG - SGST Rate:18.0
+2024-10-20 23:29:34,934 - INV-138_Agrani Kandele - DEBUG - CGST Rate:18.0
+2024-10-20 23:29:34,934 - INV-138_Agrani Kandele - DEBUG - IGST Rate:None
+2024-10-20 23:29:34,934 - INV-138_Agrani Kandele - DEBUG - --------------------------
+2024-10-20 23:29:34,934 - INV-138_Agrani Kandele - DEBUG - Solasafe sunscreen gel spf 50  480.68 600.85 (-20%)1480.6886.52 (18%)567.20
+2024-10-20 23:29:34,934 - INV-138_Agrani Kandele - DEBUG - Amount:567.20
+2024-10-20 23:29:34,934 - INV-138_Agrani Kandele - DEBUG - Tax Pecentage:18.0
+2024-10-20 23:29:34,934 - INV-138_Agrani Kandele - DEBUG - Tax Amount:86.52
+2024-10-20 23:29:34,934 - INV-138_Agrani Kandele - DEBUG - Taxable Value:480.68
+2024-10-20 23:29:34,934 - INV-138_Agrani Kandele - DEBUG - Quantity:1
+2024-10-20 23:29:34,934 - INV-138_Agrani Kandele - DEBUG - Discount:-20%
+2024-10-20 23:29:34,934 - INV-138_Agrani Kandele - DEBUG - Cost Price:600.85
+2024-10-20 23:29:34,934 - INV-138_Agrani Kandele - DEBUG - Rate:480.68
+2024-10-20 23:29:34,934 - INV-138_Agrani Kandele - DEBUG - Item:Solasafe sunscreen gel spf 50
+2024-10-20 23:29:34,934 - INV-138_Agrani Kandele - DEBUG - SGST Amount:43.26
+2024-10-20 23:29:34,934 - INV-138_Agrani Kandele - DEBUG - CGST Amount:43.26
+2024-10-20 23:29:34,934 - INV-138_Agrani Kandele - DEBUG - IGST Amount:None
+2024-10-20 23:29:34,934 - INV-138_Agrani Kandele - DEBUG - SGST Rate:18.0
+2024-10-20 23:29:34,934 - INV-138_Agrani Kandele - DEBUG - CGST Rate:18.0
+2024-10-20 23:29:34,934 - INV-138_Agrani Kandele - DEBUG - IGST Rate:None
+2024-10-20 23:29:34,934 - INV-138_Agrani Kandele - DEBUG - --------------------------
+2024-10-20 23:29:34,934 - INV-138_Agrani Kandele - DEBUG - IPCA Acne OC Moisturizer Cream - 75  gm 378.98 473.73 (-20%)1378.9868.22 (18%)447.20
+2024-10-20 23:29:34,934 - INV-138_Agrani Kandele - DEBUG - Amount:447.20
+2024-10-20 23:29:34,934 - INV-138_Agrani Kandele - DEBUG - Tax Pecentage:18.0
+2024-10-20 23:29:34,934 - INV-138_Agrani Kandele - DEBUG - Tax Amount:68.22
+2024-10-20 23:29:34,934 - INV-138_Agrani Kandele - DEBUG - Taxable Value:378.98
+2024-10-20 23:29:34,934 - INV-138_Agrani Kandele - DEBUG - Quantity:1
+2024-10-20 23:29:34,934 - INV-138_Agrani Kandele - DEBUG - Discount:-20%
+2024-10-20 23:29:34,934 - INV-138_Agrani Kandele - DEBUG - Cost Price:473.73
+2024-10-20 23:29:34,934 - INV-138_Agrani Kandele - DEBUG - Rate:378.98
+2024-10-20 23:29:34,934 - INV-138_Agrani Kandele - DEBUG - Item:IPCA Acne OC Moisturizer Cream - 75  gm
+2024-10-20 23:29:34,934 - INV-138_Agrani Kandele - DEBUG - SGST Amount:34.11
+2024-10-20 23:29:34,934 - INV-138_Agrani Kandele - DEBUG - CGST Amount:34.11
+2024-10-20 23:29:34,934 - INV-138_Agrani Kandele - DEBUG - IGST Amount:None
+2024-10-20 23:29:34,934 - INV-138_Agrani Kandele - DEBUG - SGST Rate:18.0
+2024-10-20 23:29:34,934 - INV-138_Agrani Kandele - DEBUG - CGST Rate:18.0
+2024-10-20 23:29:34,934 - INV-138_Agrani Kandele - DEBUG - IGST Rate:None
+2024-10-20 23:29:34,934 - INV-138_Agrani Kandele - DEBUG - --------------------------
+2024-10-20 23:29:34,934 - INV-138_Agrani Kandele - INFO - Extracted data from list of items purchased.
+2024-10-20 23:29:34,934 - INV-138_Agrani Kandele.log - DEBUG - Checking invoice number: INV-138
+2024-10-20 23:29:34,934 - INV-138_Agrani Kandele.log - DEBUG - Invoice number passed pattern check
+2024-10-20 23:29:34,934 - INV-138_Agrani Kandele.log - DEBUG - Parsed invoice date: 2024-03-06 00:00:00
+2024-10-20 23:29:34,934 - INV-138_Agrani Kandele.log - DEBUG - Parsed due date: 2024-03-06 00:00:00
+2024-10-20 23:29:34,934 - INV-138_Agrani Kandele.log - DEBUG - Invoice date check passed
+2024-10-20 23:29:34,934 - INV-138_Agrani Kandele.log - DEBUG - Due date check passed
+2024-10-20 23:29:34,934 - INV-138_Agrani Kandele.log - DEBUG - Date logic check passed
+2024-10-20 23:29:34,934 - INV-138_Agrani Kandele.log - DEBUG - Calculated total amount: 1504.9, expected: 1505.0
+2024-10-20 23:29:34,934 - INV-138_Agrani Kandele.log - DEBUG - Total amount consistency check passed
+2024-10-20 23:29:34,934 - INV-138_Agrani Kandele.log - DEBUG - Valid tax percentage count: 3
+2024-10-20 23:29:34,934 - INV-138_Agrani Kandele.log - DEBUG - Valid quantity count: 3
+2024-10-20 23:29:34,934 - INV-138_Agrani Kandele.log - INFO - Final confidence score: 1.0

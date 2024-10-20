@@ -1,0 +1,100 @@
+{
+    "invoice_number": "INV-99",
+    "invoice_date": "16 Jan 2024",
+    "due_date": "16 Jan 2024",
+    "gstin": "23AADCU2395N1ZY",
+    "place_of_supply": "23-MADHYA PRADESH",
+    "total_amount": 2334.0,
+    "sale_info": {
+        "items": [
+            "Dermatologist Consultation",
+            "Acutret 20 mg - 10 capsules",
+            "Isotroin 20 mg - 10 capsules",
+            "Biluma cream - 15 gm"
+        ],
+        "rate": [
+            300.0,
+            211.59,
+            271.23,
+            462.37
+        ],
+        "cost_price": [
+            350.0,
+            258.04,
+            319.09,
+            525.42
+        ],
+        "discount": [
+            "-14.29%",
+            "-18%",
+            "-15%",
+            "-12%"
+        ],
+        "quantity": [
+            "1",
+            "5 STRP",
+            "1 STRP",
+            "1 PAC"
+        ],
+        "taxable_value": [
+            300.0,
+            1057.95,
+            271.23,
+            462.37
+        ],
+        "tax_amount": [
+            0.0,
+            126.95,
+            32.55,
+            83.23
+        ],
+        "tax_percentage": [
+            0.0,
+            12.0,
+            12.0,
+            18.0
+        ],
+        "amount": [
+            300.0,
+            1184.9,
+            303.77,
+            545.6
+        ],
+        "sgst_amount": [
+            0.0,
+            63.475,
+            16.275,
+            41.615
+        ],
+        "cgst_amount": [
+            0.0,
+            63.475,
+            16.275,
+            41.615
+        ],
+        "igst_amount": [
+            null,
+            null,
+            null,
+            null
+        ],
+        "sgst_rate": [
+            0.0,
+            12.0,
+            12.0,
+            18.0
+        ],
+        "cgst_rate": [
+            0.0,
+            12.0,
+            12.0,
+            18.0
+        ],
+        "igst_rate": [
+            null,
+            null,
+            null,
+            null
+        ]
+    }
+}

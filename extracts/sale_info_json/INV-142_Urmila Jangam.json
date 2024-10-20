@@ -1,0 +1,55 @@
+{
+    "invoice_number": "INV-142",
+    "invoice_date": "07 Mar 2024",
+    "due_date": "07 Mar 2024",
+    "gstin": "23AADCU2395N1ZY",
+    "place_of_supply": "23-MADHYA PRADESH",
+    "total_amount": 1032.0,
+    "sale_info": {
+        "items": [
+            "Kera XL New Hair Growth Serum"
+        ],
+        "rate": [
+            874.58
+        ],
+        "cost_price": [
+            1093.22
+        ],
+        "discount": [
+            "-20%"
+        ],
+        "quantity": [
+            "1 BTL"
+        ],
+        "taxable_value": [
+            874.58
+        ],
+        "tax_amount": [
+            157.42
+        ],
+        "tax_percentage": [
+            18.0
+        ],
+        "amount": [
+            1032.0
+        ],
+        "sgst_amount": [
+            78.71
+        ],
+        "cgst_amount": [
+            78.71
+        ],
+        "igst_amount": [
+            null
+        ],
+        "sgst_rate": [
+            18.0
+        ],
+        "cgst_rate": [
+            18.0
+        ],
+        "igst_rate": [
+            null
+        ]
+    }
+}

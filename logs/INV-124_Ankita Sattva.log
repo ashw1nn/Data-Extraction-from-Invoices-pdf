@@ -1,0 +1,98 @@
+2024-10-20 23:29:35,546 - INV-124_Ankita Sattva - DEBUG - Logger initialized and logging to file.
+2024-10-20 23:29:35,546 - INV-124_Ankita Sattva - INFO - Initializing PDF reader for file: Jan to Mar/INV-124_Ankita Sattva.pdf
+2024-10-20 23:29:35,547 - INV-124_Ankita Sattva - INFO - PDF reader initialized successfully.
+2024-10-20 23:29:35,547 - INV-124_Ankita Sattva - INFO - PDF contains only 1 page, Extracting data from PDF...
+2024-10-20 23:29:35,565 - INV-124_Ankita Sattva - DEBUG - TA X  I N V O I C E O R I G I N A L  F O R  R E C I P I E N T 
+UNCUE DERMACARE PRIVATE LIMITED
+GSTIN 23AADCU2395N1ZY     
+C/o KARUNA GUPTA KURELE, 1st Floor
+S.P Bungalow Ke Pichhe, Shoagpur Shahdol, Shahdol
+Shahdol, MADHYA PRADESH, 484001
+Mobile +91 8585960963   Email ruhi@dermaq.in
+Invoice #: INV-124 Invoice Date: 10 Feb 2024 Due Date: 10 Feb 2024
+Customer Details:
+Ankita Sattva
+Place of Supply: 
+23-MADHYA PRADESH
+#Item Rate / Item QtyTaxable ValueTax AmountAmount
+1Arachitol Nano (60k) 4*5ml  340.433 BTL1,021.29122.55 (12%)1,143.84
+2Neurobion Forte - 30 tablets   34.753 STRP104.2418.76 (18%)123.00
+Taxable Amount ₹1,125.52
+CGST 6.0% ₹61.28
+SGST 6.0% ₹61.28
+CGST 9.0% ₹9.38
+SGST 9.0% ₹9.38
+Discount - ₹ 152.02
+Round Off 0.18
+Total₹1,115.00
+Total Discount ₹152.02
+Total Items / Qty : 2 / 6.000 Total amount (in words):  INR One Thousand, One Hundred And Fifteen Rupees Only .
+Amount Paid
+Pay using UPI: 
+Bank Details:
+Bank:Kotak Mahindra Bank
+Account #: 1146860541
+IFSC Code: kkbk0000725
+Branch: PUNE - CHINCHWAD
+UnCue Dermacare Pvt LtdFor UNCUE DERMACARE PRIVATE LIMITED  
+Authorized Signatory 
+Swipe | Simple Invoicing, Billing and Payments | Visit getswipe.in
+Page 1 / 1 This is a computer generated document and requires no signature.Powered By
+
+2024-10-20 23:29:35,565 - INV-124_Ankita Sattva - INFO - Extracted basic data from PDF
+2024-10-20 23:29:35,565 - INV-124_Ankita Sattva - DEBUG - Invoice Number: INV-124
+2024-10-20 23:29:35,565 - INV-124_Ankita Sattva - DEBUG - Invoice Date: 10 Feb 2024
+2024-10-20 23:29:35,565 - INV-124_Ankita Sattva - DEBUG - Due Date: 10 Feb 2024
+2024-10-20 23:29:35,565 - INV-124_Ankita Sattva - DEBUG - GSTIN: 23AADCU2395N1ZY
+2024-10-20 23:29:35,565 - INV-124_Ankita Sattva - DEBUG - Total Amount: ₹1115.0
+2024-10-20 23:29:35,565 - INV-124_Ankita Sattva - DEBUG - Place of Supply: 23-MADHYA PRADESH
+2024-10-20 23:29:35,565 - INV-124_Ankita Sattva - DEBUG - 1Arachitol Nano (60k) 4*5ml  340.433 BTL1,021.29122.55 (12%)1,143.84
+2Neurobion Forte - 30 tablets   34.753 STRP104.2418.76 (18%)123.00
+2024-10-20 23:29:35,565 - INV-124_Ankita Sattva - INFO - Extracting data from list of items purchased...
+2024-10-20 23:29:35,565 - INV-124_Ankita Sattva - DEBUG - Arachitol Nano (60k) 4*5ml  340.433 BTL1,021.29122.55 (12%)1,143.84
+2024-10-20 23:29:35,565 - INV-124_Ankita Sattva - DEBUG - Amount:1,143.84
+2024-10-20 23:29:35,565 - INV-124_Ankita Sattva - DEBUG - Tax Pecentage:12.0
+2024-10-20 23:29:35,565 - INV-124_Ankita Sattva - DEBUG - Tax Amount:122.55
+2024-10-20 23:29:35,565 - INV-124_Ankita Sattva - DEBUG - Taxable Value:1,021.29
+2024-10-20 23:29:35,565 - INV-124_Ankita Sattva - DEBUG - Quantity:433 BTL
+2024-10-20 23:29:35,565 - INV-124_Ankita Sattva - DEBUG - Discount:None
+2024-10-20 23:29:35,565 - INV-124_Ankita Sattva - DEBUG - Cost Price:None
+2024-10-20 23:29:35,565 - INV-124_Ankita Sattva - DEBUG - Rate:None
+2024-10-20 23:29:35,565 - INV-124_Ankita Sattva - DEBUG - Item:Arachitol Nano (60k) 4*5ml  340.
+2024-10-20 23:29:35,565 - INV-124_Ankita Sattva - DEBUG - SGST Amount:61.275
+2024-10-20 23:29:35,565 - INV-124_Ankita Sattva - DEBUG - CGST Amount:61.275
+2024-10-20 23:29:35,565 - INV-124_Ankita Sattva - DEBUG - IGST Amount:None
+2024-10-20 23:29:35,565 - INV-124_Ankita Sattva - DEBUG - SGST Rate:12.0
+2024-10-20 23:29:35,565 - INV-124_Ankita Sattva - DEBUG - CGST Rate:12.0
+2024-10-20 23:29:35,565 - INV-124_Ankita Sattva - DEBUG - IGST Rate:None
+2024-10-20 23:29:35,565 - INV-124_Ankita Sattva - DEBUG - --------------------------
+2024-10-20 23:29:35,565 - INV-124_Ankita Sattva - DEBUG - Neurobion Forte - 30 tablets   34.753 STRP104.2418.76 (18%)123.00
+2024-10-20 23:29:35,565 - INV-124_Ankita Sattva - DEBUG - Amount:123.00
+2024-10-20 23:29:35,565 - INV-124_Ankita Sattva - DEBUG - Tax Pecentage:18.0
+2024-10-20 23:29:35,565 - INV-124_Ankita Sattva - DEBUG - Tax Amount:18.76
+2024-10-20 23:29:35,565 - INV-124_Ankita Sattva - DEBUG - Taxable Value:104.24
+2024-10-20 23:29:35,565 - INV-124_Ankita Sattva - DEBUG - Quantity:753 STRP
+2024-10-20 23:29:35,565 - INV-124_Ankita Sattva - DEBUG - Discount:None
+2024-10-20 23:29:35,565 - INV-124_Ankita Sattva - DEBUG - Cost Price:None
+2024-10-20 23:29:35,565 - INV-124_Ankita Sattva - DEBUG - Rate:None
+2024-10-20 23:29:35,565 - INV-124_Ankita Sattva - DEBUG - Item:Neurobion Forte - 30 tablets   34.
+2024-10-20 23:29:35,565 - INV-124_Ankita Sattva - DEBUG - SGST Amount:9.38
+2024-10-20 23:29:35,565 - INV-124_Ankita Sattva - DEBUG - CGST Amount:9.38
+2024-10-20 23:29:35,565 - INV-124_Ankita Sattva - DEBUG - IGST Amount:None
+2024-10-20 23:29:35,565 - INV-124_Ankita Sattva - DEBUG - SGST Rate:18.0
+2024-10-20 23:29:35,565 - INV-124_Ankita Sattva - DEBUG - CGST Rate:18.0
+2024-10-20 23:29:35,565 - INV-124_Ankita Sattva - DEBUG - IGST Rate:None
+2024-10-20 23:29:35,565 - INV-124_Ankita Sattva - DEBUG - --------------------------
+2024-10-20 23:29:35,565 - INV-124_Ankita Sattva - INFO - Extracted data from list of items purchased.
+2024-10-20 23:29:35,565 - INV-124_Ankita Sattva.log - DEBUG - Checking invoice number: INV-124
+2024-10-20 23:29:35,565 - INV-124_Ankita Sattva.log - DEBUG - Invoice number passed pattern check
+2024-10-20 23:29:35,565 - INV-124_Ankita Sattva.log - DEBUG - Parsed invoice date: 2024-02-10 00:00:00
+2024-10-20 23:29:35,565 - INV-124_Ankita Sattva.log - DEBUG - Parsed due date: 2024-02-10 00:00:00
+2024-10-20 23:29:35,565 - INV-124_Ankita Sattva.log - DEBUG - Invoice date check passed
+2024-10-20 23:29:35,565 - INV-124_Ankita Sattva.log - DEBUG - Due date check passed
+2024-10-20 23:29:35,565 - INV-124_Ankita Sattva.log - DEBUG - Date logic check passed
+2024-10-20 23:29:35,565 - INV-124_Ankita Sattva.log - DEBUG - Calculated total amount: 1266.84, expected: 1115.0
+2024-10-20 23:29:35,565 - INV-124_Ankita Sattva.log - DEBUG - Total amount consistency check failed, adjusted score: 1.0
+2024-10-20 23:29:35,565 - INV-124_Ankita Sattva.log - DEBUG - Valid tax percentage count: 2
+2024-10-20 23:29:35,565 - INV-124_Ankita Sattva.log - DEBUG - Valid quantity count: 2
+2024-10-20 23:29:35,565 - INV-124_Ankita Sattva.log - INFO - Final confidence score: 1.0

@@ -1,0 +1,55 @@
+{
+    "invoice_number": "INV-118",
+    "invoice_date": "30 Jan 2024",
+    "due_date": "30 Jan 2024",
+    "gstin": "23AADCU2395N1ZY",
+    "place_of_supply": "23-MADHYA PRADESH",
+    "total_amount": 350.0,
+    "sale_info": {
+        "items": [
+            "Vitamin b12 test"
+        ],
+        "rate": [
+            350.0
+        ],
+        "cost_price": [
+            350.0
+        ],
+        "discount": [
+            null
+        ],
+        "quantity": [
+            "1"
+        ],
+        "taxable_value": [
+            350.0
+        ],
+        "tax_amount": [
+            0.0
+        ],
+        "tax_percentage": [
+            0.0
+        ],
+        "amount": [
+            350.0
+        ],
+        "sgst_amount": [
+            0.0
+        ],
+        "cgst_amount": [
+            0.0
+        ],
+        "igst_amount": [
+            null
+        ],
+        "sgst_rate": [
+            0.0
+        ],
+        "cgst_rate": [
+            0.0
+        ],
+        "igst_rate": [
+            null
+        ]
+    }
+}

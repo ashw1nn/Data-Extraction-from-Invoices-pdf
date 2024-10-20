@@ -1,0 +1,166 @@
+2024-10-20 23:29:35,566 - INV-102_Kasturi Kalwar - DEBUG - Logger initialized and logging to file.
+2024-10-20 23:29:35,566 - INV-102_Kasturi Kalwar - INFO - Initializing PDF reader for file: Jan to Mar/INV-102_Kasturi Kalwar.pdf
+2024-10-20 23:29:35,566 - INV-102_Kasturi Kalwar - INFO - PDF reader initialized successfully.
+2024-10-20 23:29:35,566 - INV-102_Kasturi Kalwar - INFO - PDF contains only 1 page, Extracting data from PDF...
+2024-10-20 23:29:35,588 - INV-102_Kasturi Kalwar - DEBUG - TA X  I N V O I C E O R I G I N A L  F O R  R E C I P I E N T 
+UNCUE DERMACARE PRIVATE LIMITED
+GSTIN 23AADCU2395N1ZY     
+C/o KARUNA GUPTA KURELE, 1st Floor
+S.P Bungalow Ke Pichhe, Shoagpur Shahdol, Shahdol
+Shahdol, MADHYA PRADESH, 484001
+Mobile +91 8585960963   Email ruhi@dermaq.in
+Invoice #: INV-102 Invoice Date: 24 Jan 2024 Due Date: 24 Jan 2024
+Customer Details:
+Kasturi Kalwar
+Place of Supply: 
+23-MADHYA PRADESH
+#Item Rate / Item QtyTaxable ValueTax AmountAmount
+1Acne-UV Gel - spf 50 (50 gm)  620.34
+775.42 (-20%)1 PAC620.34111.66 (18%)732.00
+2Cetaphil gentle cleansing lotion - 250 
+ML 443.01
+521.19 (-15%)2886.02159.48 (18%)1,045.50
+3Depiwhite Advanced Cream - 15 ml  479.03
+563.56 (-15%)1 TUB479.0386.22 (18%)565.25
+4Neurobion Forte - 30 tablets   31.27
+34.75 (-10%)3 STRP93.8116.89 (18%)110.70
+5Benzac AC 2.5% 82.34
+96.87 (-15%)1 PAC82.349.88 (12%)92.22
+Taxable Amount ₹2,161.54
+CGST 6.0% ₹4.94
+SGST 6.0% ₹4.94
+CGST 9.0% ₹187.13
+SGST 9.0% ₹187.13
+Round Off 0.33
+Total₹2,546.00
+Total Discount ₹495.82
+Total Items / Qty : 5 / 8.000 Total amount (in words):  INR Two Thousand, Five Hundred And Forty-Six Rupees Only .
+Amount Paid
+Pay using UPI: 
+Bank Details:
+Bank:Kotak Mahindra Bank
+Account #: 1146860541
+IFSC Code: kkbk0000725
+Branch: PUNE - CHINCHWAD
+UnCue Dermacare Pvt LtdFor UNCUE DERMACARE PRIVATE LIMITED  
+Authorized Signatory 
+Swipe | Simple Invoicing, Billing and Payments | Visit getswipe.in
+Page 1 / 1 This is a computer generated document and requires no signature.Powered By
+
+2024-10-20 23:29:35,588 - INV-102_Kasturi Kalwar - INFO - Extracted basic data from PDF
+2024-10-20 23:29:35,588 - INV-102_Kasturi Kalwar - DEBUG - Invoice Number: INV-102
+2024-10-20 23:29:35,588 - INV-102_Kasturi Kalwar - DEBUG - Invoice Date: 24 Jan 2024
+2024-10-20 23:29:35,588 - INV-102_Kasturi Kalwar - DEBUG - Due Date: 24 Jan 2024
+2024-10-20 23:29:35,588 - INV-102_Kasturi Kalwar - DEBUG - GSTIN: 23AADCU2395N1ZY
+2024-10-20 23:29:35,588 - INV-102_Kasturi Kalwar - DEBUG - Total Amount: ₹2546.0
+2024-10-20 23:29:35,588 - INV-102_Kasturi Kalwar - DEBUG - Place of Supply: 23-MADHYA PRADESH
+2024-10-20 23:29:35,588 - INV-102_Kasturi Kalwar - DEBUG - 1Acne-UV Gel - spf 50 (50 gm)  620.34
+775.42 (-20%)1 PAC620.34111.66 (18%)732.00
+2Cetaphil gentle cleansing lotion - 250 
+ML 443.01
+521.19 (-15%)2886.02159.48 (18%)1,045.50
+3Depiwhite Advanced Cream - 15 ml  479.03
+563.56 (-15%)1 TUB479.0386.22 (18%)565.25
+4Neurobion Forte - 30 tablets   31.27
+34.75 (-10%)3 STRP93.8116.89 (18%)110.70
+5Benzac AC 2.5% 82.34
+96.87 (-15%)1 PAC82.349.88 (12%)92.22
+2024-10-20 23:29:35,588 - INV-102_Kasturi Kalwar - INFO - Extracting data from list of items purchased...
+2024-10-20 23:29:35,588 - INV-102_Kasturi Kalwar - DEBUG - Acne-UV Gel - spf 50 (50 gm)  620.34 775.42 (-20%)1 PAC620.34111.66 (18%)732.00
+2024-10-20 23:29:35,588 - INV-102_Kasturi Kalwar - DEBUG - Amount:732.00
+2024-10-20 23:29:35,588 - INV-102_Kasturi Kalwar - DEBUG - Tax Pecentage:18.0
+2024-10-20 23:29:35,588 - INV-102_Kasturi Kalwar - DEBUG - Tax Amount:111.66
+2024-10-20 23:29:35,588 - INV-102_Kasturi Kalwar - DEBUG - Taxable Value:620.34
+2024-10-20 23:29:35,588 - INV-102_Kasturi Kalwar - DEBUG - Quantity:1 PAC
+2024-10-20 23:29:35,588 - INV-102_Kasturi Kalwar - DEBUG - Discount:-20%
+2024-10-20 23:29:35,588 - INV-102_Kasturi Kalwar - DEBUG - Cost Price:775.42
+2024-10-20 23:29:35,588 - INV-102_Kasturi Kalwar - DEBUG - Rate:620.34
+2024-10-20 23:29:35,588 - INV-102_Kasturi Kalwar - DEBUG - Item:Acne-UV Gel - spf 50 (50 gm)
+2024-10-20 23:29:35,588 - INV-102_Kasturi Kalwar - DEBUG - SGST Amount:55.83
+2024-10-20 23:29:35,588 - INV-102_Kasturi Kalwar - DEBUG - CGST Amount:55.83
+2024-10-20 23:29:35,588 - INV-102_Kasturi Kalwar - DEBUG - IGST Amount:None
+2024-10-20 23:29:35,588 - INV-102_Kasturi Kalwar - DEBUG - SGST Rate:18.0
+2024-10-20 23:29:35,588 - INV-102_Kasturi Kalwar - DEBUG - CGST Rate:18.0
+2024-10-20 23:29:35,588 - INV-102_Kasturi Kalwar - DEBUG - IGST Rate:None
+2024-10-20 23:29:35,588 - INV-102_Kasturi Kalwar - DEBUG - --------------------------
+2024-10-20 23:29:35,588 - INV-102_Kasturi Kalwar - DEBUG - Cetaphil gentle cleansing lotion - 250  ML 443.01 521.19 (-15%)2886.02159.48 (18%)1,045.50
+2024-10-20 23:29:35,588 - INV-102_Kasturi Kalwar - DEBUG - Amount:1,045.50
+2024-10-20 23:29:35,588 - INV-102_Kasturi Kalwar - DEBUG - Tax Pecentage:18.0
+2024-10-20 23:29:35,588 - INV-102_Kasturi Kalwar - DEBUG - Tax Amount:159.48
+2024-10-20 23:29:35,588 - INV-102_Kasturi Kalwar - DEBUG - Taxable Value:886.02
+2024-10-20 23:29:35,588 - INV-102_Kasturi Kalwar - DEBUG - Quantity:2
+2024-10-20 23:29:35,588 - INV-102_Kasturi Kalwar - DEBUG - Discount:-15%
+2024-10-20 23:29:35,588 - INV-102_Kasturi Kalwar - DEBUG - Cost Price:521.19
+2024-10-20 23:29:35,588 - INV-102_Kasturi Kalwar - DEBUG - Rate:443.01
+2024-10-20 23:29:35,588 - INV-102_Kasturi Kalwar - DEBUG - Item:Cetaphil gentle cleansing lotion - 250  ML
+2024-10-20 23:29:35,588 - INV-102_Kasturi Kalwar - DEBUG - SGST Amount:79.74
+2024-10-20 23:29:35,588 - INV-102_Kasturi Kalwar - DEBUG - CGST Amount:79.74
+2024-10-20 23:29:35,589 - INV-102_Kasturi Kalwar - DEBUG - IGST Amount:None
+2024-10-20 23:29:35,589 - INV-102_Kasturi Kalwar - DEBUG - SGST Rate:18.0
+2024-10-20 23:29:35,589 - INV-102_Kasturi Kalwar - DEBUG - CGST Rate:18.0
+2024-10-20 23:29:35,589 - INV-102_Kasturi Kalwar - DEBUG - IGST Rate:None
+2024-10-20 23:29:35,589 - INV-102_Kasturi Kalwar - DEBUG - --------------------------
+2024-10-20 23:29:35,589 - INV-102_Kasturi Kalwar - DEBUG - Depiwhite Advanced Cream - 15 ml  479.03 563.56 (-15%)1 TUB479.0386.22 (18%)565.25
+2024-10-20 23:29:35,589 - INV-102_Kasturi Kalwar - DEBUG - Amount:565.25
+2024-10-20 23:29:35,589 - INV-102_Kasturi Kalwar - DEBUG - Tax Pecentage:18.0
+2024-10-20 23:29:35,589 - INV-102_Kasturi Kalwar - DEBUG - Tax Amount:86.22
+2024-10-20 23:29:35,589 - INV-102_Kasturi Kalwar - DEBUG - Taxable Value:479.03
+2024-10-20 23:29:35,589 - INV-102_Kasturi Kalwar - DEBUG - Quantity:1 TUB
+2024-10-20 23:29:35,589 - INV-102_Kasturi Kalwar - DEBUG - Discount:-15%
+2024-10-20 23:29:35,589 - INV-102_Kasturi Kalwar - DEBUG - Cost Price:563.56
+2024-10-20 23:29:35,589 - INV-102_Kasturi Kalwar - DEBUG - Rate:479.03
+2024-10-20 23:29:35,589 - INV-102_Kasturi Kalwar - DEBUG - Item:Depiwhite Advanced Cream - 15 ml
+2024-10-20 23:29:35,589 - INV-102_Kasturi Kalwar - DEBUG - SGST Amount:43.11
+2024-10-20 23:29:35,589 - INV-102_Kasturi Kalwar - DEBUG - CGST Amount:43.11
+2024-10-20 23:29:35,589 - INV-102_Kasturi Kalwar - DEBUG - IGST Amount:None
+2024-10-20 23:29:35,589 - INV-102_Kasturi Kalwar - DEBUG - SGST Rate:18.0
+2024-10-20 23:29:35,589 - INV-102_Kasturi Kalwar - DEBUG - CGST Rate:18.0
+2024-10-20 23:29:35,589 - INV-102_Kasturi Kalwar - DEBUG - IGST Rate:None
+2024-10-20 23:29:35,589 - INV-102_Kasturi Kalwar - DEBUG - --------------------------
+2024-10-20 23:29:35,589 - INV-102_Kasturi Kalwar - DEBUG - Neurobion Forte - 30 tablets   31.27 34.75 (-10%)3 STRP93.8116.89 (18%)110.70
+2024-10-20 23:29:35,589 - INV-102_Kasturi Kalwar - DEBUG - Amount:110.70
+2024-10-20 23:29:35,589 - INV-102_Kasturi Kalwar - DEBUG - Tax Pecentage:18.0
+2024-10-20 23:29:35,589 - INV-102_Kasturi Kalwar - DEBUG - Tax Amount:16.89
+2024-10-20 23:29:35,589 - INV-102_Kasturi Kalwar - DEBUG - Taxable Value:93.81
+2024-10-20 23:29:35,589 - INV-102_Kasturi Kalwar - DEBUG - Quantity:3 STRP
+2024-10-20 23:29:35,589 - INV-102_Kasturi Kalwar - DEBUG - Discount:-10%
+2024-10-20 23:29:35,589 - INV-102_Kasturi Kalwar - DEBUG - Cost Price:34.75
+2024-10-20 23:29:35,589 - INV-102_Kasturi Kalwar - DEBUG - Rate:31.27
+2024-10-20 23:29:35,589 - INV-102_Kasturi Kalwar - DEBUG - Item:Neurobion Forte - 30 tablets
+2024-10-20 23:29:35,589 - INV-102_Kasturi Kalwar - DEBUG - SGST Amount:8.445
+2024-10-20 23:29:35,589 - INV-102_Kasturi Kalwar - DEBUG - CGST Amount:8.445
+2024-10-20 23:29:35,589 - INV-102_Kasturi Kalwar - DEBUG - IGST Amount:None
+2024-10-20 23:29:35,589 - INV-102_Kasturi Kalwar - DEBUG - SGST Rate:18.0
+2024-10-20 23:29:35,589 - INV-102_Kasturi Kalwar - DEBUG - CGST Rate:18.0
+2024-10-20 23:29:35,589 - INV-102_Kasturi Kalwar - DEBUG - IGST Rate:None
+2024-10-20 23:29:35,589 - INV-102_Kasturi Kalwar - DEBUG - --------------------------
+2024-10-20 23:29:35,589 - INV-102_Kasturi Kalwar - DEBUG - Benzac AC 2.5% 82.34 96.87 (-15%)1 PAC82.349.88 (12%)92.22
+2024-10-20 23:29:35,589 - INV-102_Kasturi Kalwar - DEBUG - Amount:92.22
+2024-10-20 23:29:35,589 - INV-102_Kasturi Kalwar - DEBUG - Tax Pecentage:12.0
+2024-10-20 23:29:35,589 - INV-102_Kasturi Kalwar - DEBUG - Tax Amount:9.88
+2024-10-20 23:29:35,589 - INV-102_Kasturi Kalwar - DEBUG - Taxable Value:82.34
+2024-10-20 23:29:35,589 - INV-102_Kasturi Kalwar - DEBUG - Quantity:1 PAC
+2024-10-20 23:29:35,589 - INV-102_Kasturi Kalwar - DEBUG - Discount:-15%
+2024-10-20 23:29:35,589 - INV-102_Kasturi Kalwar - DEBUG - Cost Price:96.87
+2024-10-20 23:29:35,589 - INV-102_Kasturi Kalwar - DEBUG - Rate:82.34
+2024-10-20 23:29:35,589 - INV-102_Kasturi Kalwar - DEBUG - Item:Benzac AC 2.5%
+2024-10-20 23:29:35,589 - INV-102_Kasturi Kalwar - DEBUG - SGST Amount:4.94
+2024-10-20 23:29:35,589 - INV-102_Kasturi Kalwar - DEBUG - CGST Amount:4.94
+2024-10-20 23:29:35,589 - INV-102_Kasturi Kalwar - DEBUG - IGST Amount:None
+2024-10-20 23:29:35,589 - INV-102_Kasturi Kalwar - DEBUG - SGST Rate:12.0
+2024-10-20 23:29:35,589 - INV-102_Kasturi Kalwar - DEBUG - CGST Rate:12.0
+2024-10-20 23:29:35,589 - INV-102_Kasturi Kalwar - DEBUG - IGST Rate:None
+2024-10-20 23:29:35,589 - INV-102_Kasturi Kalwar - DEBUG - --------------------------
+2024-10-20 23:29:35,589 - INV-102_Kasturi Kalwar - INFO - Extracted data from list of items purchased.
+2024-10-20 23:29:35,589 - INV-102_Kasturi Kalwar.log - DEBUG - Checking invoice number: INV-102
+2024-10-20 23:29:35,589 - INV-102_Kasturi Kalwar.log - DEBUG - Invoice number passed pattern check
+2024-10-20 23:29:35,589 - INV-102_Kasturi Kalwar.log - DEBUG - Parsed invoice date: 2024-01-24 00:00:00
+2024-10-20 23:29:35,589 - INV-102_Kasturi Kalwar.log - DEBUG - Parsed due date: 2024-01-24 00:00:00
+2024-10-20 23:29:35,589 - INV-102_Kasturi Kalwar.log - DEBUG - Invoice date check passed
+2024-10-20 23:29:35,589 - INV-102_Kasturi Kalwar.log - DEBUG - Due date check passed
+2024-10-20 23:29:35,589 - INV-102_Kasturi Kalwar.log - DEBUG - Date logic check passed
+2024-10-20 23:29:35,589 - INV-102_Kasturi Kalwar.log - DEBUG - Calculated total amount: 2545.6699999999996, expected: 2546.0
+2024-10-20 23:29:35,590 - INV-102_Kasturi Kalwar.log - DEBUG - Total amount consistency check passed
+2024-10-20 23:29:35,590 - INV-102_Kasturi Kalwar.log - DEBUG - Valid tax percentage count: 5
+2024-10-20 23:29:35,590 - INV-102_Kasturi Kalwar.log - DEBUG - Valid quantity count: 5
+2024-10-20 23:29:35,590 - INV-102_Kasturi Kalwar.log - INFO - Final confidence score: 1.0

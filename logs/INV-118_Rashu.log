@@ -1,0 +1,72 @@
+2024-10-20 23:29:35,294 - INV-118_Rashu - DEBUG - Logger initialized and logging to file.
+2024-10-20 23:29:35,294 - INV-118_Rashu - INFO - Initializing PDF reader for file: Jan to Mar/INV-118_Rashu.pdf
+2024-10-20 23:29:35,294 - INV-118_Rashu - INFO - PDF reader initialized successfully.
+2024-10-20 23:29:35,294 - INV-118_Rashu - INFO - PDF contains only 1 page, Extracting data from PDF...
+2024-10-20 23:29:35,307 - INV-118_Rashu - DEBUG - TA X  I N V O I C E O R I G I N A L  F O R  R E C I P I E N T 
+UNCUE DERMACARE PRIVATE LIMITED
+GSTIN 23AADCU2395N1ZY     
+C/o KARUNA GUPTA KURELE, 1st Floor
+S.P Bungalow Ke Pichhe, Shoagpur Shahdol, Shahdol
+Shahdol, MADHYA PRADESH, 484001
+Mobile +91 8585960963   Email ruhi@dermaq.in
+Invoice #: INV-118 Invoice Date: 30 Jan 2024 Due Date: 30 Jan 2024
+Customer Details:
+Rashu
+Place of Supply: 
+23-MADHYA PRADESH
+#Item Rate / Item QtyTaxable ValueTax AmountAmount
+1Vitamin b12 test  350.00 1350.000.00 (0%)350.00
+Taxable Amount ₹350.00
+Total ₹350.00
+Total Items / Qty : 1 / 1.000 Total amount (in words):  INR Three Hundred And Fifty Rupees Only .
+Amount Paid
+Pay using UPI: 
+Bank Details:
+Bank:Kotak Mahindra Bank
+Account #: 1146860541
+IFSC Code: kkbk0000725
+Branch: PUNE - CHINCHWAD
+UnCue Dermacare Pvt LtdFor UNCUE DERMACARE PRIVATE LIMITED  
+Authorized Signatory 
+Swipe | Simple Invoicing, Billing and Payments | Visit getswipe.in
+Page 1 / 1 This is a computer generated document and requires no signature.Powered By
+
+2024-10-20 23:29:35,307 - INV-118_Rashu - INFO - Extracted basic data from PDF
+2024-10-20 23:29:35,307 - INV-118_Rashu - DEBUG - Invoice Number: INV-118
+2024-10-20 23:29:35,307 - INV-118_Rashu - DEBUG - Invoice Date: 30 Jan 2024
+2024-10-20 23:29:35,307 - INV-118_Rashu - DEBUG - Due Date: 30 Jan 2024
+2024-10-20 23:29:35,307 - INV-118_Rashu - DEBUG - GSTIN: 23AADCU2395N1ZY
+2024-10-20 23:29:35,307 - INV-118_Rashu - DEBUG - Total Amount: ₹350.0
+2024-10-20 23:29:35,307 - INV-118_Rashu - DEBUG - Place of Supply: 23-MADHYA PRADESH
+2024-10-20 23:29:35,307 - INV-118_Rashu - DEBUG - 1Vitamin b12 test  350.00 1350.000.00 (0%)350.00
+2024-10-20 23:29:35,307 - INV-118_Rashu - INFO - Extracting data from list of items purchased...
+2024-10-20 23:29:35,307 - INV-118_Rashu - DEBUG - Vitamin b12 test  350.00 1350.000.00 (0%)350.00
+2024-10-20 23:29:35,307 - INV-118_Rashu - DEBUG - Amount:350.00
+2024-10-20 23:29:35,307 - INV-118_Rashu - DEBUG - Tax Pecentage:0.0
+2024-10-20 23:29:35,307 - INV-118_Rashu - DEBUG - Tax Amount:0.00
+2024-10-20 23:29:35,307 - INV-118_Rashu - DEBUG - Taxable Value:350.00
+2024-10-20 23:29:35,307 - INV-118_Rashu - DEBUG - Quantity:1
+2024-10-20 23:29:35,307 - INV-118_Rashu - DEBUG - Discount:None
+2024-10-20 23:29:35,307 - INV-118_Rashu - DEBUG - Cost Price:350.00
+2024-10-20 23:29:35,307 - INV-118_Rashu - DEBUG - Rate:350.00
+2024-10-20 23:29:35,307 - INV-118_Rashu - DEBUG - Item:Vitamin b12 test
+2024-10-20 23:29:35,307 - INV-118_Rashu - DEBUG - SGST Amount:0.0
+2024-10-20 23:29:35,307 - INV-118_Rashu - DEBUG - CGST Amount:0.0
+2024-10-20 23:29:35,307 - INV-118_Rashu - DEBUG - IGST Amount:None
+2024-10-20 23:29:35,308 - INV-118_Rashu - DEBUG - SGST Rate:0.0
+2024-10-20 23:29:35,308 - INV-118_Rashu - DEBUG - CGST Rate:0.0
+2024-10-20 23:29:35,308 - INV-118_Rashu - DEBUG - IGST Rate:None
+2024-10-20 23:29:35,308 - INV-118_Rashu - DEBUG - --------------------------
+2024-10-20 23:29:35,308 - INV-118_Rashu - INFO - Extracted data from list of items purchased.
+2024-10-20 23:29:35,308 - INV-118_Rashu.log - DEBUG - Checking invoice number: INV-118
+2024-10-20 23:29:35,308 - INV-118_Rashu.log - DEBUG - Invoice number passed pattern check
+2024-10-20 23:29:35,308 - INV-118_Rashu.log - DEBUG - Parsed invoice date: 2024-01-30 00:00:00
+2024-10-20 23:29:35,308 - INV-118_Rashu.log - DEBUG - Parsed due date: 2024-01-30 00:00:00
+2024-10-20 23:29:35,308 - INV-118_Rashu.log - DEBUG - Invoice date check passed
+2024-10-20 23:29:35,308 - INV-118_Rashu.log - DEBUG - Due date check passed
+2024-10-20 23:29:35,308 - INV-118_Rashu.log - DEBUG - Date logic check passed
+2024-10-20 23:29:35,308 - INV-118_Rashu.log - DEBUG - Calculated total amount: 350.0, expected: 350.0
+2024-10-20 23:29:35,308 - INV-118_Rashu.log - DEBUG - Total amount consistency check passed
+2024-10-20 23:29:35,308 - INV-118_Rashu.log - DEBUG - Valid tax percentage count: 1
+2024-10-20 23:29:35,308 - INV-118_Rashu.log - DEBUG - Valid quantity count: 1
+2024-10-20 23:29:35,308 - INV-118_Rashu.log - INFO - Final confidence score: 1.0

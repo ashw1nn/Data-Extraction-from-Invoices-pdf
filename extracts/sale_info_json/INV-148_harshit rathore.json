@@ -1,0 +1,70 @@
+{
+    "invoice_number": "INV-148",
+    "invoice_date": "30 Mar 2024",
+    "due_date": "01 Apr 2024",
+    "gstin": "23AADCU2395N1ZY",
+    "place_of_supply": "23-MADHYA PRADESH",
+    "total_amount": 1234.0,
+    "sale_info": {
+        "items": [
+            "Zincovit tablet",
+            "Sevenseas Cap"
+        ],
+        "rate": [
+            78.31,
+            303.29
+        ],
+        "cost_price": [
+            88.98,
+            344.64
+        ],
+        "discount": [
+            "-12%",
+            "-12%"
+        ],
+        "quantity": [
+            "6 STRP",
+            "2 BTL"
+        ],
+        "taxable_value": [
+            469.83,
+            606.57
+        ],
+        "tax_amount": [
+            84.57,
+            72.79
+        ],
+        "tax_percentage": [
+            18.0,
+            12.0
+        ],
+        "amount": [
+            554.4,
+            679.36
+        ],
+        "sgst_amount": [
+            42.285,
+            36.395
+        ],
+        "cgst_amount": [
+            42.285,
+            36.395
+        ],
+        "igst_amount": [
+            null,
+            null
+        ],
+        "sgst_rate": [
+            18.0,
+            12.0
+        ],
+        "cgst_rate": [
+            18.0,
+            12.0
+        ],
+        "igst_rate": [
+            null,
+            null
+        ]
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "invoice_number": "INV-145",
+    "invoice_date": "28 Mar 2024",
+    "due_date": "28 Mar 2024",
+    "gstin": "23AADCU2395N1ZY",
+    "place_of_supply": "23-MADHYA PRADESH",
+    "total_amount": 2141.0,
+    "sale_info": {
+        "items": [
+            "Acutret 20 mg - 10 capsules",
+            "due last bill  60."
+        ],
+        "rate": [
+            206.43,
+            null
+        ],
+        "cost_price": [
+            258.04,
+            null
+        ],
+        "discount": [
+            "-20%",
+            null
+        ],
+        "quantity": [
+            "9 STRP",
+            "00"
+        ],
+        "taxable_value": [
+            1857.86,
+            160.0
+        ],
+        "tax_amount": [
+            222.94,
+            0.0
+        ],
+        "tax_percentage": [
+            12.0,
+            0.0
+        ],
+        "amount": [
+            2080.8,
+            60.0
+        ],
+        "sgst_amount": [
+            111.47,
+            0.0
+        ],
+        "cgst_amount": [
+            111.47,
+            0.0
+        ],
+        "igst_amount": [
+            null,
+            null
+        ],
+        "sgst_rate": [
+            12.0,
+            0.0
+        ],
+        "cgst_rate": [
+            12.0,
+            0.0
+        ],
+        "igst_rate": [
+            null,
+            null
+        ]
+    }
+}

@@ -1,0 +1,160 @@
+2024-10-20 23:29:35,093 - INV-144_Atia Latif - DEBUG - Logger initialized and logging to file.
+2024-10-20 23:29:35,093 - INV-144_Atia Latif - INFO - Initializing PDF reader for file: Jan to Mar/INV-144_Atia Latif.pdf
+2024-10-20 23:29:35,093 - INV-144_Atia Latif - INFO - PDF reader initialized successfully.
+2024-10-20 23:29:35,093 - INV-144_Atia Latif - INFO - PDF contains only 1 page, Extracting data from PDF...
+2024-10-20 23:29:35,114 - INV-144_Atia Latif - DEBUG - TA X  I N V O I C E O R I G I N A L  F O R  R E C I P I E N T 
+UNCUE DERMACARE PRIVATE LIMITED
+GSTIN 23AADCU2395N1ZY     
+C/o KARUNA GUPTA KURELE, 1st Floor
+S.P Bungalow Ke Pichhe, Shoagpur Shahdol, Shahdol
+Shahdol, MADHYA PRADESH, 484001
+Mobile +91 8585960963   Email ruhi@dermaq.in
+Invoice #: INV-144 Invoice Date: 28 Mar 2024 Due Date: 28 Mar 2024
+Customer Details:
+Atia Latif
+Place of Supply: 
+23-MADHYA PRADESH
+#Item Rate / Item QtyTaxable ValueTax AmountAmount
+1Bioderma Pigmentbio C-concentrate  2,363.64
+2,626.27 (-10%)1 PCS2,363.64425.46 (18%)2,789.10
+2Arachitol Nano (60k) 4*5ml  299.58
+340.43 (-12%)2 BTL599.1571.90 (12%)671.05
+3Solasafe sunscreen gel spf 50  450.64
+600.85 (-25%)31,351.91243.34 (18%)1,595.25
+4Lab test - full body checkup  2,000.00 36,000.000.00 (0%)6,000.00
+5GFC PRP 11,600.00 111,600.001,392.00 (12%)12,992.00
+Taxable Amount ₹21,914.71
+CGST 6.0% ₹731.95
+SGST 6.0% ₹731.95
+CGST 9.0% ₹334.40
+SGST 9.0% ₹334.40
+Round Off -0.40
+Total₹24,047.00
+Total Discount ₹933.16
+Total Items / Qty : 5 / 10.000 Total amount (in words):  INR Twenty-Four Thousand And Forty-Seven Rupees Only .
+Amount Paid
+Pay using UPI: 
+Bank Details:
+Bank:Kotak Mahindra Bank
+Account #: 1146860541
+IFSC Code: kkbk0000725
+Branch: PUNE - CHINCHWAD
+UnCue Dermacare Pvt LtdFor UNCUE DERMACARE PRIVATE LIMITED  
+Authorized Signatory 
+Swipe | Simple Invoicing, Billing and Payments | Visit getswipe.in
+Page 1 / 1 This is a computer generated document and requires no signature.Powered By
+
+2024-10-20 23:29:35,114 - INV-144_Atia Latif - INFO - Extracted basic data from PDF
+2024-10-20 23:29:35,114 - INV-144_Atia Latif - DEBUG - Invoice Number: INV-144
+2024-10-20 23:29:35,114 - INV-144_Atia Latif - DEBUG - Invoice Date: 28 Mar 2024
+2024-10-20 23:29:35,114 - INV-144_Atia Latif - DEBUG - Due Date: 28 Mar 2024
+2024-10-20 23:29:35,114 - INV-144_Atia Latif - DEBUG - GSTIN: 23AADCU2395N1ZY
+2024-10-20 23:29:35,114 - INV-144_Atia Latif - DEBUG - Total Amount: ₹24047.0
+2024-10-20 23:29:35,114 - INV-144_Atia Latif - DEBUG - Place of Supply: 23-MADHYA PRADESH
+2024-10-20 23:29:35,114 - INV-144_Atia Latif - DEBUG - 1Bioderma Pigmentbio C-concentrate  2,363.64
+2,626.27 (-10%)1 PCS2,363.64425.46 (18%)2,789.10
+2Arachitol Nano (60k) 4*5ml  299.58
+340.43 (-12%)2 BTL599.1571.90 (12%)671.05
+3Solasafe sunscreen gel spf 50  450.64
+600.85 (-25%)31,351.91243.34 (18%)1,595.25
+4Lab test - full body checkup  2,000.00 36,000.000.00 (0%)6,000.00
+5GFC PRP 11,600.00 111,600.001,392.00 (12%)12,992.00
+2024-10-20 23:29:35,115 - INV-144_Atia Latif - INFO - Extracting data from list of items purchased...
+2024-10-20 23:29:35,115 - INV-144_Atia Latif - DEBUG - Bioderma Pigmentbio C-concentrate  2,363.64 2,626.27 (-10%)1 PCS2,363.64425.46 (18%)2,789.10
+2024-10-20 23:29:35,115 - INV-144_Atia Latif - DEBUG - Amount:2,789.10
+2024-10-20 23:29:35,115 - INV-144_Atia Latif - DEBUG - Tax Pecentage:18.0
+2024-10-20 23:29:35,115 - INV-144_Atia Latif - DEBUG - Tax Amount:425.46
+2024-10-20 23:29:35,115 - INV-144_Atia Latif - DEBUG - Taxable Value:2,363.64
+2024-10-20 23:29:35,115 - INV-144_Atia Latif - DEBUG - Quantity:1 PCS
+2024-10-20 23:29:35,115 - INV-144_Atia Latif - DEBUG - Discount:-10%
+2024-10-20 23:29:35,115 - INV-144_Atia Latif - DEBUG - Cost Price:2,626.27
+2024-10-20 23:29:35,115 - INV-144_Atia Latif - DEBUG - Rate:2,363.64
+2024-10-20 23:29:35,115 - INV-144_Atia Latif - DEBUG - Item:Bioderma Pigmentbio C-concentrate
+2024-10-20 23:29:35,115 - INV-144_Atia Latif - DEBUG - SGST Amount:212.73
+2024-10-20 23:29:35,115 - INV-144_Atia Latif - DEBUG - CGST Amount:212.73
+2024-10-20 23:29:35,115 - INV-144_Atia Latif - DEBUG - IGST Amount:None
+2024-10-20 23:29:35,115 - INV-144_Atia Latif - DEBUG - SGST Rate:18.0
+2024-10-20 23:29:35,115 - INV-144_Atia Latif - DEBUG - CGST Rate:18.0
+2024-10-20 23:29:35,115 - INV-144_Atia Latif - DEBUG - IGST Rate:None
+2024-10-20 23:29:35,115 - INV-144_Atia Latif - DEBUG - --------------------------
+2024-10-20 23:29:35,115 - INV-144_Atia Latif - DEBUG - Arachitol Nano (60k) 4*5ml  299.58 340.43 (-12%)2 BTL599.1571.90 (12%)671.05
+2024-10-20 23:29:35,115 - INV-144_Atia Latif - DEBUG - Amount:671.05
+2024-10-20 23:29:35,115 - INV-144_Atia Latif - DEBUG - Tax Pecentage:12.0
+2024-10-20 23:29:35,115 - INV-144_Atia Latif - DEBUG - Tax Amount:71.90
+2024-10-20 23:29:35,115 - INV-144_Atia Latif - DEBUG - Taxable Value:599.15
+2024-10-20 23:29:35,115 - INV-144_Atia Latif - DEBUG - Quantity:2 BTL
+2024-10-20 23:29:35,115 - INV-144_Atia Latif - DEBUG - Discount:-12%
+2024-10-20 23:29:35,115 - INV-144_Atia Latif - DEBUG - Cost Price:340.43
+2024-10-20 23:29:35,115 - INV-144_Atia Latif - DEBUG - Rate:299.58
+2024-10-20 23:29:35,115 - INV-144_Atia Latif - DEBUG - Item:Arachitol Nano (60k) 4*5ml
+2024-10-20 23:29:35,115 - INV-144_Atia Latif - DEBUG - SGST Amount:35.95
+2024-10-20 23:29:35,115 - INV-144_Atia Latif - DEBUG - CGST Amount:35.95
+2024-10-20 23:29:35,115 - INV-144_Atia Latif - DEBUG - IGST Amount:None
+2024-10-20 23:29:35,115 - INV-144_Atia Latif - DEBUG - SGST Rate:12.0
+2024-10-20 23:29:35,115 - INV-144_Atia Latif - DEBUG - CGST Rate:12.0
+2024-10-20 23:29:35,115 - INV-144_Atia Latif - DEBUG - IGST Rate:None
+2024-10-20 23:29:35,115 - INV-144_Atia Latif - DEBUG - --------------------------
+2024-10-20 23:29:35,115 - INV-144_Atia Latif - DEBUG - Solasafe sunscreen gel spf 50  450.64 600.85 (-25%)31,351.91243.34 (18%)1,595.25
+2024-10-20 23:29:35,115 - INV-144_Atia Latif - DEBUG - Amount:1,595.25
+2024-10-20 23:29:35,115 - INV-144_Atia Latif - DEBUG - Tax Pecentage:18.0
+2024-10-20 23:29:35,115 - INV-144_Atia Latif - DEBUG - Tax Amount:243.34
+2024-10-20 23:29:35,115 - INV-144_Atia Latif - DEBUG - Taxable Value:1,351.91
+2024-10-20 23:29:35,115 - INV-144_Atia Latif - DEBUG - Quantity:3
+2024-10-20 23:29:35,115 - INV-144_Atia Latif - DEBUG - Discount:-25%
+2024-10-20 23:29:35,115 - INV-144_Atia Latif - DEBUG - Cost Price:600.85
+2024-10-20 23:29:35,115 - INV-144_Atia Latif - DEBUG - Rate:450.64
+2024-10-20 23:29:35,115 - INV-144_Atia Latif - DEBUG - Item:Solasafe sunscreen gel spf 50
+2024-10-20 23:29:35,115 - INV-144_Atia Latif - DEBUG - SGST Amount:121.67
+2024-10-20 23:29:35,115 - INV-144_Atia Latif - DEBUG - CGST Amount:121.67
+2024-10-20 23:29:35,115 - INV-144_Atia Latif - DEBUG - IGST Amount:None
+2024-10-20 23:29:35,115 - INV-144_Atia Latif - DEBUG - SGST Rate:18.0
+2024-10-20 23:29:35,115 - INV-144_Atia Latif - DEBUG - CGST Rate:18.0
+2024-10-20 23:29:35,115 - INV-144_Atia Latif - DEBUG - IGST Rate:None
+2024-10-20 23:29:35,115 - INV-144_Atia Latif - DEBUG - --------------------------
+2024-10-20 23:29:35,115 - INV-144_Atia Latif - DEBUG - Lab test - full body checkup  2,000.00 36,000.000.00 (0%)6,000.00
+2024-10-20 23:29:35,116 - INV-144_Atia Latif - DEBUG - Amount:6,000.00
+2024-10-20 23:29:35,116 - INV-144_Atia Latif - DEBUG - Tax Pecentage:0.0
+2024-10-20 23:29:35,116 - INV-144_Atia Latif - DEBUG - Tax Amount:0.00
+2024-10-20 23:29:35,116 - INV-144_Atia Latif - DEBUG - Taxable Value:6,000.00
+2024-10-20 23:29:35,116 - INV-144_Atia Latif - DEBUG - Quantity:3
+2024-10-20 23:29:35,116 - INV-144_Atia Latif - DEBUG - Discount:None
+2024-10-20 23:29:35,116 - INV-144_Atia Latif - DEBUG - Cost Price:2,000.00
+2024-10-20 23:29:35,116 - INV-144_Atia Latif - DEBUG - Rate:2,000.00
+2024-10-20 23:29:35,116 - INV-144_Atia Latif - DEBUG - Item:Lab test - full body checkup
+2024-10-20 23:29:35,116 - INV-144_Atia Latif - DEBUG - SGST Amount:0.0
+2024-10-20 23:29:35,116 - INV-144_Atia Latif - DEBUG - CGST Amount:0.0
+2024-10-20 23:29:35,116 - INV-144_Atia Latif - DEBUG - IGST Amount:None
+2024-10-20 23:29:35,116 - INV-144_Atia Latif - DEBUG - SGST Rate:0.0
+2024-10-20 23:29:35,116 - INV-144_Atia Latif - DEBUG - CGST Rate:0.0
+2024-10-20 23:29:35,116 - INV-144_Atia Latif - DEBUG - IGST Rate:None
+2024-10-20 23:29:35,116 - INV-144_Atia Latif - DEBUG - --------------------------
+2024-10-20 23:29:35,116 - INV-144_Atia Latif - DEBUG - GFC PRP 11,600.00 111,600.001,392.00 (12%)12,992.00
+2024-10-20 23:29:35,116 - INV-144_Atia Latif - DEBUG - Amount:12,992.00
+2024-10-20 23:29:35,116 - INV-144_Atia Latif - DEBUG - Tax Pecentage:12.0
+2024-10-20 23:29:35,116 - INV-144_Atia Latif - DEBUG - Tax Amount:1,392.00
+2024-10-20 23:29:35,116 - INV-144_Atia Latif - DEBUG - Taxable Value:11,600.00
+2024-10-20 23:29:35,116 - INV-144_Atia Latif - DEBUG - Quantity:1
+2024-10-20 23:29:35,116 - INV-144_Atia Latif - DEBUG - Discount:None
+2024-10-20 23:29:35,116 - INV-144_Atia Latif - DEBUG - Cost Price:11,600.00
+2024-10-20 23:29:35,116 - INV-144_Atia Latif - DEBUG - Rate:11,600.00
+2024-10-20 23:29:35,116 - INV-144_Atia Latif - DEBUG - Item:GFC PRP
+2024-10-20 23:29:35,116 - INV-144_Atia Latif - DEBUG - SGST Amount:696.0
+2024-10-20 23:29:35,116 - INV-144_Atia Latif - DEBUG - CGST Amount:696.0
+2024-10-20 23:29:35,116 - INV-144_Atia Latif - DEBUG - IGST Amount:None
+2024-10-20 23:29:35,116 - INV-144_Atia Latif - DEBUG - SGST Rate:12.0
+2024-10-20 23:29:35,116 - INV-144_Atia Latif - DEBUG - CGST Rate:12.0
+2024-10-20 23:29:35,116 - INV-144_Atia Latif - DEBUG - IGST Rate:None
+2024-10-20 23:29:35,116 - INV-144_Atia Latif - DEBUG - --------------------------
+2024-10-20 23:29:35,116 - INV-144_Atia Latif - INFO - Extracted data from list of items purchased.
+2024-10-20 23:29:35,116 - INV-144_Atia Latif.log - DEBUG - Checking invoice number: INV-144
+2024-10-20 23:29:35,116 - INV-144_Atia Latif.log - DEBUG - Invoice number passed pattern check
+2024-10-20 23:29:35,116 - INV-144_Atia Latif.log - DEBUG - Parsed invoice date: 2024-03-28 00:00:00
+2024-10-20 23:29:35,116 - INV-144_Atia Latif.log - DEBUG - Parsed due date: 2024-03-28 00:00:00
+2024-10-20 23:29:35,116 - INV-144_Atia Latif.log - DEBUG - Invoice date check passed
+2024-10-20 23:29:35,116 - INV-144_Atia Latif.log - DEBUG - Due date check passed
+2024-10-20 23:29:35,116 - INV-144_Atia Latif.log - DEBUG - Date logic check passed
+2024-10-20 23:29:35,116 - INV-144_Atia Latif.log - DEBUG - Calculated total amount: 24047.4, expected: 24047.0
+2024-10-20 23:29:35,116 - INV-144_Atia Latif.log - DEBUG - Total amount consistency check passed
+2024-10-20 23:29:35,116 - INV-144_Atia Latif.log - DEBUG - Valid tax percentage count: 5
+2024-10-20 23:29:35,116 - INV-144_Atia Latif.log - DEBUG - Valid quantity count: 5
+2024-10-20 23:29:35,116 - INV-144_Atia Latif.log - INFO - Final confidence score: 1.0

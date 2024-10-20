@@ -1,0 +1,55 @@
+{
+    "invoice_number": "INV-107",
+    "invoice_date": "29 Jan 2024",
+    "due_date": "29 Jan 2024",
+    "gstin": "23AADCU2395N1ZY",
+    "place_of_supply": "23-MADHYA PRADESH",
+    "total_amount": 2634.0,
+    "sale_info": {
+        "items": [
+            "Bioderma Pigmentbio C-concentrate"
+        ],
+        "rate": [
+            2232.33
+        ],
+        "cost_price": [
+            2626.27
+        ],
+        "discount": [
+            "-15%"
+        ],
+        "quantity": [
+            "1 PCS"
+        ],
+        "taxable_value": [
+            2232.33
+        ],
+        "tax_amount": [
+            401.82
+        ],
+        "tax_percentage": [
+            18.0
+        ],
+        "amount": [
+            2634.15
+        ],
+        "sgst_amount": [
+            200.91
+        ],
+        "cgst_amount": [
+            200.91
+        ],
+        "igst_amount": [
+            null
+        ],
+        "sgst_rate": [
+            18.0
+        ],
+        "cgst_rate": [
+            18.0
+        ],
+        "igst_rate": [
+            null
+        ]
+    }
+}

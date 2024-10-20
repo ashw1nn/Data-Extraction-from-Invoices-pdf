@@ -1,0 +1,100 @@
+{
+    "invoice_number": "INV-146",
+    "invoice_date": "29 Mar 2024",
+    "due_date": "29 Mar 2024",
+    "gstin": "23AADCU2395N1ZY",
+    "place_of_supply": "23-MADHYA PRADESH",
+    "total_amount": 3877.0,
+    "sale_info": {
+        "items": [
+            "Cetaphil DAM Advance Ultra-Hydrati- ng Lotion Face - 100 gm",
+            "Ahaglow Advanced Skin Rejuvenating  Face Wash Gel",
+            "Acutret 20 mg - 10 capsules  206.43 258.04 (-20%)6 STRP1,238.57148.63 (12%)1,387.20 4 Faireye under eye cream",
+            "Biluma cream - 15 gm"
+        ],
+        "rate": [
+            395.08,
+            556.34,
+            695.8,
+            462.37
+        ],
+        "cost_price": [
+            438.98,
+            632.2,
+            790.68,
+            525.42
+        ],
+        "discount": [
+            "-10%",
+            "-12%",
+            "-12%",
+            "-12%"
+        ],
+        "quantity": [
+            "1 TUB",
+            "1 PAC",
+            "1",
+            "1 PAC"
+        ],
+        "taxable_value": [
+            395.08,
+            556.34,
+            695.8,
+            462.37
+        ],
+        "tax_amount": [
+            71.12,
+            100.14,
+            125.24,
+            83.23
+        ],
+        "tax_percentage": [
+            18.0,
+            18.0,
+            18.0,
+            18.0
+        ],
+        "amount": [
+            466.2,
+            656.48,
+            821.04,
+            545.6
+        ],
+        "sgst_amount": [
+            35.56,
+            50.07,
+            62.62,
+            41.615
+        ],
+        "cgst_amount": [
+            35.56,
+            50.07,
+            62.62,
+            41.615
+        ],
+        "igst_amount": [
+            null,
+            null,
+            null,
+            null
+        ],
+        "sgst_rate": [
+            18.0,
+            18.0,
+            18.0,
+            18.0
+        ],
+        "cgst_rate": [
+            18.0,
+            18.0,
+            18.0,
+            18.0
+        ],
+        "igst_rate": [
+            null,
+            null,
+            null,
+            null
+        ]
+    }
+}

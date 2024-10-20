@@ -1,0 +1,78 @@
+2024-10-20 23:29:35,609 - INV-134_Sheetal Kapur - DEBUG - Logger initialized and logging to file.
+2024-10-20 23:29:35,609 - INV-134_Sheetal Kapur - INFO - Initializing PDF reader for file: Jan to Mar/INV-134_Sheetal Kapur.pdf
+2024-10-20 23:29:35,610 - INV-134_Sheetal Kapur - INFO - PDF reader initialized successfully.
+2024-10-20 23:29:35,610 - INV-134_Sheetal Kapur - INFO - PDF contains only 1 page, Extracting data from PDF...
+2024-10-20 23:29:35,625 - INV-134_Sheetal Kapur - DEBUG - TA X  I N V O I C E O R I G I N A L  F O R  R E C I P I E N T 
+UNCUE DERMACARE PRIVATE LIMITED
+GSTIN 23AADCU2395N1ZY     
+C/o KARUNA GUPTA KURELE, 1st Floor
+S.P Bungalow Ke Pichhe, Shoagpur Shahdol, Shahdol
+Shahdol, MADHYA PRADESH, 484001
+Mobile +91 8585960963   Email ruhi@dermaq.in
+Invoice #: INV-134 Invoice Date: 01 Mar 2024 Due Date: 01 Mar 2024
+Customer Details:
+Sheetal Kapur
+Place of Supply: 
+23-MADHYA PRADESH
+#Item Rate / Item QtyTaxable ValueTax AmountAmount
+1ATODERM Moisturiser  723.77
+761.86 (-5%)1 BTL723.77130.28 (18%)854.05
+Taxable Amount ₹723.77
+CGST 9.0% ₹65.14
+SGST 9.0% ₹65.14
+Round Off -0.05
+Total ₹854.00
+Total Discount ₹44.95
+Total Items / Qty : 1 / 1.000 Total amount (in words):  INR Eight Hundred And Fifty-Four Rupees Only .
+Amount Paid
+Pay using UPI: 
+Bank Details:
+Bank:Kotak Mahindra Bank
+Account #: 1146860541
+IFSC Code: kkbk0000725
+Branch: PUNE - CHINCHWAD
+UnCue Dermacare Pvt LtdFor UNCUE DERMACARE PRIVATE LIMITED  
+Authorized Signatory 
+Swipe | Simple Invoicing, Billing and Payments | Visit getswipe.in
+Page 1 / 1 This is a computer generated document and requires no signature.Powered By
+
+2024-10-20 23:29:35,625 - INV-134_Sheetal Kapur - INFO - Extracted basic data from PDF
+2024-10-20 23:29:35,625 - INV-134_Sheetal Kapur - DEBUG - Invoice Number: INV-134
+2024-10-20 23:29:35,625 - INV-134_Sheetal Kapur - DEBUG - Invoice Date: 01 Mar 2024
+2024-10-20 23:29:35,625 - INV-134_Sheetal Kapur - DEBUG - Due Date: 01 Mar 2024
+2024-10-20 23:29:35,625 - INV-134_Sheetal Kapur - DEBUG - GSTIN: 23AADCU2395N1ZY
+2024-10-20 23:29:35,625 - INV-134_Sheetal Kapur - DEBUG - Total Amount: ₹854.0
+2024-10-20 23:29:35,625 - INV-134_Sheetal Kapur - DEBUG - Place of Supply: 23-MADHYA PRADESH
+2024-10-20 23:29:35,625 - INV-134_Sheetal Kapur - DEBUG - 1ATODERM Moisturiser  723.77
+761.86 (-5%)1 BTL723.77130.28 (18%)854.05
+2024-10-20 23:29:35,625 - INV-134_Sheetal Kapur - INFO - Extracting data from list of items purchased...
+2024-10-20 23:29:35,625 - INV-134_Sheetal Kapur - DEBUG - ATODERM Moisturiser  723.77 761.86 (-5%)1 BTL723.77130.28 (18%)854.05
+2024-10-20 23:29:35,625 - INV-134_Sheetal Kapur - DEBUG - Amount:854.05
+2024-10-20 23:29:35,625 - INV-134_Sheetal Kapur - DEBUG - Tax Pecentage:18.0
+2024-10-20 23:29:35,625 - INV-134_Sheetal Kapur - DEBUG - Tax Amount:130.28
+2024-10-20 23:29:35,625 - INV-134_Sheetal Kapur - DEBUG - Taxable Value:723.77
+2024-10-20 23:29:35,625 - INV-134_Sheetal Kapur - DEBUG - Quantity:1 BTL
+2024-10-20 23:29:35,625 - INV-134_Sheetal Kapur - DEBUG - Discount:-5%
+2024-10-20 23:29:35,625 - INV-134_Sheetal Kapur - DEBUG - Cost Price:761.86
+2024-10-20 23:29:35,625 - INV-134_Sheetal Kapur - DEBUG - Rate:723.77
+2024-10-20 23:29:35,625 - INV-134_Sheetal Kapur - DEBUG - Item:ATODERM Moisturiser
+2024-10-20 23:29:35,625 - INV-134_Sheetal Kapur - DEBUG - SGST Amount:65.14
+2024-10-20 23:29:35,625 - INV-134_Sheetal Kapur - DEBUG - CGST Amount:65.14
+2024-10-20 23:29:35,625 - INV-134_Sheetal Kapur - DEBUG - IGST Amount:None
+2024-10-20 23:29:35,625 - INV-134_Sheetal Kapur - DEBUG - SGST Rate:18.0
+2024-10-20 23:29:35,625 - INV-134_Sheetal Kapur - DEBUG - CGST Rate:18.0
+2024-10-20 23:29:35,625 - INV-134_Sheetal Kapur - DEBUG - IGST Rate:None
+2024-10-20 23:29:35,625 - INV-134_Sheetal Kapur - DEBUG - --------------------------
+2024-10-20 23:29:35,625 - INV-134_Sheetal Kapur - INFO - Extracted data from list of items purchased.
+2024-10-20 23:29:35,625 - INV-134_Sheetal Kapur.log - DEBUG - Checking invoice number: INV-134
+2024-10-20 23:29:35,625 - INV-134_Sheetal Kapur.log - DEBUG - Invoice number passed pattern check
+2024-10-20 23:29:35,625 - INV-134_Sheetal Kapur.log - DEBUG - Parsed invoice date: 2024-03-01 00:00:00
+2024-10-20 23:29:35,625 - INV-134_Sheetal Kapur.log - DEBUG - Parsed due date: 2024-03-01 00:00:00
+2024-10-20 23:29:35,625 - INV-134_Sheetal Kapur.log - DEBUG - Invoice date check passed
+2024-10-20 23:29:35,625 - INV-134_Sheetal Kapur.log - DEBUG - Due date check passed
+2024-10-20 23:29:35,625 - INV-134_Sheetal Kapur.log - DEBUG - Date logic check passed
+2024-10-20 23:29:35,625 - INV-134_Sheetal Kapur.log - DEBUG - Calculated total amount: 854.05, expected: 854.0
+2024-10-20 23:29:35,625 - INV-134_Sheetal Kapur.log - DEBUG - Total amount consistency check passed
+2024-10-20 23:29:35,625 - INV-134_Sheetal Kapur.log - DEBUG - Valid tax percentage count: 1
+2024-10-20 23:29:35,626 - INV-134_Sheetal Kapur.log - DEBUG - Valid quantity count: 1
+2024-10-20 23:29:35,626 - INV-134_Sheetal Kapur.log - INFO - Final confidence score: 1.0

@@ -1,0 +1,130 @@
+{
+    "invoice_number": "INV-104",
+    "invoice_date": "27 Jan 2024",
+    "due_date": "27 Jan 2024",
+    "gstin": "23AADCU2395N1ZY",
+    "place_of_supply": "23-MADHYA PRADESH",
+    "total_amount": 6219.0,
+    "sale_info": {
+        "items": [
+            "Cutacapil Stem - 60 ml",
+            "Follihair AMPM Tablet Gluten Free - 20  tablets",
+            "Dermaq Basic Hair Test Men - B12, V-D  & TST",
+            "Arachitol Nano (60k) 4*5ml  340.",
+            "Dermatologist Consultation",
+            "Vitamin b12 test"
+        ],
+        "rate": [
+            1029.15,
+            326.64,
+            849.0,
+            null,
+            350.0,
+            349.0
+        ],
+        "cost_price": [
+            1169.49,
+            371.19,
+            899.0,
+            null,
+            350.0,
+            399.0
+        ],
+        "discount": [
+            "-12%",
+            "-12%",
+            "-5.56%",
+            null,
+            null,
+            "-12.53%"
+        ],
+        "quantity": [
+            "1 BTL",
+            "6 STRP",
+            "1",
+            "433 BTL",
+            "1",
+            "1"
+        ],
+        "taxable_value": [
+            1029.15,
+            1959.86,
+            849.0,
+            1021.29,
+            350.0,
+            349.0
+        ],
+        "tax_amount": [
+            185.25,
+            352.78,
+            0.0,
+            122.55,
+            0.0,
+            0.0
+        ],
+        "tax_percentage": [
+            18.0,
+            18.0,
+            0.0,
+            12.0,
+            0.0,
+            0.0
+        ],
+        "amount": [
+            1214.4,
+            2312.64,
+            849.0,
+            1143.84,
+            350.0,
+            349.0
+        ],
+        "sgst_amount": [
+            92.625,
+            176.39,
+            0.0,
+            61.275,
+            0.0,
+            0.0
+        ],
+        "cgst_amount": [
+            92.625,
+            176.39,
+            0.0,
+            61.275,
+            0.0,
+            0.0
+        ],
+        "igst_amount": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "sgst_rate": [
+            18.0,
+            18.0,
+            0.0,
+            12.0,
+            0.0,
+            0.0
+        ],
+        "cgst_rate": [
+            18.0,
+            18.0,
+            0.0,
+            12.0,
+            0.0,
+            0.0
+        ],
+        "igst_rate": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ]
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "invoice_number": "INV-149",
+    "invoice_date": "22 Mar 2024",
+    "due_date": "01 Apr 2024",
+    "gstin": "23AADCU2395N1ZY",
+    "place_of_supply": "23-MADHYA PRADESH",
+    "total_amount": 437.0,
+    "sale_info": {
+        "items": [
+            "Excela Moisturiser - 50 gm"
+        ],
+        "rate": [
+            370.64
+        ],
+        "cost_price": [
+            421.19
+        ],
+        "discount": [
+            "-12%"
+        ],
+        "quantity": [
+            "1 BTL"
+        ],
+        "taxable_value": [
+            370.64
+        ],
+        "tax_amount": [
+            66.72
+        ],
+        "tax_percentage": [
+            18.0
+        ],
+        "amount": [
+            437.36
+        ],
+        "sgst_amount": [
+            33.36
+        ],
+        "cgst_amount": [
+            33.36
+        ],
+        "igst_amount": [
+            null
+        ],
+        "sgst_rate": [
+            18.0
+        ],
+        "cgst_rate": [
+            18.0
+        ],
+        "igst_rate": [
+            null
+        ]
+    }
+}

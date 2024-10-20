@@ -1,0 +1,70 @@
+{
+    "invoice_number": "INV-143",
+    "invoice_date": "28 Mar 2024",
+    "due_date": "28 Mar 2024",
+    "gstin": "23AADCU2395N1ZY",
+    "place_of_supply": "23-MADHYA PRADESH",
+    "total_amount": 7612.0,
+    "sale_info": {
+        "items": [
+            "Arachitol",
+            "PRP"
+        ],
+        "rate": [
+            317.86,
+            2169.49
+        ],
+        "cost_price": [
+            317.86,
+            2542.37
+        ],
+        "discount": [
+            null,
+            "-14.67%"
+        ],
+        "quantity": [
+            "7",
+            "2"
+        ],
+        "taxable_value": [
+            2225.0,
+            4338.98
+        ],
+        "tax_amount": [
+            267.0,
+            781.02
+        ],
+        "tax_percentage": [
+            12.0,
+            18.0
+        ],
+        "amount": [
+            2492.0,
+            5120.0
+        ],
+        "sgst_amount": [
+            133.5,
+            390.51
+        ],
+        "cgst_amount": [
+            133.5,
+            390.51
+        ],
+        "igst_amount": [
+            null,
+            null
+        ],
+        "sgst_rate": [
+            12.0,
+            18.0
+        ],
+        "cgst_rate": [
+            12.0,
+            18.0
+        ],
+        "igst_rate": [
+            null,
+            null
+        ]
+    }
+}

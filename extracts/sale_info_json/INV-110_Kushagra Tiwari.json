@@ -1,0 +1,70 @@
+{
+    "invoice_number": "INV-110",
+    "invoice_date": "29 Jan 2024",
+    "due_date": "29 Jan 2024",
+    "gstin": "23AADCU2395N1ZY",
+    "place_of_supply": "23-MADHYA PRADESH",
+    "total_amount": 1680.0,
+    "sale_info": {
+        "items": [
+            "Arachitol Nano (60k) 4*5ml",
+            "ME-12 OD (15 tabs)"
+        ],
+        "rate": [
+            299.58,
+            100.18
+        ],
+        "cost_price": [
+            340.43,
+            113.84
+        ],
+        "discount": [
+            "-12%",
+            "-12%"
+        ],
+        "quantity": [
+            "3 BTL",
+            "6 STRP"
+        ],
+        "taxable_value": [
+            898.73,
+            601.07
+        ],
+        "tax_amount": [
+            107.85,
+            72.13
+        ],
+        "tax_percentage": [
+            12.0,
+            12.0
+        ],
+        "amount": [
+            1006.58,
+            673.2
+        ],
+        "sgst_amount": [
+            53.925,
+            36.065
+        ],
+        "cgst_amount": [
+            53.925,
+            36.065
+        ],
+        "igst_amount": [
+            null,
+            null
+        ],
+        "sgst_rate": [
+            12.0,
+            12.0
+        ],
+        "cgst_rate": [
+            12.0,
+            12.0
+        ],
+        "igst_rate": [
+            null,
+            null
+        ]
+    }
+}

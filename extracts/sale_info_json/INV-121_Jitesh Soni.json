@@ -1,0 +1,70 @@
+{
+    "invoice_number": "INV-121",
+    "invoice_date": "29 Jan 2024",
+    "due_date": "29 Jan 2024",
+    "gstin": "23AADCU2395N1ZY",
+    "place_of_supply": "27-MAHARASHTRA \n",
+    "total_amount": 1010.0,
+    "sale_info": {
+        "items": [
+            "Acne-UV Gel - spf 50 (50 gm)",
+            "Arachitol Nano (60k) 4*5ml"
+        ],
+        "rate": [
+            581.57,
+            289.36
+        ],
+        "cost_price": [
+            775.42,
+            340.43
+        ],
+        "discount": [
+            "-25%",
+            "-15%"
+        ],
+        "quantity": [
+            "1 PAC",
+            "1 BTL"
+        ],
+        "taxable_value": [
+            581.57,
+            289.36
+        ],
+        "tax_amount": [
+            104.68,
+            34.72
+        ],
+        "tax_percentage": [
+            18.0,
+            12.0
+        ],
+        "amount": [
+            686.25,
+            324.09
+        ],
+        "sgst_amount": [
+            null,
+            null
+        ],
+        "cgst_amount": [
+            null,
+            null
+        ],
+        "igst_amount": [
+            104.68,
+            34.72
+        ],
+        "sgst_rate": [
+            null,
+            null
+        ],
+        "cgst_rate": [
+            null,
+            null
+        ],
+        "igst_rate": [
+            18.0,
+            12.0
+        ]
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "invoice_number": "INV-129",
+    "invoice_date": "23 Feb 2024",
+    "due_date": "23 Feb 2024",
+    "gstin": "23AADCU2395N1ZY",
+    "place_of_supply": "23-MADHYA PRADESH",
+    "total_amount": 1267.0,
+    "sale_info": {
+        "items": [
+            "sotret nf 16 mg - 10 capsules",
+            "Ekran Aqua Sunscreen Spf 30"
+        ],
+        "rate": [
+            282.86,
+            268.47
+        ],
+        "cost_price": [
+            321.43,
+            305.08
+        ],
+        "discount": [
+            "-12%",
+            "-12%"
+        ],
+        "quantity": [
+            "3 STRP",
+            "1 PAC"
+        ],
+        "taxable_value": [
+            848.57,
+            268.47
+        ],
+        "tax_amount": [
+            101.83,
+            48.33
+        ],
+        "tax_percentage": [
+            12.0,
+            18.0
+        ],
+        "amount": [
+            950.4,
+            316.8
+        ],
+        "sgst_amount": [
+            50.915,
+            24.165
+        ],
+        "cgst_amount": [
+            50.915,
+            24.165
+        ],
+        "igst_amount": [
+            null,
+            null
+        ],
+        "sgst_rate": [
+            12.0,
+            18.0
+        ],
+        "cgst_rate": [
+            12.0,
+            18.0
+        ],
+        "igst_rate": [
+            null,
+            null
+        ]
+    }
+}

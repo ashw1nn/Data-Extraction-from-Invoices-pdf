@@ -1,0 +1,115 @@
+{
+    "invoice_number": "INV-133",
+    "invoice_date": "01 Mar 2024",
+    "due_date": "01 Mar 2024",
+    "gstin": "23AADCU2395N1ZY",
+    "place_of_supply": "23-MADHYA PRADESH",
+    "total_amount": 2702.0,
+    "sale_info": {
+        "items": [
+            "Glogeous facewash",
+            "Bristaa Intense Cream",
+            "Anaboom AD Lotion - 50 ml",
+            "Anaboom AD Shampoo",
+            "Acutret 5 mg"
+        ],
+        "rate": [
+            785.17,
+            749.95,
+            233.39,
+            290.1,
+            81.18
+        ],
+        "cost_price": [
+            923.73,
+            872.03,
+            274.58,
+            329.66,
+            101.47
+        ],
+        "discount": [
+            "-15%",
+            "-14%",
+            "-15%",
+            "-12%",
+            "-20%"
+        ],
+        "quantity": [
+            "1 BTL",
+            "1 BTL",
+            "1 BTL",
+            "1 BTL",
+            "3 STRP"
+        ],
+        "taxable_value": [
+            785.17,
+            749.95,
+            233.39,
+            290.1,
+            243.54
+        ],
+        "tax_amount": [
+            141.33,
+            134.99,
+            42.01,
+            52.22,
+            29.22
+        ],
+        "tax_percentage": [
+            18.0,
+            18.0,
+            18.0,
+            18.0,
+            12.0
+        ],
+        "amount": [
+            926.5,
+            884.94,
+            275.4,
+            342.32,
+            272.76
+        ],
+        "sgst_amount": [
+            70.665,
+            67.495,
+            21.005,
+            26.11,
+            14.61
+        ],
+        "cgst_amount": [
+            70.665,
+            67.495,
+            21.005,
+            26.11,
+            14.61
+        ],
+        "igst_amount": [
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "sgst_rate": [
+            18.0,
+            18.0,
+            18.0,
+            18.0,
+            12.0
+        ],
+        "cgst_rate": [
+            18.0,
+            18.0,
+            18.0,
+            18.0,
+            12.0
+        ],
+        "igst_rate": [
+            null,
+            null,
+            null,
+            null,
+            null
+        ]
+    }
+}

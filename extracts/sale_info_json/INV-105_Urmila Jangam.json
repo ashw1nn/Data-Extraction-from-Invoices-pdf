@@ -1,0 +1,85 @@
+{
+    "invoice_number": "INV-105",
+    "invoice_date": "27 Jan 2024",
+    "due_date": "27 Jan 2024",
+    "gstin": "23AADCU2395N1ZY",
+    "place_of_supply": "23-MADHYA PRADESH",
+    "total_amount": 2328.0,
+    "sale_info": {
+        "items": [
+            "Acne-UV Gel - spf 50 (50 gm)",
+            "keraglo Eva - 30 Tablet",
+            "Cetaphil Moisturising Lotion with Avo- cado Oil, Vitamin E, B3 & B5 - 250 ml"
+        ],
+        "rate": [
+            620.34,
+            488.14,
+            864.34
+        ],
+        "cost_price": [
+            775.42,
+            610.17,
+            982.2
+        ],
+        "discount": [
+            "-20%",
+            "-20%",
+            "-12%"
+        ],
+        "quantity": [
+            "1 PAC",
+            "1 BTL",
+            "1 BTL"
+        ],
+        "taxable_value": [
+            620.34,
+            488.14,
+            864.34
+        ],
+        "tax_amount": [
+            111.66,
+            87.86,
+            155.58
+        ],
+        "tax_percentage": [
+            18.0,
+            18.0,
+            18.0
+        ],
+        "amount": [
+            732.0,
+            576.0,
+            1019.92
+        ],
+        "sgst_amount": [
+            55.83,
+            43.93,
+            77.79
+        ],
+        "cgst_amount": [
+            55.83,
+            43.93,
+            77.79
+        ],
+        "igst_amount": [
+            null,
+            null,
+            null
+        ],
+        "sgst_rate": [
+            18.0,
+            18.0,
+            18.0
+        ],
+        "cgst_rate": [
+            18.0,
+            18.0,
+            18.0
+        ],
+        "igst_rate": [
+            null,
+            null,
+            null
+        ]
+    }
+}

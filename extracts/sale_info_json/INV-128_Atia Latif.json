@@ -1,0 +1,55 @@
+{
+    "invoice_number": "INV-128",
+    "invoice_date": "23 Feb 2024",
+    "due_date": "23 Feb 2024",
+    "gstin": "23AADCU2395N1ZY",
+    "place_of_supply": "23-MADHYA PRADESH",
+    "total_amount": 2450.0,
+    "sale_info": {
+        "items": [
+            "Hydrafacial"
+        ],
+        "rate": [
+            2076.27
+        ],
+        "cost_price": [
+            2542.37
+        ],
+        "discount": [
+            "-18.33%"
+        ],
+        "quantity": [
+            "1"
+        ],
+        "taxable_value": [
+            2076.27
+        ],
+        "tax_amount": [
+            373.73
+        ],
+        "tax_percentage": [
+            18.0
+        ],
+        "amount": [
+            2450.0
+        ],
+        "sgst_amount": [
+            186.865
+        ],
+        "cgst_amount": [
+            186.865
+        ],
+        "igst_amount": [
+            null
+        ],
+        "sgst_rate": [
+            18.0
+        ],
+        "cgst_rate": [
+            18.0
+        ],
+        "igst_rate": [
+            null
+        ]
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "invoice_number": "INV-134",
+    "invoice_date": "01 Mar 2024",
+    "due_date": "01 Mar 2024",
+    "gstin": "23AADCU2395N1ZY",
+    "place_of_supply": "23-MADHYA PRADESH",
+    "total_amount": 854.0,
+    "sale_info": {
+        "items": [
+            "ATODERM Moisturiser"
+        ],
+        "rate": [
+            723.77
+        ],
+        "cost_price": [
+            761.86
+        ],
+        "discount": [
+            "-5%"
+        ],
+        "quantity": [
+            "1 BTL"
+        ],
+        "taxable_value": [
+            723.77
+        ],
+        "tax_amount": [
+            130.28
+        ],
+        "tax_percentage": [
+            18.0
+        ],
+        "amount": [
+            854.05
+        ],
+        "sgst_amount": [
+            65.14
+        ],
+        "cgst_amount": [
+            65.14
+        ],
+        "igst_amount": [
+            null
+        ],
+        "sgst_rate": [
+            18.0
+        ],
+        "cgst_rate": [
+            18.0
+        ],
+        "igst_rate": [
+            null
+        ]
+    }
+}

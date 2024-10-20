@@ -1,0 +1,8 @@
+ pandas
+PyPDF2
+pdf2image
+opencv-python-headless
+numpy
+pytesseract
+Pillow
+argparse

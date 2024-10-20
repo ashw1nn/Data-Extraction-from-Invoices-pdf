@@ -1,0 +1,70 @@
+{
+    "invoice_number": "INV-141",
+    "invoice_date": "06 Mar 2024",
+    "due_date": "06 Mar 2024",
+    "gstin": "23AADCU2395N1ZY",
+    "place_of_supply": "23-MADHYA PRADESH",
+    "total_amount": 1754.0,
+    "sale_info": {
+        "items": [
+            "Acne-UV Gel - spf 50 (50 gm)",
+            "Bioderma Sebium Hydra Moisturiser -  40 ml"
+        ],
+        "rate": [
+            620.34,
+            865.68
+        ],
+        "cost_price": [
+            775.42,
+            961.86
+        ],
+        "discount": [
+            "-20%",
+            "-10%"
+        ],
+        "quantity": [
+            "1 PAC",
+            "1"
+        ],
+        "taxable_value": [
+            620.34,
+            865.68
+        ],
+        "tax_amount": [
+            111.66,
+            155.82
+        ],
+        "tax_percentage": [
+            18.0,
+            18.0
+        ],
+        "amount": [
+            732.0,
+            1021.5
+        ],
+        "sgst_amount": [
+            55.83,
+            77.91
+        ],
+        "cgst_amount": [
+            55.83,
+            77.91
+        ],
+        "igst_amount": [
+            null,
+            null
+        ],
+        "sgst_rate": [
+            18.0,
+            18.0
+        ],
+        "cgst_rate": [
+            18.0,
+            18.0
+        ],
+        "igst_rate": [
+            null,
+            null
+        ]
+    }
+}

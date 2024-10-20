@@ -1,0 +1,85 @@
+{
+    "invoice_number": "INV-117",
+    "invoice_date": "01 Feb 2024",
+    "due_date": "29 Jan 2024",
+    "gstin": "23AADCU2395N1ZY",
+    "place_of_supply": "23-MADHYA PRADESH",
+    "total_amount": 1667.0,
+    "sale_info": {
+        "items": [
+            "Kera M 5% Solution",
+            "Arachitol Nano (60k) 4*5ml",
+            "Neurobion Forte - 30 tablets"
+        ],
+        "rate": [
+            492.86,
+            299.58,
+            30.58
+        ],
+        "cost_price": [
+            616.07,
+            340.43,
+            34.75
+        ],
+        "discount": [
+            "-20%",
+            "-12%",
+            "-12%"
+        ],
+        "quantity": [
+            "1 BTL",
+            "3 BTL",
+            "3 STRP"
+        ],
+        "taxable_value": [
+            492.86,
+            898.73,
+            91.73
+        ],
+        "tax_amount": [
+            59.14,
+            107.85,
+            16.51
+        ],
+        "tax_percentage": [
+            12.0,
+            12.0,
+            18.0
+        ],
+        "amount": [
+            552.0,
+            1006.58,
+            108.24
+        ],
+        "sgst_amount": [
+            29.57,
+            53.925,
+            8.255
+        ],
+        "cgst_amount": [
+            29.57,
+            53.925,
+            8.255
+        ],
+        "igst_amount": [
+            null,
+            null,
+            null
+        ],
+        "sgst_rate": [
+            12.0,
+            12.0,
+            18.0
+        ],
+        "cgst_rate": [
+            12.0,
+            12.0,
+            18.0
+        ],
+        "igst_rate": [
+            null,
+            null,
+            null
+        ]
+    }
+}

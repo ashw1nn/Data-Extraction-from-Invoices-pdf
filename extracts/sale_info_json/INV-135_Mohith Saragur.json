@@ -1,0 +1,85 @@
+{
+    "invoice_number": "INV-135",
+    "invoice_date": "01 Mar 2024",
+    "due_date": "01 Mar 2024",
+    "gstin": "23AADCU2395N1ZY",
+    "place_of_supply": "23-MADHYA PRADESH",
+    "total_amount": 793.0,
+    "sale_info": {
+        "items": [
+            "Tab flucon 400mg",
+            "Lupizol ZS Shampoo 100 ml",
+            "Anaboom AD Lotion - 50 ml"
+        ],
+        "rate": [
+            22.58,
+            369.91,
+            253.56
+        ],
+        "cost_price": [
+            28.23,
+            420.36,
+            288.14
+        ],
+        "discount": [
+            "-20%",
+            "-12%",
+            "-12%"
+        ],
+        "quantity": [
+            "3 STRP",
+            "1 BTL",
+            "1 BTL"
+        ],
+        "taxable_value": [
+            67.75,
+            369.91,
+            253.56
+        ],
+        "tax_amount": [
+            12.19,
+            44.39,
+            45.64
+        ],
+        "tax_percentage": [
+            18.0,
+            12.0,
+            18.0
+        ],
+        "amount": [
+            79.94,
+            414.3,
+            299.2
+        ],
+        "sgst_amount": [
+            6.095,
+            22.195,
+            22.82
+        ],
+        "cgst_amount": [
+            6.095,
+            22.195,
+            22.82
+        ],
+        "igst_amount": [
+            null,
+            null,
+            null
+        ],
+        "sgst_rate": [
+            18.0,
+            12.0,
+            18.0
+        ],
+        "cgst_rate": [
+            18.0,
+            12.0,
+            18.0
+        ],
+        "igst_rate": [
+            null,
+            null,
+            null
+        ]
+    }
+}

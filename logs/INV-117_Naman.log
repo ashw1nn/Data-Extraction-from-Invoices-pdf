@@ -1,0 +1,123 @@
+2024-10-20 23:29:35,054 - INV-117_Naman - DEBUG - Logger initialized and logging to file.
+2024-10-20 23:29:35,054 - INV-117_Naman - INFO - Initializing PDF reader for file: Jan to Mar/INV-117_Naman.pdf
+2024-10-20 23:29:35,054 - INV-117_Naman - INFO - PDF reader initialized successfully.
+2024-10-20 23:29:35,055 - INV-117_Naman - INFO - PDF contains only 1 page, Extracting data from PDF...
+2024-10-20 23:29:35,074 - INV-117_Naman - DEBUG - TA X  I N V O I C E O R I G I N A L  F O R  R E C I P I E N T 
+UNCUE DERMACARE PRIVATE LIMITED
+GSTIN 23AADCU2395N1ZY     
+C/o KARUNA GUPTA KURELE, 1st Floor
+S.P Bungalow Ke Pichhe, Shoagpur Shahdol, Shahdol
+Shahdol, MADHYA PRADESH, 484001
+Mobile +91 8585960963   Email ruhi@dermaq.in
+Invoice #: INV-117 Invoice Date: 01 Feb 2024 Due Date: 29 Jan 2024
+Customer Details:
+Naman
+Place of Supply: 
+23-MADHYA PRADESH
+#Item Rate / Item QtyTaxable ValueTax AmountAmount
+1Kera M 5% Solution 492.86
+616.07 (-20%)1 BTL492.8659.14 (12%)552.00
+2Arachitol Nano (60k) 4*5ml  299.58
+340.43 (-12%)3 BTL898.73107.85 (12%)1,006.58
+3Neurobion Forte - 30 tablets   30.58
+34.75 (-12%)3 STRP91.7316.51 (18%)108.24
+Taxable Amount ₹1,483.32
+CGST 6.0% ₹83.50
+SGST 6.0% ₹83.50
+CGST 9.0% ₹8.26
+SGST 9.0% ₹8.26
+Round Off 0.18
+Total₹1,667.00
+Total Discount ₹290.02
+Total Items / Qty : 3 / 7.000 Total amount (in words):  INR One Thousand, Six Hundred And Sixty-Seven Rupees Only .
+Amount Paid
+Pay using UPI: 
+Bank Details:
+Bank:Kotak Mahindra Bank
+Account #: 1146860541
+IFSC Code: kkbk0000725
+Branch: PUNE - CHINCHWAD
+UnCue Dermacare Pvt LtdFor UNCUE DERMACARE PRIVATE LIMITED  
+Authorized Signatory 
+Swipe | Simple Invoicing, Billing and Payments | Visit getswipe.in
+Page 1 / 1 This is a computer generated document and requires no signature.Powered By
+
+2024-10-20 23:29:35,074 - INV-117_Naman - INFO - Extracted basic data from PDF
+2024-10-20 23:29:35,074 - INV-117_Naman - DEBUG - Invoice Number: INV-117
+2024-10-20 23:29:35,074 - INV-117_Naman - DEBUG - Invoice Date: 01 Feb 2024
+2024-10-20 23:29:35,074 - INV-117_Naman - DEBUG - Due Date: 29 Jan 2024
+2024-10-20 23:29:35,074 - INV-117_Naman - DEBUG - GSTIN: 23AADCU2395N1ZY
+2024-10-20 23:29:35,074 - INV-117_Naman - DEBUG - Total Amount: ₹1667.0
+2024-10-20 23:29:35,074 - INV-117_Naman - DEBUG - Place of Supply: 23-MADHYA PRADESH
+2024-10-20 23:29:35,074 - INV-117_Naman - DEBUG - 1Kera M 5% Solution 492.86
+616.07 (-20%)1 BTL492.8659.14 (12%)552.00
+2Arachitol Nano (60k) 4*5ml  299.58
+340.43 (-12%)3 BTL898.73107.85 (12%)1,006.58
+3Neurobion Forte - 30 tablets   30.58
+34.75 (-12%)3 STRP91.7316.51 (18%)108.24
+2024-10-20 23:29:35,074 - INV-117_Naman - INFO - Extracting data from list of items purchased...
+2024-10-20 23:29:35,074 - INV-117_Naman - DEBUG - Kera M 5% Solution 492.86 616.07 (-20%)1 BTL492.8659.14 (12%)552.00
+2024-10-20 23:29:35,074 - INV-117_Naman - DEBUG - Amount:552.00
+2024-10-20 23:29:35,074 - INV-117_Naman - DEBUG - Tax Pecentage:12.0
+2024-10-20 23:29:35,074 - INV-117_Naman - DEBUG - Tax Amount:59.14
+2024-10-20 23:29:35,074 - INV-117_Naman - DEBUG - Taxable Value:492.86
+2024-10-20 23:29:35,074 - INV-117_Naman - DEBUG - Quantity:1 BTL
+2024-10-20 23:29:35,074 - INV-117_Naman - DEBUG - Discount:-20%
+2024-10-20 23:29:35,074 - INV-117_Naman - DEBUG - Cost Price:616.07
+2024-10-20 23:29:35,074 - INV-117_Naman - DEBUG - Rate:492.86
+2024-10-20 23:29:35,074 - INV-117_Naman - DEBUG - Item:Kera M 5% Solution
+2024-10-20 23:29:35,074 - INV-117_Naman - DEBUG - SGST Amount:29.57
+2024-10-20 23:29:35,074 - INV-117_Naman - DEBUG - CGST Amount:29.57
+2024-10-20 23:29:35,074 - INV-117_Naman - DEBUG - IGST Amount:None
+2024-10-20 23:29:35,074 - INV-117_Naman - DEBUG - SGST Rate:12.0
+2024-10-20 23:29:35,074 - INV-117_Naman - DEBUG - CGST Rate:12.0
+2024-10-20 23:29:35,074 - INV-117_Naman - DEBUG - IGST Rate:None
+2024-10-20 23:29:35,074 - INV-117_Naman - DEBUG - --------------------------
+2024-10-20 23:29:35,074 - INV-117_Naman - DEBUG - Arachitol Nano (60k) 4*5ml  299.58 340.43 (-12%)3 BTL898.73107.85 (12%)1,006.58
+2024-10-20 23:29:35,074 - INV-117_Naman - DEBUG - Amount:1,006.58
+2024-10-20 23:29:35,074 - INV-117_Naman - DEBUG - Tax Pecentage:12.0
+2024-10-20 23:29:35,074 - INV-117_Naman - DEBUG - Tax Amount:107.85
+2024-10-20 23:29:35,074 - INV-117_Naman - DEBUG - Taxable Value:898.73
+2024-10-20 23:29:35,074 - INV-117_Naman - DEBUG - Quantity:3 BTL
+2024-10-20 23:29:35,074 - INV-117_Naman - DEBUG - Discount:-12%
+2024-10-20 23:29:35,074 - INV-117_Naman - DEBUG - Cost Price:340.43
+2024-10-20 23:29:35,074 - INV-117_Naman - DEBUG - Rate:299.58
+2024-10-20 23:29:35,074 - INV-117_Naman - DEBUG - Item:Arachitol Nano (60k) 4*5ml
+2024-10-20 23:29:35,074 - INV-117_Naman - DEBUG - SGST Amount:53.925
+2024-10-20 23:29:35,074 - INV-117_Naman - DEBUG - CGST Amount:53.925
+2024-10-20 23:29:35,074 - INV-117_Naman - DEBUG - IGST Amount:None
+2024-10-20 23:29:35,074 - INV-117_Naman - DEBUG - SGST Rate:12.0
+2024-10-20 23:29:35,074 - INV-117_Naman - DEBUG - CGST Rate:12.0
+2024-10-20 23:29:35,074 - INV-117_Naman - DEBUG - IGST Rate:None
+2024-10-20 23:29:35,074 - INV-117_Naman - DEBUG - --------------------------
+2024-10-20 23:29:35,074 - INV-117_Naman - DEBUG - Neurobion Forte - 30 tablets   30.58 34.75 (-12%)3 STRP91.7316.51 (18%)108.24
+2024-10-20 23:29:35,074 - INV-117_Naman - DEBUG - Amount:108.24
+2024-10-20 23:29:35,074 - INV-117_Naman - DEBUG - Tax Pecentage:18.0
+2024-10-20 23:29:35,074 - INV-117_Naman - DEBUG - Tax Amount:16.51
+2024-10-20 23:29:35,074 - INV-117_Naman - DEBUG - Taxable Value:91.73
+2024-10-20 23:29:35,074 - INV-117_Naman - DEBUG - Quantity:3 STRP
+2024-10-20 23:29:35,074 - INV-117_Naman - DEBUG - Discount:-12%
+2024-10-20 23:29:35,074 - INV-117_Naman - DEBUG - Cost Price:34.75
+2024-10-20 23:29:35,074 - INV-117_Naman - DEBUG - Rate:30.58
+2024-10-20 23:29:35,074 - INV-117_Naman - DEBUG - Item:Neurobion Forte - 30 tablets
+2024-10-20 23:29:35,074 - INV-117_Naman - DEBUG - SGST Amount:8.255
+2024-10-20 23:29:35,074 - INV-117_Naman - DEBUG - CGST Amount:8.255
+2024-10-20 23:29:35,074 - INV-117_Naman - DEBUG - IGST Amount:None
+2024-10-20 23:29:35,074 - INV-117_Naman - DEBUG - SGST Rate:18.0
+2024-10-20 23:29:35,074 - INV-117_Naman - DEBUG - CGST Rate:18.0
+2024-10-20 23:29:35,074 - INV-117_Naman - DEBUG - IGST Rate:None
+2024-10-20 23:29:35,074 - INV-117_Naman - DEBUG - --------------------------
+2024-10-20 23:29:35,074 - INV-117_Naman - INFO - Extracted data from list of items purchased.
+2024-10-20 23:29:35,074 - INV-117_Naman.log - DEBUG - Checking invoice number: INV-117
+2024-10-20 23:29:35,074 - INV-117_Naman.log - DEBUG - Invoice number passed pattern check
+2024-10-20 23:29:35,074 - INV-117_Naman.log - DEBUG - Parsed invoice date: 2024-02-01 00:00:00
+2024-10-20 23:29:35,074 - INV-117_Naman.log - DEBUG - Parsed due date: 2024-01-29 00:00:00
+2024-10-20 23:29:35,074 - INV-117_Naman.log - DEBUG - Invoice date check passed
+2024-10-20 23:29:35,074 - INV-117_Naman.log - DEBUG - Due date check passed
+2024-10-20 23:29:35,075 - INV-117_Naman.log - DEBUG - Date logic check failed
+2024-10-20 23:29:35,075 - INV-117_Naman.log - DEBUG - Either wrong read or due date is before invoice date!
+2024-10-20 23:29:35,075 - INV-117_Naman.log - DEBUG - Calculated total amount: 1666.82, expected: 1667.0
+2024-10-20 23:29:35,075 - INV-117_Naman.log - DEBUG - Total amount consistency check passed
+2024-10-20 23:29:35,075 - INV-117_Naman.log - DEBUG - Valid tax percentage count: 3
+2024-10-20 23:29:35,075 - INV-117_Naman.log - DEBUG - Valid quantity count: 3
+2024-10-20 23:29:35,075 - INV-117_Naman.log - INFO - Final confidence score: 0.98

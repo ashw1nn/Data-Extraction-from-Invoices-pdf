@@ -1,0 +1,143 @@
+2024-10-20 23:29:34,935 - INV-112_Gauri - DEBUG - Logger initialized and logging to file.
+2024-10-20 23:29:34,935 - INV-112_Gauri - INFO - Initializing PDF reader for file: Jan to Mar/INV-112_Gauri.pdf
+2024-10-20 23:29:34,935 - INV-112_Gauri - INFO - PDF reader initialized successfully.
+2024-10-20 23:29:34,935 - INV-112_Gauri - INFO - PDF contains only 1 page, Extracting data from PDF...
+2024-10-20 23:29:34,955 - INV-112_Gauri - DEBUG - TA X  I N V O I C E O R I G I N A L  F O R  R E C I P I E N T 
+UNCUE DERMACARE PRIVATE LIMITED
+GSTIN 23AADCU2395N1ZY     
+C/o KARUNA GUPTA KURELE, 1st Floor
+S.P Bungalow Ke Pichhe, Shoagpur Shahdol, Shahdol
+Shahdol, MADHYA PRADESH, 484001
+Mobile +91 8585960963   Email ruhi@dermaq.in
+Invoice #: INV-112 Invoice Date: 29 Jan 2024 Due Date: 29 Jan 2024
+Customer Details:
+Gauri
+Place of Supply: 
+23-MADHYA PRADESH
+#Item Rate / Item QtyTaxable ValueTax AmountAmount
+1Niosalic 6 Ointment  125.22
+147.32 (-15%)1 TUB125.2215.03 (12%)140.25
+2Halox ES Ointment 129.02
+151.79 (-15%)1 TUB129.0215.48 (12%)144.50
+3Beltas Tablet - 20 mg  109.21
+124.11 (-12%)3327.6439.32 (12%)366.96
+4Solasafe sunscreen gel spf 50  480.68
+600.85 (-20%)1480.6886.52 (18%)567.20
+Taxable Amount ₹1,062.56
+CGST 6.0% ₹34.91
+SGST 6.0% ₹34.91
+CGST 9.0% ₹43.26
+SGST 9.0% ₹43.26
+Round Off 0.09
+Total₹1,219.00
+Total Discount ₹242.09
+Total Items / Qty : 4 / 6.000 Total amount (in words):  INR One Thousand, Two Hundred And Nineteen Rupees Only .
+Amount Paid
+Pay using UPI: 
+Bank Details:
+Bank:Kotak Mahindra Bank
+Account #: 1146860541
+IFSC Code: kkbk0000725
+Branch: PUNE - CHINCHWAD
+UnCue Dermacare Pvt LtdFor UNCUE DERMACARE PRIVATE LIMITED  
+Authorized Signatory 
+Swipe | Simple Invoicing, Billing and Payments | Visit getswipe.in
+Page 1 / 1 This is a computer generated document and requires no signature.Powered By
+
+2024-10-20 23:29:34,955 - INV-112_Gauri - INFO - Extracted basic data from PDF
+2024-10-20 23:29:34,955 - INV-112_Gauri - DEBUG - Invoice Number: INV-112
+2024-10-20 23:29:34,955 - INV-112_Gauri - DEBUG - Invoice Date: 29 Jan 2024
+2024-10-20 23:29:34,955 - INV-112_Gauri - DEBUG - Due Date: 29 Jan 2024
+2024-10-20 23:29:34,955 - INV-112_Gauri - DEBUG - GSTIN: 23AADCU2395N1ZY
+2024-10-20 23:29:34,955 - INV-112_Gauri - DEBUG - Total Amount: ₹1219.0
+2024-10-20 23:29:34,955 - INV-112_Gauri - DEBUG - Place of Supply: 23-MADHYA PRADESH
+2024-10-20 23:29:34,955 - INV-112_Gauri - DEBUG - 1Niosalic 6 Ointment  125.22
+147.32 (-15%)1 TUB125.2215.03 (12%)140.25
+2Halox ES Ointment 129.02
+151.79 (-15%)1 TUB129.0215.48 (12%)144.50
+3Beltas Tablet - 20 mg  109.21
+124.11 (-12%)3327.6439.32 (12%)366.96
+4Solasafe sunscreen gel spf 50  480.68
+600.85 (-20%)1480.6886.52 (18%)567.20
+2024-10-20 23:29:34,955 - INV-112_Gauri - INFO - Extracting data from list of items purchased...
+2024-10-20 23:29:34,955 - INV-112_Gauri - DEBUG - Niosalic 6 Ointment  125.22 147.32 (-15%)1 TUB125.2215.03 (12%)140.25
+2024-10-20 23:29:34,955 - INV-112_Gauri - DEBUG - Amount:140.25
+2024-10-20 23:29:34,955 - INV-112_Gauri - DEBUG - Tax Pecentage:12.0
+2024-10-20 23:29:34,955 - INV-112_Gauri - DEBUG - Tax Amount:15.03
+2024-10-20 23:29:34,955 - INV-112_Gauri - DEBUG - Taxable Value:125.22
+2024-10-20 23:29:34,955 - INV-112_Gauri - DEBUG - Quantity:1 TUB
+2024-10-20 23:29:34,955 - INV-112_Gauri - DEBUG - Discount:-15%
+2024-10-20 23:29:34,955 - INV-112_Gauri - DEBUG - Cost Price:147.32
+2024-10-20 23:29:34,955 - INV-112_Gauri - DEBUG - Rate:125.22
+2024-10-20 23:29:34,955 - INV-112_Gauri - DEBUG - Item:Niosalic 6 Ointment
+2024-10-20 23:29:34,955 - INV-112_Gauri - DEBUG - SGST Amount:7.515
+2024-10-20 23:29:34,955 - INV-112_Gauri - DEBUG - CGST Amount:7.515
+2024-10-20 23:29:34,955 - INV-112_Gauri - DEBUG - IGST Amount:None
+2024-10-20 23:29:34,955 - INV-112_Gauri - DEBUG - SGST Rate:12.0
+2024-10-20 23:29:34,955 - INV-112_Gauri - DEBUG - CGST Rate:12.0
+2024-10-20 23:29:34,955 - INV-112_Gauri - DEBUG - IGST Rate:None
+2024-10-20 23:29:34,955 - INV-112_Gauri - DEBUG - --------------------------
+2024-10-20 23:29:34,955 - INV-112_Gauri - DEBUG - Halox ES Ointment 129.02 151.79 (-15%)1 TUB129.0215.48 (12%)144.50
+2024-10-20 23:29:34,955 - INV-112_Gauri - DEBUG - Amount:144.50
+2024-10-20 23:29:34,955 - INV-112_Gauri - DEBUG - Tax Pecentage:12.0
+2024-10-20 23:29:34,955 - INV-112_Gauri - DEBUG - Tax Amount:15.48
+2024-10-20 23:29:34,956 - INV-112_Gauri - DEBUG - Taxable Value:129.02
+2024-10-20 23:29:34,956 - INV-112_Gauri - DEBUG - Quantity:1 TUB
+2024-10-20 23:29:34,956 - INV-112_Gauri - DEBUG - Discount:-15%
+2024-10-20 23:29:34,956 - INV-112_Gauri - DEBUG - Cost Price:151.79
+2024-10-20 23:29:34,956 - INV-112_Gauri - DEBUG - Rate:129.02
+2024-10-20 23:29:34,956 - INV-112_Gauri - DEBUG - Item:Halox ES Ointment
+2024-10-20 23:29:34,956 - INV-112_Gauri - DEBUG - SGST Amount:7.74
+2024-10-20 23:29:34,956 - INV-112_Gauri - DEBUG - CGST Amount:7.74
+2024-10-20 23:29:34,956 - INV-112_Gauri - DEBUG - IGST Amount:None
+2024-10-20 23:29:34,956 - INV-112_Gauri - DEBUG - SGST Rate:12.0
+2024-10-20 23:29:34,956 - INV-112_Gauri - DEBUG - CGST Rate:12.0
+2024-10-20 23:29:34,956 - INV-112_Gauri - DEBUG - IGST Rate:None
+2024-10-20 23:29:34,956 - INV-112_Gauri - DEBUG - --------------------------
+2024-10-20 23:29:34,956 - INV-112_Gauri - DEBUG - Beltas Tablet - 20 mg  109.21 124.11 (-12%)3327.6439.32 (12%)366.96
+2024-10-20 23:29:34,956 - INV-112_Gauri - DEBUG - Amount:366.96
+2024-10-20 23:29:34,956 - INV-112_Gauri - DEBUG - Tax Pecentage:12.0
+2024-10-20 23:29:34,956 - INV-112_Gauri - DEBUG - Tax Amount:39.32
+2024-10-20 23:29:34,956 - INV-112_Gauri - DEBUG - Taxable Value:327.64
+2024-10-20 23:29:34,956 - INV-112_Gauri - DEBUG - Quantity:3
+2024-10-20 23:29:34,956 - INV-112_Gauri - DEBUG - Discount:-12%
+2024-10-20 23:29:34,956 - INV-112_Gauri - DEBUG - Cost Price:124.11
+2024-10-20 23:29:34,956 - INV-112_Gauri - DEBUG - Rate:109.21
+2024-10-20 23:29:34,956 - INV-112_Gauri - DEBUG - Item:Beltas Tablet - 20 mg
+2024-10-20 23:29:34,956 - INV-112_Gauri - DEBUG - SGST Amount:19.66
+2024-10-20 23:29:34,956 - INV-112_Gauri - DEBUG - CGST Amount:19.66
+2024-10-20 23:29:34,956 - INV-112_Gauri - DEBUG - IGST Amount:None
+2024-10-20 23:29:34,956 - INV-112_Gauri - DEBUG - SGST Rate:12.0
+2024-10-20 23:29:34,956 - INV-112_Gauri - DEBUG - CGST Rate:12.0
+2024-10-20 23:29:34,956 - INV-112_Gauri - DEBUG - IGST Rate:None
+2024-10-20 23:29:34,956 - INV-112_Gauri - DEBUG - --------------------------
+2024-10-20 23:29:34,956 - INV-112_Gauri - DEBUG - Solasafe sunscreen gel spf 50  480.68 600.85 (-20%)1480.6886.52 (18%)567.20
+2024-10-20 23:29:34,956 - INV-112_Gauri - DEBUG - Amount:567.20
+2024-10-20 23:29:34,956 - INV-112_Gauri - DEBUG - Tax Pecentage:18.0
+2024-10-20 23:29:34,956 - INV-112_Gauri - DEBUG - Tax Amount:86.52
+2024-10-20 23:29:34,956 - INV-112_Gauri - DEBUG - Taxable Value:480.68
+2024-10-20 23:29:34,956 - INV-112_Gauri - DEBUG - Quantity:1
+2024-10-20 23:29:34,956 - INV-112_Gauri - DEBUG - Discount:-20%
+2024-10-20 23:29:34,956 - INV-112_Gauri - DEBUG - Cost Price:600.85
+2024-10-20 23:29:34,956 - INV-112_Gauri - DEBUG - Rate:480.68
+2024-10-20 23:29:34,956 - INV-112_Gauri - DEBUG - Item:Solasafe sunscreen gel spf 50
+2024-10-20 23:29:34,956 - INV-112_Gauri - DEBUG - SGST Amount:43.26
+2024-10-20 23:29:34,956 - INV-112_Gauri - DEBUG - CGST Amount:43.26
+2024-10-20 23:29:34,956 - INV-112_Gauri - DEBUG - IGST Amount:None
+2024-10-20 23:29:34,956 - INV-112_Gauri - DEBUG - SGST Rate:18.0
+2024-10-20 23:29:34,956 - INV-112_Gauri - DEBUG - CGST Rate:18.0
+2024-10-20 23:29:34,956 - INV-112_Gauri - DEBUG - IGST Rate:None
+2024-10-20 23:29:34,956 - INV-112_Gauri - DEBUG - --------------------------
+2024-10-20 23:29:34,956 - INV-112_Gauri - INFO - Extracted data from list of items purchased.
+2024-10-20 23:29:34,956 - INV-112_Gauri.log - DEBUG - Checking invoice number: INV-112
+2024-10-20 23:29:34,956 - INV-112_Gauri.log - DEBUG - Invoice number passed pattern check
+2024-10-20 23:29:34,956 - INV-112_Gauri.log - DEBUG - Parsed invoice date: 2024-01-29 00:00:00
+2024-10-20 23:29:34,956 - INV-112_Gauri.log - DEBUG - Parsed due date: 2024-01-29 00:00:00
+2024-10-20 23:29:34,956 - INV-112_Gauri.log - DEBUG - Invoice date check passed
+2024-10-20 23:29:34,956 - INV-112_Gauri.log - DEBUG - Due date check passed
+2024-10-20 23:29:34,956 - INV-112_Gauri.log - DEBUG - Date logic check passed
+2024-10-20 23:29:34,956 - INV-112_Gauri.log - DEBUG - Calculated total amount: 1218.91, expected: 1219.0
+2024-10-20 23:29:34,956 - INV-112_Gauri.log - DEBUG - Total amount consistency check passed
+2024-10-20 23:29:34,956 - INV-112_Gauri.log - DEBUG - Valid tax percentage count: 4
+2024-10-20 23:29:34,956 - INV-112_Gauri.log - DEBUG - Valid quantity count: 4
+2024-10-20 23:29:34,956 - INV-112_Gauri.log - INFO - Final confidence score: 1.0

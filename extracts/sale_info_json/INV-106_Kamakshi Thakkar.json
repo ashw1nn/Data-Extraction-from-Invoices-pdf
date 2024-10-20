@@ -1,0 +1,85 @@
+{
+    "invoice_number": "INV-106",
+    "invoice_date": "27 Jan 2024",
+    "due_date": "27 Jan 2024",
+    "gstin": "23AADCU2395N1ZY",
+    "place_of_supply": "23-MADHYA PRADESH",
+    "total_amount": 4063.0,
+    "sale_info": {
+        "items": [
+            "Comprehensive Hair & Health Test - S- ilver",
+            "Arachitol Nano (60k) 4*5ml",
+            "Neurobion Forte - 30 tablets"
+        ],
+        "rate": [
+            1474.0,
+            299.58,
+            30.58
+        ],
+        "cost_price": [
+            1699.0,
+            340.43,
+            34.75
+        ],
+        "discount": [
+            "-13.24%",
+            "-12%",
+            "-12%"
+        ],
+        "quantity": [
+            "2",
+            "3 BTL",
+            "3 STRP"
+        ],
+        "taxable_value": [
+            2948.0,
+            898.73,
+            91.73
+        ],
+        "tax_amount": [
+            0.0,
+            107.85,
+            16.51
+        ],
+        "tax_percentage": [
+            0.0,
+            12.0,
+            18.0
+        ],
+        "amount": [
+            2948.0,
+            1006.58,
+            108.24
+        ],
+        "sgst_amount": [
+            0.0,
+            53.925,
+            8.255
+        ],
+        "cgst_amount": [
+            0.0,
+            53.925,
+            8.255
+        ],
+        "igst_amount": [
+            null,
+            null,
+            null
+        ],
+        "sgst_rate": [
+            0.0,
+            12.0,
+            18.0
+        ],
+        "cgst_rate": [
+            0.0,
+            12.0,
+            18.0
+        ],
+        "igst_rate": [
+            null,
+            null,
+            null
+        ]
+    }
+}

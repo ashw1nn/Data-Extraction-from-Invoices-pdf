@@ -1,0 +1,79 @@
+2024-10-20 23:29:34,956 - INV-136_Rishabh Ramola - DEBUG - Logger initialized and logging to file.
+2024-10-20 23:29:34,956 - INV-136_Rishabh Ramola - INFO - Initializing PDF reader for file: Jan to Mar/INV-136_Rishabh Ramola.pdf
+2024-10-20 23:29:34,957 - INV-136_Rishabh Ramola - INFO - PDF reader initialized successfully.
+2024-10-20 23:29:34,957 - INV-136_Rishabh Ramola - INFO - PDF contains only 1 page, Extracting data from PDF...
+2024-10-20 23:29:34,972 - INV-136_Rishabh Ramola - DEBUG - TA X  I N V O I C E O R I G I N A L  F O R  R E C I P I E N T 
+UNCUE DERMACARE PRIVATE LIMITED
+GSTIN 23AADCU2395N1ZY     
+C/o KARUNA GUPTA KURELE, 1st Floor
+S.P Bungalow Ke Pichhe, Shoagpur Shahdol, Shahdol
+Shahdol, MADHYA PRADESH, 484001
+Mobile +91 8585960963   Email ruhi@dermaq.in
+Invoice #: INV-136 Invoice Date: 15 Feb 2024 Due Date: 04 Mar 2024
+Customer Details:
+Rishabh Ramola
+Ph: 7023511429
+Place of Supply: 
+23-MADHYA PRADESH
+#Item Rate / Item QtyTaxable ValueTax AmountAmount
+1Solasafe sunscreen gel spf 50  480.68
+600.85 (-20%)2961.36173.04 (18%)1,134.40
+Taxable Amount ₹961.36
+CGST 9.0% ₹86.52
+SGST 9.0% ₹86.52
+Round Off -0.40
+Total₹1,134.00
+Total Discount ₹283.60
+Total Items / Qty : 1 / 2.000 Total amount (in words):  INR One Thousand, One Hundred And Thirty-Four Rupees Only .
+Amount Paid
+Pay using UPI: 
+Bank Details:
+Bank:Kotak Mahindra Bank
+Account #: 1146860541
+IFSC Code: kkbk0000725
+Branch: PUNE - CHINCHWAD
+UnCue Dermacare Pvt LtdFor UNCUE DERMACARE PRIVATE LIMITED  
+Authorized Signatory 
+Swipe | Simple Invoicing, Billing and Payments | Visit getswipe.in
+Page 1 / 1 This is a computer generated document and requires no signature.Powered By
+
+2024-10-20 23:29:34,972 - INV-136_Rishabh Ramola - INFO - Extracted basic data from PDF
+2024-10-20 23:29:34,972 - INV-136_Rishabh Ramola - DEBUG - Invoice Number: INV-136
+2024-10-20 23:29:34,972 - INV-136_Rishabh Ramola - DEBUG - Invoice Date: 15 Feb 2024
+2024-10-20 23:29:34,972 - INV-136_Rishabh Ramola - DEBUG - Due Date: 04 Mar 2024
+2024-10-20 23:29:34,972 - INV-136_Rishabh Ramola - DEBUG - GSTIN: 23AADCU2395N1ZY
+2024-10-20 23:29:34,972 - INV-136_Rishabh Ramola - DEBUG - Total Amount: ₹1134.0
+2024-10-20 23:29:34,972 - INV-136_Rishabh Ramola - DEBUG - Place of Supply: 23-MADHYA PRADESH
+2024-10-20 23:29:34,972 - INV-136_Rishabh Ramola - DEBUG - 1Solasafe sunscreen gel spf 50  480.68
+600.85 (-20%)2961.36173.04 (18%)1,134.40
+2024-10-20 23:29:34,972 - INV-136_Rishabh Ramola - INFO - Extracting data from list of items purchased...
+2024-10-20 23:29:34,972 - INV-136_Rishabh Ramola - DEBUG - Solasafe sunscreen gel spf 50  480.68 600.85 (-20%)2961.36173.04 (18%)1,134.40
+2024-10-20 23:29:34,972 - INV-136_Rishabh Ramola - DEBUG - Amount:1,134.40
+2024-10-20 23:29:34,972 - INV-136_Rishabh Ramola - DEBUG - Tax Pecentage:18.0
+2024-10-20 23:29:34,972 - INV-136_Rishabh Ramola - DEBUG - Tax Amount:173.04
+2024-10-20 23:29:34,972 - INV-136_Rishabh Ramola - DEBUG - Taxable Value:961.36
+2024-10-20 23:29:34,972 - INV-136_Rishabh Ramola - DEBUG - Quantity:2
+2024-10-20 23:29:34,972 - INV-136_Rishabh Ramola - DEBUG - Discount:-20%
+2024-10-20 23:29:34,972 - INV-136_Rishabh Ramola - DEBUG - Cost Price:600.85
+2024-10-20 23:29:34,972 - INV-136_Rishabh Ramola - DEBUG - Rate:480.68
+2024-10-20 23:29:34,972 - INV-136_Rishabh Ramola - DEBUG - Item:Solasafe sunscreen gel spf 50
+2024-10-20 23:29:34,972 - INV-136_Rishabh Ramola - DEBUG - SGST Amount:86.52
+2024-10-20 23:29:34,972 - INV-136_Rishabh Ramola - DEBUG - CGST Amount:86.52
+2024-10-20 23:29:34,972 - INV-136_Rishabh Ramola - DEBUG - IGST Amount:None
+2024-10-20 23:29:34,972 - INV-136_Rishabh Ramola - DEBUG - SGST Rate:18.0
+2024-10-20 23:29:34,972 - INV-136_Rishabh Ramola - DEBUG - CGST Rate:18.0
+2024-10-20 23:29:34,972 - INV-136_Rishabh Ramola - DEBUG - IGST Rate:None
+2024-10-20 23:29:34,972 - INV-136_Rishabh Ramola - DEBUG - --------------------------
+2024-10-20 23:29:34,972 - INV-136_Rishabh Ramola - INFO - Extracted data from list of items purchased.
+2024-10-20 23:29:34,972 - INV-136_Rishabh Ramola.log - DEBUG - Checking invoice number: INV-136
+2024-10-20 23:29:34,972 - INV-136_Rishabh Ramola.log - DEBUG - Invoice number passed pattern check
+2024-10-20 23:29:34,972 - INV-136_Rishabh Ramola.log - DEBUG - Parsed invoice date: 2024-02-15 00:00:00
+2024-10-20 23:29:34,972 - INV-136_Rishabh Ramola.log - DEBUG - Parsed due date: 2024-03-04 00:00:00
+2024-10-20 23:29:34,972 - INV-136_Rishabh Ramola.log - DEBUG - Invoice date check passed
+2024-10-20 23:29:34,972 - INV-136_Rishabh Ramola.log - DEBUG - Due date check passed
+2024-10-20 23:29:34,972 - INV-136_Rishabh Ramola.log - DEBUG - Date logic check passed
+2024-10-20 23:29:34,972 - INV-136_Rishabh Ramola.log - DEBUG - Calculated total amount: 1134.4, expected: 1134.0
+2024-10-20 23:29:34,972 - INV-136_Rishabh Ramola.log - DEBUG - Total amount consistency check passed
+2024-10-20 23:29:34,972 - INV-136_Rishabh Ramola.log - DEBUG - Valid tax percentage count: 1
+2024-10-20 23:29:34,972 - INV-136_Rishabh Ramola.log - DEBUG - Valid quantity count: 1
+2024-10-20 23:29:34,972 - INV-136_Rishabh Ramola.log - INFO - Final confidence score: 1.0

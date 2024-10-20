@@ -1,0 +1,55 @@
+{
+    "invoice_number": "INV-136",
+    "invoice_date": "15 Feb 2024",
+    "due_date": "04 Mar 2024",
+    "gstin": "23AADCU2395N1ZY",
+    "place_of_supply": "23-MADHYA PRADESH",
+    "total_amount": 1134.0,
+    "sale_info": {
+        "items": [
+            "Solasafe sunscreen gel spf 50"
+        ],
+        "rate": [
+            480.68
+        ],
+        "cost_price": [
+            600.85
+        ],
+        "discount": [
+            "-20%"
+        ],
+        "quantity": [
+            "2"
+        ],
+        "taxable_value": [
+            961.36
+        ],
+        "tax_amount": [
+            173.04
+        ],
+        "tax_percentage": [
+            18.0
+        ],
+        "amount": [
+            1134.4
+        ],
+        "sgst_amount": [
+            86.52
+        ],
+        "cgst_amount": [
+            86.52
+        ],
+        "igst_amount": [
+            null
+        ],
+        "sgst_rate": [
+            18.0
+        ],
+        "cgst_rate": [
+            18.0
+        ],
+        "igst_rate": [
+            null
+        ]
+    }
+}

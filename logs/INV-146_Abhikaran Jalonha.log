@@ -1,0 +1,151 @@
+2024-10-20 23:29:35,331 - INV-146_Abhikaran Jalonha - DEBUG - Logger initialized and logging to file.
+2024-10-20 23:29:35,331 - INV-146_Abhikaran Jalonha - INFO - Initializing PDF reader for file: Jan to Mar/INV-146_Abhikaran Jalonha.pdf
+2024-10-20 23:29:35,331 - INV-146_Abhikaran Jalonha - INFO - PDF reader initialized successfully.
+2024-10-20 23:29:35,331 - INV-146_Abhikaran Jalonha - INFO - PDF contains only 1 page, Extracting data from PDF...
+2024-10-20 23:29:35,362 - INV-146_Abhikaran Jalonha - DEBUG - TA X  I N V O I C E O R I G I N A L  F O R  R E C I P I E N T 
+UNCUE DERMACARE PRIVATE LIMITED
+GSTIN 23AADCU2395N1ZY     
+C/o KARUNA GUPTA KURELE, 1st Floor
+S.P Bungalow Ke Pichhe, Shoagpur Shahdol, Shahdol
+Shahdol, MADHYA PRADESH, 484001
+Mobile +91 8585960963   Email ruhi@dermaq.in
+Invoice #: INV-146 Invoice Date: 29 Mar 2024 Due Date: 29 Mar 2024
+Customer Details:
+Abhikaran Jalonha
+Place of Supply: 
+23-MADHYA PRADESH
+#Item Rate / Item QtyTaxable ValueTax AmountAmount
+1Cetaphil DAM Advance Ultra-Hydrati-
+ng Lotion Face - 100 gm  395.08
+438.98 (-10%)1 TUB395.0871.12 (18%)466.20
+2Ahaglow Advanced Skin Rejuvenating 
+Face Wash Gel 556.34
+632.20 (-12%)1 PAC556.34100.14 (18%)656.48
+3Acutret 20 mg - 10 capsules  206.43
+258.04 (-20%)6 STRP1,238.57148.63 (12%)1,387.20
+4 Faireye under eye cream  695.80
+790.68 (-12%)1695.80125.24 (18%)821.04
+5Biluma cream - 15 gm  462.37
+525.42 (-12%)1 PAC462.3783.23 (18%)545.60
+Taxable Amount ₹3,348.16
+CGST 6.0% ₹74.31
+SGST 6.0% ₹74.31
+CGST 9.0% ₹189.86
+SGST 9.0% ₹189.86
+Round Off 0.48
+Total₹3,877.00
+Total Discount ₹674.48
+Total Items / Qty : 5 / 10.000 Total amount (in words):  INR Three Thousand, Eight Hundred And Seventy-Seven Rupees Only .
+Amount Paid
+Pay using UPI: 
+Bank Details:
+Bank:Kotak Mahindra Bank
+Account #: 1146860541
+IFSC Code: kkbk0000725
+Branch: PUNE - CHINCHWAD
+UnCue Dermacare Pvt LtdFor UNCUE DERMACARE PRIVATE LIMITED  
+Authorized Signatory 
+Swipe | Simple Invoicing, Billing and Payments | Visit getswipe.in
+Page 1 / 1 This is a computer generated document and requires no signature.Powered By
+
+2024-10-20 23:29:35,362 - INV-146_Abhikaran Jalonha - INFO - Extracted basic data from PDF
+2024-10-20 23:29:35,362 - INV-146_Abhikaran Jalonha - DEBUG - Invoice Number: INV-146
+2024-10-20 23:29:35,362 - INV-146_Abhikaran Jalonha - DEBUG - Invoice Date: 29 Mar 2024
+2024-10-20 23:29:35,362 - INV-146_Abhikaran Jalonha - DEBUG - Due Date: 29 Mar 2024
+2024-10-20 23:29:35,362 - INV-146_Abhikaran Jalonha - DEBUG - GSTIN: 23AADCU2395N1ZY
+2024-10-20 23:29:35,362 - INV-146_Abhikaran Jalonha - DEBUG - Total Amount: ₹3877.0
+2024-10-20 23:29:35,362 - INV-146_Abhikaran Jalonha - DEBUG - Place of Supply: 23-MADHYA PRADESH
+2024-10-20 23:29:35,362 - INV-146_Abhikaran Jalonha - DEBUG - 1Cetaphil DAM Advance Ultra-Hydrati-
+ng Lotion Face - 100 gm  395.08
+438.98 (-10%)1 TUB395.0871.12 (18%)466.20
+2Ahaglow Advanced Skin Rejuvenating 
+Face Wash Gel 556.34
+632.20 (-12%)1 PAC556.34100.14 (18%)656.48
+3Acutret 20 mg - 10 capsules  206.43
+258.04 (-20%)6 STRP1,238.57148.63 (12%)1,387.20
+4 Faireye under eye cream  695.80
+790.68 (-12%)1695.80125.24 (18%)821.04
+5Biluma cream - 15 gm  462.37
+525.42 (-12%)1 PAC462.3783.23 (18%)545.60
+2024-10-20 23:29:35,362 - INV-146_Abhikaran Jalonha - INFO - Extracting data from list of items purchased...
+2024-10-20 23:29:35,362 - INV-146_Abhikaran Jalonha - DEBUG - Cetaphil DAM Advance Ultra-Hydrati- ng Lotion Face - 100 gm  395.08 438.98 (-10%)1 TUB395.0871.12 (18%)466.20
+2024-10-20 23:29:35,362 - INV-146_Abhikaran Jalonha - DEBUG - Amount:466.20
+2024-10-20 23:29:35,362 - INV-146_Abhikaran Jalonha - DEBUG - Tax Pecentage:18.0
+2024-10-20 23:29:35,362 - INV-146_Abhikaran Jalonha - DEBUG - Tax Amount:71.12
+2024-10-20 23:29:35,362 - INV-146_Abhikaran Jalonha - DEBUG - Taxable Value:395.08
+2024-10-20 23:29:35,362 - INV-146_Abhikaran Jalonha - DEBUG - Quantity:1 TUB
+2024-10-20 23:29:35,362 - INV-146_Abhikaran Jalonha - DEBUG - Discount:-10%
+2024-10-20 23:29:35,362 - INV-146_Abhikaran Jalonha - DEBUG - Cost Price:438.98
+2024-10-20 23:29:35,362 - INV-146_Abhikaran Jalonha - DEBUG - Rate:395.08
+2024-10-20 23:29:35,362 - INV-146_Abhikaran Jalonha - DEBUG - Item:Cetaphil DAM Advance Ultra-Hydrati- ng Lotion Face - 100 gm
+2024-10-20 23:29:35,362 - INV-146_Abhikaran Jalonha - DEBUG - SGST Amount:35.56
+2024-10-20 23:29:35,362 - INV-146_Abhikaran Jalonha - DEBUG - CGST Amount:35.56
+2024-10-20 23:29:35,362 - INV-146_Abhikaran Jalonha - DEBUG - IGST Amount:None
+2024-10-20 23:29:35,362 - INV-146_Abhikaran Jalonha - DEBUG - SGST Rate:18.0
+2024-10-20 23:29:35,362 - INV-146_Abhikaran Jalonha - DEBUG - CGST Rate:18.0
+2024-10-20 23:29:35,362 - INV-146_Abhikaran Jalonha - DEBUG - IGST Rate:None
+2024-10-20 23:29:35,362 - INV-146_Abhikaran Jalonha - DEBUG - --------------------------
+2024-10-20 23:29:35,362 - INV-146_Abhikaran Jalonha - DEBUG - Ahaglow Advanced Skin Rejuvenating  Face Wash Gel 556.34 632.20 (-12%)1 PAC556.34100.14 (18%)656.48
+2024-10-20 23:29:35,362 - INV-146_Abhikaran Jalonha - DEBUG - Amount:656.48
+2024-10-20 23:29:35,362 - INV-146_Abhikaran Jalonha - DEBUG - Tax Pecentage:18.0
+2024-10-20 23:29:35,362 - INV-146_Abhikaran Jalonha - DEBUG - Tax Amount:100.14
+2024-10-20 23:29:35,362 - INV-146_Abhikaran Jalonha - DEBUG - Taxable Value:556.34
+2024-10-20 23:29:35,362 - INV-146_Abhikaran Jalonha - DEBUG - Quantity:1 PAC
+2024-10-20 23:29:35,362 - INV-146_Abhikaran Jalonha - DEBUG - Discount:-12%
+2024-10-20 23:29:35,362 - INV-146_Abhikaran Jalonha - DEBUG - Cost Price:632.20
+2024-10-20 23:29:35,362 - INV-146_Abhikaran Jalonha - DEBUG - Rate:556.34
+2024-10-20 23:29:35,362 - INV-146_Abhikaran Jalonha - DEBUG - Item:Ahaglow Advanced Skin Rejuvenating  Face Wash Gel
+2024-10-20 23:29:35,362 - INV-146_Abhikaran Jalonha - DEBUG - SGST Amount:50.07
+2024-10-20 23:29:35,362 - INV-146_Abhikaran Jalonha - DEBUG - CGST Amount:50.07
+2024-10-20 23:29:35,362 - INV-146_Abhikaran Jalonha - DEBUG - IGST Amount:None
+2024-10-20 23:29:35,363 - INV-146_Abhikaran Jalonha - DEBUG - SGST Rate:18.0
+2024-10-20 23:29:35,363 - INV-146_Abhikaran Jalonha - DEBUG - CGST Rate:18.0
+2024-10-20 23:29:35,363 - INV-146_Abhikaran Jalonha - DEBUG - IGST Rate:None
+2024-10-20 23:29:35,363 - INV-146_Abhikaran Jalonha - DEBUG - --------------------------
+2024-10-20 23:29:35,363 - INV-146_Abhikaran Jalonha - DEBUG - Acutret 20 mg - 10 capsules  206.43 258.04 (-20%)6 STRP1,238.57148.63 (12%)1,387.20 4 Faireye under eye cream  695.80 790.68 (-12%)1695.80125.24 (18%)821.04
+2024-10-20 23:29:35,363 - INV-146_Abhikaran Jalonha - DEBUG - Amount:821.04
+2024-10-20 23:29:35,363 - INV-146_Abhikaran Jalonha - DEBUG - Tax Pecentage:18.0
+2024-10-20 23:29:35,363 - INV-146_Abhikaran Jalonha - DEBUG - Tax Amount:125.24
+2024-10-20 23:29:35,363 - INV-146_Abhikaran Jalonha - DEBUG - Taxable Value:695.80
+2024-10-20 23:29:35,363 - INV-146_Abhikaran Jalonha - DEBUG - Quantity:1
+2024-10-20 23:29:35,363 - INV-146_Abhikaran Jalonha - DEBUG - Discount:-12%
+2024-10-20 23:29:35,363 - INV-146_Abhikaran Jalonha - DEBUG - Cost Price:790.68
+2024-10-20 23:29:35,363 - INV-146_Abhikaran Jalonha - DEBUG - Rate:695.80
+2024-10-20 23:29:35,363 - INV-146_Abhikaran Jalonha - DEBUG - Item:Acutret 20 mg - 10 capsules  206.43 258.04 (-20%)6 STRP1,238.57148.63 (12%)1,387.20 4 Faireye under eye cream
+2024-10-20 23:29:35,363 - INV-146_Abhikaran Jalonha - DEBUG - SGST Amount:62.62
+2024-10-20 23:29:35,363 - INV-146_Abhikaran Jalonha - DEBUG - CGST Amount:62.62
+2024-10-20 23:29:35,363 - INV-146_Abhikaran Jalonha - DEBUG - IGST Amount:None
+2024-10-20 23:29:35,363 - INV-146_Abhikaran Jalonha - DEBUG - SGST Rate:18.0
+2024-10-20 23:29:35,363 - INV-146_Abhikaran Jalonha - DEBUG - CGST Rate:18.0
+2024-10-20 23:29:35,363 - INV-146_Abhikaran Jalonha - DEBUG - IGST Rate:None
+2024-10-20 23:29:35,363 - INV-146_Abhikaran Jalonha - DEBUG - --------------------------
+2024-10-20 23:29:35,363 - INV-146_Abhikaran Jalonha - DEBUG - Biluma cream - 15 gm  462.37 525.42 (-12%)1 PAC462.3783.23 (18%)545.60
+2024-10-20 23:29:35,363 - INV-146_Abhikaran Jalonha - DEBUG - Amount:545.60
+2024-10-20 23:29:35,363 - INV-146_Abhikaran Jalonha - DEBUG - Tax Pecentage:18.0
+2024-10-20 23:29:35,363 - INV-146_Abhikaran Jalonha - DEBUG - Tax Amount:83.23
+2024-10-20 23:29:35,363 - INV-146_Abhikaran Jalonha - DEBUG - Taxable Value:462.37
+2024-10-20 23:29:35,363 - INV-146_Abhikaran Jalonha - DEBUG - Quantity:1 PAC
+2024-10-20 23:29:35,363 - INV-146_Abhikaran Jalonha - DEBUG - Discount:-12%
+2024-10-20 23:29:35,363 - INV-146_Abhikaran Jalonha - DEBUG - Cost Price:525.42
+2024-10-20 23:29:35,363 - INV-146_Abhikaran Jalonha - DEBUG - Rate:462.37
+2024-10-20 23:29:35,363 - INV-146_Abhikaran Jalonha - DEBUG - Item:Biluma cream - 15 gm
+2024-10-20 23:29:35,363 - INV-146_Abhikaran Jalonha - DEBUG - SGST Amount:41.615
+2024-10-20 23:29:35,363 - INV-146_Abhikaran Jalonha - DEBUG - CGST Amount:41.615
+2024-10-20 23:29:35,363 - INV-146_Abhikaran Jalonha - DEBUG - IGST Amount:None
+2024-10-20 23:29:35,363 - INV-146_Abhikaran Jalonha - DEBUG - SGST Rate:18.0
+2024-10-20 23:29:35,363 - INV-146_Abhikaran Jalonha - DEBUG - CGST Rate:18.0
+2024-10-20 23:29:35,363 - INV-146_Abhikaran Jalonha - DEBUG - IGST Rate:None
+2024-10-20 23:29:35,363 - INV-146_Abhikaran Jalonha - DEBUG - --------------------------
+2024-10-20 23:29:35,363 - INV-146_Abhikaran Jalonha - INFO - Extracted data from list of items purchased.
+2024-10-20 23:29:35,363 - INV-146_Abhikaran Jalonha.log - DEBUG - Checking invoice number: INV-146
+2024-10-20 23:29:35,363 - INV-146_Abhikaran Jalonha.log - DEBUG - Invoice number passed pattern check
+2024-10-20 23:29:35,363 - INV-146_Abhikaran Jalonha.log - DEBUG - Parsed invoice date: 2024-03-29 00:00:00
+2024-10-20 23:29:35,363 - INV-146_Abhikaran Jalonha.log - DEBUG - Parsed due date: 2024-03-29 00:00:00
+2024-10-20 23:29:35,363 - INV-146_Abhikaran Jalonha.log - DEBUG - Invoice date check passed
+2024-10-20 23:29:35,363 - INV-146_Abhikaran Jalonha.log - DEBUG - Due date check passed
+2024-10-20 23:29:35,363 - INV-146_Abhikaran Jalonha.log - DEBUG - Date logic check passed
+2024-10-20 23:29:35,363 - INV-146_Abhikaran Jalonha.log - DEBUG - Calculated total amount: 2489.32, expected: 3877.0
+2024-10-20 23:29:35,363 - INV-146_Abhikaran Jalonha.log - DEBUG - Total amount consistency check failed, adjusted score: 1.0
+2024-10-20 23:29:35,363 - INV-146_Abhikaran Jalonha.log - DEBUG - Valid tax percentage count: 4
+2024-10-20 23:29:35,363 - INV-146_Abhikaran Jalonha.log - DEBUG - Valid quantity count: 4
+2024-10-20 23:29:35,363 - INV-146_Abhikaran Jalonha.log - INFO - Final confidence score: 1.0

@@ -1,0 +1,115 @@
+{
+    "invoice_number": "INV-102",
+    "invoice_date": "24 Jan 2024",
+    "due_date": "24 Jan 2024",
+    "gstin": "23AADCU2395N1ZY",
+    "place_of_supply": "23-MADHYA PRADESH",
+    "total_amount": 2546.0,
+    "sale_info": {
+        "items": [
+            "Acne-UV Gel - spf 50 (50 gm)",
+            "Cetaphil gentle cleansing lotion - 250  ML",
+            "Depiwhite Advanced Cream - 15 ml",
+            "Neurobion Forte - 30 tablets",
+            "Benzac AC 2.5%"
+        ],
+        "rate": [
+            620.34,
+            443.01,
+            479.03,
+            31.27,
+            82.34
+        ],
+        "cost_price": [
+            775.42,
+            521.19,
+            563.56,
+            34.75,
+            96.87
+        ],
+        "discount": [
+            "-20%",
+            "-15%",
+            "-15%",
+            "-10%",
+            "-15%"
+        ],
+        "quantity": [
+            "1 PAC",
+            "2",
+            "1 TUB",
+            "3 STRP",
+            "1 PAC"
+        ],
+        "taxable_value": [
+            620.34,
+            886.02,
+            479.03,
+            93.81,
+            82.34
+        ],
+        "tax_amount": [
+            111.66,
+            159.48,
+            86.22,
+            16.89,
+            9.88
+        ],
+        "tax_percentage": [
+            18.0,
+            18.0,
+            18.0,
+            18.0,
+            12.0
+        ],
+        "amount": [
+            732.0,
+            1045.5,
+            565.25,
+            110.7,
+            92.22
+        ],
+        "sgst_amount": [
+            55.83,
+            79.74,
+            43.11,
+            8.445,
+            4.94
+        ],
+        "cgst_amount": [
+            55.83,
+            79.74,
+            43.11,
+            8.445,
+            4.94
+        ],
+        "igst_amount": [
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "sgst_rate": [
+            18.0,
+            18.0,
+            18.0,
+            18.0,
+            12.0
+        ],
+        "cgst_rate": [
+            18.0,
+            18.0,
+            18.0,
+            18.0,
+            12.0
+        ],
+        "igst_rate": [
+            null,
+            null,
+            null,
+            null,
+            null
+        ]
+    }
+}

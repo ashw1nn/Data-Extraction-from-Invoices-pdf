@@ -1,0 +1,115 @@
+{
+    "invoice_number": "INV-144",
+    "invoice_date": "28 Mar 2024",
+    "due_date": "28 Mar 2024",
+    "gstin": "23AADCU2395N1ZY",
+    "place_of_supply": "23-MADHYA PRADESH",
+    "total_amount": 24047.0,
+    "sale_info": {
+        "items": [
+            "Bioderma Pigmentbio C-concentrate",
+            "Arachitol Nano (60k) 4*5ml",
+            "Solasafe sunscreen gel spf 50",
+            "Lab test - full body checkup",
+            "GFC PRP"
+        ],
+        "rate": [
+            2363.64,
+            299.58,
+            450.64,
+            2000.0,
+            11600.0
+        ],
+        "cost_price": [
+            2626.27,
+            340.43,
+            600.85,
+            2000.0,
+            11600.0
+        ],
+        "discount": [
+            "-10%",
+            "-12%",
+            "-25%",
+            null,
+            null
+        ],
+        "quantity": [
+            "1 PCS",
+            "2 BTL",
+            "3",
+            "3",
+            "1"
+        ],
+        "taxable_value": [
+            2363.64,
+            599.15,
+            1351.91,
+            6000.0,
+            11600.0
+        ],
+        "tax_amount": [
+            425.46,
+            71.9,
+            243.34,
+            0.0,
+            1392.0
+        ],
+        "tax_percentage": [
+            18.0,
+            12.0,
+            18.0,
+            0.0,
+            12.0
+        ],
+        "amount": [
+            2789.1,
+            671.05,
+            1595.25,
+            6000.0,
+            12992.0
+        ],
+        "sgst_amount": [
+            212.73,
+            35.95,
+            121.67,
+            0.0,
+            696.0
+        ],
+        "cgst_amount": [
+            212.73,
+            35.95,
+            121.67,
+            0.0,
+            696.0
+        ],
+        "igst_amount": [
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "sgst_rate": [
+            18.0,
+            12.0,
+            18.0,
+            0.0,
+            12.0
+        ],
+        "cgst_rate": [
+            18.0,
+            12.0,
+            18.0,
+            0.0,
+            12.0
+        ],
+        "igst_rate": [
+            null,
+            null,
+            null,
+            null,
+            null
+        ]
+    }
+}

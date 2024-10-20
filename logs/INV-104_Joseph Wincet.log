@@ -1,0 +1,185 @@
+2024-10-20 23:29:35,216 - INV-104_Joseph Wincet - DEBUG - Logger initialized and logging to file.
+2024-10-20 23:29:35,216 - INV-104_Joseph Wincet - INFO - Initializing PDF reader for file: Jan to Mar/INV-104_Joseph Wincet.pdf
+2024-10-20 23:29:35,216 - INV-104_Joseph Wincet - INFO - PDF reader initialized successfully.
+2024-10-20 23:29:35,216 - INV-104_Joseph Wincet - INFO - PDF contains only 1 page, Extracting data from PDF...
+2024-10-20 23:29:35,239 - INV-104_Joseph Wincet - DEBUG - TA X  I N V O I C E O R I G I N A L  F O R  R E C I P I E N T 
+UNCUE DERMACARE PRIVATE LIMITED
+GSTIN 23AADCU2395N1ZY     
+C/o KARUNA GUPTA KURELE, 1st Floor
+S.P Bungalow Ke Pichhe, Shoagpur Shahdol, Shahdol
+Shahdol, MADHYA PRADESH, 484001
+Mobile +91 8585960963   Email ruhi@dermaq.in
+Invoice #: INV-104 Invoice Date: 27 Jan 2024 Due Date: 27 Jan 2024
+Customer Details:
+Joseph Wincet
+Place of Supply: 
+23-MADHYA PRADESH
+#Item Rate / Item QtyTaxable ValueTax AmountAmount
+1Cutacapil Stem - 60 ml  1,029.15
+1,169.49 (-12%)1 BTL1,029.15185.25 (18%)1,214.40
+2Follihair AMPM Tablet Gluten Free - 20 
+tablets  326.64
+371.19 (-12%)6 STRP1,959.86352.78 (18%)2,312.64
+3Dermaq Basic Hair Test Men - B12, V-D 
+& TST  849.00
+899.00 (-5.56%)1849.000.00 (0%)849.00
+4Arachitol Nano (60k) 4*5ml  340.433 BTL1,021.29122.55 (12%)1,143.84
+5Dermatologist Consultation  350.00 1350.000.00 (0%)350.00
+6Vitamin b12 test  349.00
+399.00 (-12.53%)1349.000.00 (0%)349.00
+Taxable Amount ₹5,558.30
+CGST 6.0% ₹61.28
+SGST 6.0% ₹61.28
+CGST 9.0% ₹269.01
+SGST 9.0% ₹269.01
+Round Off 0.12
+Total₹6,219.00
+Total Discount ₹580.96
+Total Items / Qty : 6 / 13.000 Total amount (in words):  INR Six Thousand, Two Hundred And Nineteen Rupees Only .
+Amount Paid
+Pay using UPI: 
+Bank Details:
+Bank:Kotak Mahindra Bank
+Account #: 1146860541
+IFSC Code: kkbk0000725
+Branch: PUNE - CHINCHWAD
+UnCue Dermacare Pvt LtdFor UNCUE DERMACARE PRIVATE LIMITED  
+Authorized Signatory 
+Swipe | Simple Invoicing, Billing and Payments | Visit getswipe.in
+Page 1 / 1 This is a computer generated document and requires no signature.Powered By
+
+2024-10-20 23:29:35,240 - INV-104_Joseph Wincet - INFO - Extracted basic data from PDF
+2024-10-20 23:29:35,240 - INV-104_Joseph Wincet - DEBUG - Invoice Number: INV-104
+2024-10-20 23:29:35,240 - INV-104_Joseph Wincet - DEBUG - Invoice Date: 27 Jan 2024
+2024-10-20 23:29:35,240 - INV-104_Joseph Wincet - DEBUG - Due Date: 27 Jan 2024
+2024-10-20 23:29:35,240 - INV-104_Joseph Wincet - DEBUG - GSTIN: 23AADCU2395N1ZY
+2024-10-20 23:29:35,240 - INV-104_Joseph Wincet - DEBUG - Total Amount: ₹6219.0
+2024-10-20 23:29:35,240 - INV-104_Joseph Wincet - DEBUG - Place of Supply: 23-MADHYA PRADESH
+2024-10-20 23:29:35,240 - INV-104_Joseph Wincet - DEBUG - 1Cutacapil Stem - 60 ml  1,029.15
+1,169.49 (-12%)1 BTL1,029.15185.25 (18%)1,214.40
+2Follihair AMPM Tablet Gluten Free - 20 
+tablets  326.64
+371.19 (-12%)6 STRP1,959.86352.78 (18%)2,312.64
+3Dermaq Basic Hair Test Men - B12, V-D 
+& TST  849.00
+899.00 (-5.56%)1849.000.00 (0%)849.00
+4Arachitol Nano (60k) 4*5ml  340.433 BTL1,021.29122.55 (12%)1,143.84
+5Dermatologist Consultation  350.00 1350.000.00 (0%)350.00
+6Vitamin b12 test  349.00
+399.00 (-12.53%)1349.000.00 (0%)349.00
+2024-10-20 23:29:35,240 - INV-104_Joseph Wincet - INFO - Extracting data from list of items purchased...
+2024-10-20 23:29:35,240 - INV-104_Joseph Wincet - DEBUG - Cutacapil Stem - 60 ml  1,029.15 1,169.49 (-12%)1 BTL1,029.15185.25 (18%)1,214.40
+2024-10-20 23:29:35,240 - INV-104_Joseph Wincet - DEBUG - Amount:1,214.40
+2024-10-20 23:29:35,240 - INV-104_Joseph Wincet - DEBUG - Tax Pecentage:18.0
+2024-10-20 23:29:35,240 - INV-104_Joseph Wincet - DEBUG - Tax Amount:185.25
+2024-10-20 23:29:35,240 - INV-104_Joseph Wincet - DEBUG - Taxable Value:1,029.15
+2024-10-20 23:29:35,240 - INV-104_Joseph Wincet - DEBUG - Quantity:1 BTL
+2024-10-20 23:29:35,240 - INV-104_Joseph Wincet - DEBUG - Discount:-12%
+2024-10-20 23:29:35,240 - INV-104_Joseph Wincet - DEBUG - Cost Price:1,169.49
+2024-10-20 23:29:35,240 - INV-104_Joseph Wincet - DEBUG - Rate:1,029.15
+2024-10-20 23:29:35,240 - INV-104_Joseph Wincet - DEBUG - Item:Cutacapil Stem - 60 ml
+2024-10-20 23:29:35,240 - INV-104_Joseph Wincet - DEBUG - SGST Amount:92.625
+2024-10-20 23:29:35,240 - INV-104_Joseph Wincet - DEBUG - CGST Amount:92.625
+2024-10-20 23:29:35,240 - INV-104_Joseph Wincet - DEBUG - IGST Amount:None
+2024-10-20 23:29:35,240 - INV-104_Joseph Wincet - DEBUG - SGST Rate:18.0
+2024-10-20 23:29:35,240 - INV-104_Joseph Wincet - DEBUG - CGST Rate:18.0
+2024-10-20 23:29:35,240 - INV-104_Joseph Wincet - DEBUG - IGST Rate:None
+2024-10-20 23:29:35,240 - INV-104_Joseph Wincet - DEBUG - --------------------------
+2024-10-20 23:29:35,240 - INV-104_Joseph Wincet - DEBUG - Follihair AMPM Tablet Gluten Free - 20  tablets  326.64 371.19 (-12%)6 STRP1,959.86352.78 (18%)2,312.64
+2024-10-20 23:29:35,240 - INV-104_Joseph Wincet - DEBUG - Amount:2,312.64
+2024-10-20 23:29:35,240 - INV-104_Joseph Wincet - DEBUG - Tax Pecentage:18.0
+2024-10-20 23:29:35,240 - INV-104_Joseph Wincet - DEBUG - Tax Amount:352.78
+2024-10-20 23:29:35,240 - INV-104_Joseph Wincet - DEBUG - Taxable Value:1,959.86
+2024-10-20 23:29:35,240 - INV-104_Joseph Wincet - DEBUG - Quantity:6 STRP
+2024-10-20 23:29:35,240 - INV-104_Joseph Wincet - DEBUG - Discount:-12%
+2024-10-20 23:29:35,240 - INV-104_Joseph Wincet - DEBUG - Cost Price:371.19
+2024-10-20 23:29:35,240 - INV-104_Joseph Wincet - DEBUG - Rate:326.64
+2024-10-20 23:29:35,240 - INV-104_Joseph Wincet - DEBUG - Item:Follihair AMPM Tablet Gluten Free - 20  tablets
+2024-10-20 23:29:35,240 - INV-104_Joseph Wincet - DEBUG - SGST Amount:176.39
+2024-10-20 23:29:35,240 - INV-104_Joseph Wincet - DEBUG - CGST Amount:176.39
+2024-10-20 23:29:35,240 - INV-104_Joseph Wincet - DEBUG - IGST Amount:None
+2024-10-20 23:29:35,240 - INV-104_Joseph Wincet - DEBUG - SGST Rate:18.0
+2024-10-20 23:29:35,240 - INV-104_Joseph Wincet - DEBUG - CGST Rate:18.0
+2024-10-20 23:29:35,240 - INV-104_Joseph Wincet - DEBUG - IGST Rate:None
+2024-10-20 23:29:35,240 - INV-104_Joseph Wincet - DEBUG - --------------------------
+2024-10-20 23:29:35,240 - INV-104_Joseph Wincet - DEBUG - Dermaq Basic Hair Test Men - B12, V-D  & TST  849.00 899.00 (-5.56%)1849.000.00 (0%)849.00
+2024-10-20 23:29:35,240 - INV-104_Joseph Wincet - DEBUG - Amount:849.00
+2024-10-20 23:29:35,240 - INV-104_Joseph Wincet - DEBUG - Tax Pecentage:0.0
+2024-10-20 23:29:35,240 - INV-104_Joseph Wincet - DEBUG - Tax Amount:0.00
+2024-10-20 23:29:35,240 - INV-104_Joseph Wincet - DEBUG - Taxable Value:849.00
+2024-10-20 23:29:35,240 - INV-104_Joseph Wincet - DEBUG - Quantity:1
+2024-10-20 23:29:35,240 - INV-104_Joseph Wincet - DEBUG - Discount:-5.56%
+2024-10-20 23:29:35,240 - INV-104_Joseph Wincet - DEBUG - Cost Price:899.00
+2024-10-20 23:29:35,240 - INV-104_Joseph Wincet - DEBUG - Rate:849.00
+2024-10-20 23:29:35,240 - INV-104_Joseph Wincet - DEBUG - Item:Dermaq Basic Hair Test Men - B12, V-D  & TST
+2024-10-20 23:29:35,241 - INV-104_Joseph Wincet - DEBUG - SGST Amount:0.0
+2024-10-20 23:29:35,241 - INV-104_Joseph Wincet - DEBUG - CGST Amount:0.0
+2024-10-20 23:29:35,241 - INV-104_Joseph Wincet - DEBUG - IGST Amount:None
+2024-10-20 23:29:35,241 - INV-104_Joseph Wincet - DEBUG - SGST Rate:0.0
+2024-10-20 23:29:35,241 - INV-104_Joseph Wincet - DEBUG - CGST Rate:0.0
+2024-10-20 23:29:35,241 - INV-104_Joseph Wincet - DEBUG - IGST Rate:None
+2024-10-20 23:29:35,241 - INV-104_Joseph Wincet - DEBUG - --------------------------
+2024-10-20 23:29:35,241 - INV-104_Joseph Wincet - DEBUG - Arachitol Nano (60k) 4*5ml  340.433 BTL1,021.29122.55 (12%)1,143.84
+2024-10-20 23:29:35,241 - INV-104_Joseph Wincet - DEBUG - Amount:1,143.84
+2024-10-20 23:29:35,241 - INV-104_Joseph Wincet - DEBUG - Tax Pecentage:12.0
+2024-10-20 23:29:35,241 - INV-104_Joseph Wincet - DEBUG - Tax Amount:122.55
+2024-10-20 23:29:35,241 - INV-104_Joseph Wincet - DEBUG - Taxable Value:1,021.29
+2024-10-20 23:29:35,241 - INV-104_Joseph Wincet - DEBUG - Quantity:433 BTL
+2024-10-20 23:29:35,241 - INV-104_Joseph Wincet - DEBUG - Discount:None
+2024-10-20 23:29:35,241 - INV-104_Joseph Wincet - DEBUG - Cost Price:None
+2024-10-20 23:29:35,241 - INV-104_Joseph Wincet - DEBUG - Rate:None
+2024-10-20 23:29:35,241 - INV-104_Joseph Wincet - DEBUG - Item:Arachitol Nano (60k) 4*5ml  340.
+2024-10-20 23:29:35,241 - INV-104_Joseph Wincet - DEBUG - SGST Amount:61.275
+2024-10-20 23:29:35,241 - INV-104_Joseph Wincet - DEBUG - CGST Amount:61.275
+2024-10-20 23:29:35,241 - INV-104_Joseph Wincet - DEBUG - IGST Amount:None
+2024-10-20 23:29:35,241 - INV-104_Joseph Wincet - DEBUG - SGST Rate:12.0
+2024-10-20 23:29:35,241 - INV-104_Joseph Wincet - DEBUG - CGST Rate:12.0
+2024-10-20 23:29:35,241 - INV-104_Joseph Wincet - DEBUG - IGST Rate:None
+2024-10-20 23:29:35,241 - INV-104_Joseph Wincet - DEBUG - --------------------------
+2024-10-20 23:29:35,241 - INV-104_Joseph Wincet - DEBUG - Dermatologist Consultation  350.00 1350.000.00 (0%)350.00
+2024-10-20 23:29:35,241 - INV-104_Joseph Wincet - DEBUG - Amount:350.00
+2024-10-20 23:29:35,241 - INV-104_Joseph Wincet - DEBUG - Tax Pecentage:0.0
+2024-10-20 23:29:35,241 - INV-104_Joseph Wincet - DEBUG - Tax Amount:0.00
+2024-10-20 23:29:35,241 - INV-104_Joseph Wincet - DEBUG - Taxable Value:350.00
+2024-10-20 23:29:35,241 - INV-104_Joseph Wincet - DEBUG - Quantity:1
+2024-10-20 23:29:35,241 - INV-104_Joseph Wincet - DEBUG - Discount:None
+2024-10-20 23:29:35,241 - INV-104_Joseph Wincet - DEBUG - Cost Price:350.00
+2024-10-20 23:29:35,241 - INV-104_Joseph Wincet - DEBUG - Rate:350.00
+2024-10-20 23:29:35,241 - INV-104_Joseph Wincet - DEBUG - Item:Dermatologist Consultation
+2024-10-20 23:29:35,241 - INV-104_Joseph Wincet - DEBUG - SGST Amount:0.0
+2024-10-20 23:29:35,241 - INV-104_Joseph Wincet - DEBUG - CGST Amount:0.0
+2024-10-20 23:29:35,241 - INV-104_Joseph Wincet - DEBUG - IGST Amount:None
+2024-10-20 23:29:35,241 - INV-104_Joseph Wincet - DEBUG - SGST Rate:0.0
+2024-10-20 23:29:35,241 - INV-104_Joseph Wincet - DEBUG - CGST Rate:0.0
+2024-10-20 23:29:35,241 - INV-104_Joseph Wincet - DEBUG - IGST Rate:None
+2024-10-20 23:29:35,241 - INV-104_Joseph Wincet - DEBUG - --------------------------
+2024-10-20 23:29:35,241 - INV-104_Joseph Wincet - DEBUG - Vitamin b12 test  349.00 399.00 (-12.53%)1349.000.00 (0%)349.00
+2024-10-20 23:29:35,241 - INV-104_Joseph Wincet - DEBUG - Amount:349.00
+2024-10-20 23:29:35,241 - INV-104_Joseph Wincet - DEBUG - Tax Pecentage:0.0
+2024-10-20 23:29:35,241 - INV-104_Joseph Wincet - DEBUG - Tax Amount:0.00
+2024-10-20 23:29:35,241 - INV-104_Joseph Wincet - DEBUG - Taxable Value:349.00
+2024-10-20 23:29:35,241 - INV-104_Joseph Wincet - DEBUG - Quantity:1
+2024-10-20 23:29:35,241 - INV-104_Joseph Wincet - DEBUG - Discount:-12.53%
+2024-10-20 23:29:35,241 - INV-104_Joseph Wincet - DEBUG - Cost Price:399.00
+2024-10-20 23:29:35,241 - INV-104_Joseph Wincet - DEBUG - Rate:349.00
+2024-10-20 23:29:35,241 - INV-104_Joseph Wincet - DEBUG - Item:Vitamin b12 test
+2024-10-20 23:29:35,241 - INV-104_Joseph Wincet - DEBUG - SGST Amount:0.0
+2024-10-20 23:29:35,241 - INV-104_Joseph Wincet - DEBUG - CGST Amount:0.0
+2024-10-20 23:29:35,241 - INV-104_Joseph Wincet - DEBUG - IGST Amount:None
+2024-10-20 23:29:35,241 - INV-104_Joseph Wincet - DEBUG - SGST Rate:0.0
+2024-10-20 23:29:35,241 - INV-104_Joseph Wincet - DEBUG - CGST Rate:0.0
+2024-10-20 23:29:35,241 - INV-104_Joseph Wincet - DEBUG - IGST Rate:None
+2024-10-20 23:29:35,241 - INV-104_Joseph Wincet - DEBUG - --------------------------
+2024-10-20 23:29:35,241 - INV-104_Joseph Wincet - INFO - Extracted data from list of items purchased.
+2024-10-20 23:29:35,241 - INV-104_Joseph Wincet.log - DEBUG - Checking invoice number: INV-104
+2024-10-20 23:29:35,241 - INV-104_Joseph Wincet.log - DEBUG - Invoice number passed pattern check
+2024-10-20 23:29:35,241 - INV-104_Joseph Wincet.log - DEBUG - Parsed invoice date: 2024-01-27 00:00:00
+2024-10-20 23:29:35,241 - INV-104_Joseph Wincet.log - DEBUG - Parsed due date: 2024-01-27 00:00:00
+2024-10-20 23:29:35,241 - INV-104_Joseph Wincet.log - DEBUG - Invoice date check passed
+2024-10-20 23:29:35,241 - INV-104_Joseph Wincet.log - DEBUG - Due date check passed
+2024-10-20 23:29:35,241 - INV-104_Joseph Wincet.log - DEBUG - Date logic check passed
+2024-10-20 23:29:35,241 - INV-104_Joseph Wincet.log - DEBUG - Calculated total amount: 6218.88, expected: 6219.0
+2024-10-20 23:29:35,241 - INV-104_Joseph Wincet.log - DEBUG - Total amount consistency check passed
+2024-10-20 23:29:35,241 - INV-104_Joseph Wincet.log - DEBUG - Valid tax percentage count: 6
+2024-10-20 23:29:35,241 - INV-104_Joseph Wincet.log - DEBUG - Valid quantity count: 6
+2024-10-20 23:29:35,242 - INV-104_Joseph Wincet.log - INFO - Final confidence score: 1.0

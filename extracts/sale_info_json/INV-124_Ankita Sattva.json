@@ -1,0 +1,70 @@
+{
+    "invoice_number": "INV-124",
+    "invoice_date": "10 Feb 2024",
+    "due_date": "10 Feb 2024",
+    "gstin": "23AADCU2395N1ZY",
+    "place_of_supply": "23-MADHYA PRADESH",
+    "total_amount": 1115.0,
+    "sale_info": {
+        "items": [
+            "Arachitol Nano (60k) 4*5ml  340.",
+            "Neurobion Forte - 30 tablets   34."
+        ],
+        "rate": [
+            null,
+            null
+        ],
+        "cost_price": [
+            null,
+            null
+        ],
+        "discount": [
+            null,
+            null
+        ],
+        "quantity": [
+            "433 BTL",
+            "753 STRP"
+        ],
+        "taxable_value": [
+            1021.29,
+            104.24
+        ],
+        "tax_amount": [
+            122.55,
+            18.76
+        ],
+        "tax_percentage": [
+            12.0,
+            18.0
+        ],
+        "amount": [
+            1143.84,
+            123.0
+        ],
+        "sgst_amount": [
+            61.275,
+            9.38
+        ],
+        "cgst_amount": [
+            61.275,
+            9.38
+        ],
+        "igst_amount": [
+            null,
+            null
+        ],
+        "sgst_rate": [
+            12.0,
+            18.0
+        ],
+        "cgst_rate": [
+            12.0,
+            18.0
+        ],
+        "igst_rate": [
+            null,
+            null
+        ]
+    }
+}

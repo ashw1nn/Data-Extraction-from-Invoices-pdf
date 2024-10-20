@@ -1,0 +1,45 @@
+2024-10-20 23:29:35
+Errors:
+
+Accuracies:
+INV-147_Divya Suhane.pdf: 100.00%
+INV-141_Kasturi Kalwar.pdf: 100.00%
+INV-127_Avik Mallick.pdf: 100.00%
+INV-133_Sheetal Kapur.pdf: 100.00%
+INV-106_Kamakshi Thakkar.pdf: 100.00%
+INV-100_Agrani Kandele.pdf: 100.00%
+INV-149_Karishma Bande.pdf: 100.00%
+INV-138_Agrani Kandele.pdf: 100.00%
+INV-112_Gauri.pdf: 100.00%
+INV-136_Rishabh Ramola.pdf: 100.00%
+INV-123_Asit.pdf: 100.00%
+INV-135_Mohith Saragur.pdf: 100.00%
+INV-128_Atia Latif.pdf: 100.00%
+INV-140_Ankit.pdf: 100.00%
+INV-117_Naman.pdf: 98.00%
+INV-110_Kushagra Tiwari.pdf: 100.00%
+INV-144_Atia Latif.pdf: 100.00%
+INV-129_Divya Suhane.pdf: 100.00%
+INV-142_Urmila Jangam.pdf: 100.00%
+INV-145_Indraja Mohite.pdf: 100.00%
+INV-143_Prashant.pdf: 100.00%
+INV-115_Akhil Abhay.pdf: 100.00%
+INV-104_Joseph Wincet.pdf: 100.00%
+INV-105_Urmila Jangam.pdf: 100.00%
+INV-107_Prashant.pdf: 100.00%
+INV-150_Bhusan Naresh.pdf: 100.00%
+INV-118_Rashu.pdf: 100.00%
+INV-98_Monika.pdf: 100.00%
+INV-146_Abhikaran Jalonha.pdf: 100.00%
+INV-99_Indraja.pdf: 100.00%
+INV-114_Vaibhav Bhagat.pdf: 100.00%
+INV-101_Abhikaran Jalonha.pdf: 100.00%
+INV-121_Jitesh Soni.pdf: 100.00%
+INV-73_Avik Mallick.pdf: 98.00%
+INV-148_harshit rathore.pdf: 100.00%
+INV-103_Jaiprakash Kumawat.pdf: 100.00%
+INV-113_Raghvendra.pdf: 100.00%
+INV-124_Ankita Sattva.pdf: 100.00%
+INV-102_Kasturi Kalwar.pdf: 100.00%
+INV-116_Shefali.pdf: 100.00%
+INV-134_Sheetal Kapur.pdf: 100.00%

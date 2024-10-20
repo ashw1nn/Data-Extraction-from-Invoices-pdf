@@ -1,0 +1,85 @@
+{
+    "invoice_number": "INV-127",
+    "invoice_date": "23 Feb 2024",
+    "due_date": "23 Feb 2024",
+    "gstin": "23AADCU2395N1ZY",
+    "place_of_supply": "23-MADHYA PRADESH",
+    "total_amount": 944.0,
+    "sale_info": {
+        "items": [
+            "Vitamin b12 test",
+            "HBA1C Test",
+            "Last bill pending"
+        ],
+        "rate": [
+            397.5,
+            349.27,
+            197.0
+        ],
+        "cost_price": [
+            750.0,
+            659.0,
+            197.0
+        ],
+        "discount": [
+            "-47%",
+            "-47%",
+            null
+        ],
+        "quantity": [
+            "1",
+            "1",
+            "1"
+        ],
+        "taxable_value": [
+            397.5,
+            349.27,
+            197.0
+        ],
+        "tax_amount": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "tax_percentage": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "amount": [
+            397.5,
+            349.27,
+            197.0
+        ],
+        "sgst_amount": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "cgst_amount": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "igst_amount": [
+            null,
+            null,
+            null
+        ],
+        "sgst_rate": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "cgst_rate": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "igst_rate": [
+            null,
+            null,
+            null
+        ]
+    }
+}

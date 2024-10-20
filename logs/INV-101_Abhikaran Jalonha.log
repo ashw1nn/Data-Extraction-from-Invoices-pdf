@@ -1,0 +1,229 @@
+2024-10-20 23:29:35,406 - INV-101_Abhikaran Jalonha - DEBUG - Logger initialized and logging to file.
+2024-10-20 23:29:35,406 - INV-101_Abhikaran Jalonha - INFO - Initializing PDF reader for file: Jan to Mar/INV-101_Abhikaran Jalonha.pdf
+2024-10-20 23:29:35,407 - INV-101_Abhikaran Jalonha - INFO - PDF reader initialized successfully.
+2024-10-20 23:29:35,407 - INV-101_Abhikaran Jalonha - INFO - PDF contains only 1 page, Extracting data from PDF...
+2024-10-20 23:29:35,433 - INV-101_Abhikaran Jalonha - DEBUG - TA X  I N V O I C E O R I G I N A L  F O R  R E C I P I E N T 
+UNCUE DERMACARE PRIVATE LIMITED
+GSTIN 23AADCU2395N1ZY     
+C/o KARUNA GUPTA KURELE, 1st Floor
+S.P Bungalow Ke Pichhe, Shoagpur Shahdol, Shahdol
+Shahdol, MADHYA PRADESH, 484001
+Mobile +91 8585960963   Email ruhi@dermaq.in
+Invoice #: INV-101 Invoice Date: 24 Jan 2024 Due Date: 24 Jan 2024
+Customer Details:
+Abhikaran Jalonha
+Place of Supply: 
+23-MADHYA PRADESH
+#Item Rate / Item QtyTaxable ValueTax AmountAmount
+1Solasafe sunscreen gel spf 50  450.64
+600.85 (-25%)1450.6481.11 (18%)531.75
+2Dermatologist Consultation  350.00 1350.000.00 (0%)350.00
+3Ahaglow Advanced Skin Rejuvenating 
+Face Wash Gel 556.34
+632.20 (-12%)1 PAC556.34100.14 (18%)656.48
+4Acutret 10 capsules  146.79
+183.48 (-20%)1 STRP146.7917.61 (12%)164.40
+5Biluma cream - 15 gm  462.37
+525.42 (-12%)1 PAC462.3783.23 (18%)545.60
+6Triluma Cream - 15 gm  535.04
+629.46 (-15%)1 TUB535.0464.21 (12%)599.25
+7Isotroin 10 MG - 10 Capsule  156.36
+177.68 (-12%)2 STRP312.7137.53 (12%)350.24
+8Cetaphil DAM Advance Ultra-Hydrati-
+ng Lotion Face - 100 gm  386.31
+438.98 (-12%)1 TUB386.3169.53 (18%)455.84
+Taxable Amount ₹3,200.20
+CGST 6.0% ₹59.67
+SGST 6.0% ₹59.67
+CGST 9.0% ₹167.01
+SGST 9.0% ₹167.01
+Round Off 0.44
+Total₹3,654.00
+Total Discount ₹597.94
+Total Items / Qty : 8 / 9.000 Total amount (in words):  INR Three Thousand, Six Hundred And Fifty-Four Rupees Only .
+Amount Paid
+Pay using UPI: 
+Bank Details:
+Bank:Kotak Mahindra Bank
+Account #: 1146860541
+IFSC Code: kkbk0000725
+Branch: PUNE - CHINCHWAD
+UnCue Dermacare Pvt LtdFor UNCUE DERMACARE PRIVATE LIMITED  
+Authorized Signatory 
+Swipe | Simple Invoicing, Billing and Payments | Visit getswipe.in
+Page 1 / 1 This is a computer generated document and requires no signature.Powered By
+
+2024-10-20 23:29:35,433 - INV-101_Abhikaran Jalonha - INFO - Extracted basic data from PDF
+2024-10-20 23:29:35,433 - INV-101_Abhikaran Jalonha - DEBUG - Invoice Number: INV-101
+2024-10-20 23:29:35,433 - INV-101_Abhikaran Jalonha - DEBUG - Invoice Date: 24 Jan 2024
+2024-10-20 23:29:35,433 - INV-101_Abhikaran Jalonha - DEBUG - Due Date: 24 Jan 2024
+2024-10-20 23:29:35,433 - INV-101_Abhikaran Jalonha - DEBUG - GSTIN: 23AADCU2395N1ZY
+2024-10-20 23:29:35,433 - INV-101_Abhikaran Jalonha - DEBUG - Total Amount: ₹3654.0
+2024-10-20 23:29:35,433 - INV-101_Abhikaran Jalonha - DEBUG - Place of Supply: 23-MADHYA PRADESH
+2024-10-20 23:29:35,433 - INV-101_Abhikaran Jalonha - DEBUG - 1Solasafe sunscreen gel spf 50  450.64
+600.85 (-25%)1450.6481.11 (18%)531.75
+2Dermatologist Consultation  350.00 1350.000.00 (0%)350.00
+3Ahaglow Advanced Skin Rejuvenating 
+Face Wash Gel 556.34
+632.20 (-12%)1 PAC556.34100.14 (18%)656.48
+4Acutret 10 capsules  146.79
+183.48 (-20%)1 STRP146.7917.61 (12%)164.40
+5Biluma cream - 15 gm  462.37
+525.42 (-12%)1 PAC462.3783.23 (18%)545.60
+6Triluma Cream - 15 gm  535.04
+629.46 (-15%)1 TUB535.0464.21 (12%)599.25
+7Isotroin 10 MG - 10 Capsule  156.36
+177.68 (-12%)2 STRP312.7137.53 (12%)350.24
+8Cetaphil DAM Advance Ultra-Hydrati-
+ng Lotion Face - 100 gm  386.31
+438.98 (-12%)1 TUB386.3169.53 (18%)455.84
+2024-10-20 23:29:35,433 - INV-101_Abhikaran Jalonha - INFO - Extracting data from list of items purchased...
+2024-10-20 23:29:35,433 - INV-101_Abhikaran Jalonha - DEBUG - Solasafe sunscreen gel spf 50  450.64 600.85 (-25%)1450.6481.11 (18%)531.75
+2024-10-20 23:29:35,433 - INV-101_Abhikaran Jalonha - DEBUG - Amount:531.75
+2024-10-20 23:29:35,433 - INV-101_Abhikaran Jalonha - DEBUG - Tax Pecentage:18.0
+2024-10-20 23:29:35,433 - INV-101_Abhikaran Jalonha - DEBUG - Tax Amount:81.11
+2024-10-20 23:29:35,433 - INV-101_Abhikaran Jalonha - DEBUG - Taxable Value:450.64
+2024-10-20 23:29:35,433 - INV-101_Abhikaran Jalonha - DEBUG - Quantity:1
+2024-10-20 23:29:35,433 - INV-101_Abhikaran Jalonha - DEBUG - Discount:-25%
+2024-10-20 23:29:35,433 - INV-101_Abhikaran Jalonha - DEBUG - Cost Price:600.85
+2024-10-20 23:29:35,433 - INV-101_Abhikaran Jalonha - DEBUG - Rate:450.64
+2024-10-20 23:29:35,433 - INV-101_Abhikaran Jalonha - DEBUG - Item:Solasafe sunscreen gel spf 50
+2024-10-20 23:29:35,433 - INV-101_Abhikaran Jalonha - DEBUG - SGST Amount:40.555
+2024-10-20 23:29:35,433 - INV-101_Abhikaran Jalonha - DEBUG - CGST Amount:40.555
+2024-10-20 23:29:35,433 - INV-101_Abhikaran Jalonha - DEBUG - IGST Amount:None
+2024-10-20 23:29:35,433 - INV-101_Abhikaran Jalonha - DEBUG - SGST Rate:18.0
+2024-10-20 23:29:35,433 - INV-101_Abhikaran Jalonha - DEBUG - CGST Rate:18.0
+2024-10-20 23:29:35,433 - INV-101_Abhikaran Jalonha - DEBUG - IGST Rate:None
+2024-10-20 23:29:35,433 - INV-101_Abhikaran Jalonha - DEBUG - --------------------------
+2024-10-20 23:29:35,433 - INV-101_Abhikaran Jalonha - DEBUG - Dermatologist Consultation  350.00 1350.000.00 (0%)350.00
+2024-10-20 23:29:35,433 - INV-101_Abhikaran Jalonha - DEBUG - Amount:350.00
+2024-10-20 23:29:35,433 - INV-101_Abhikaran Jalonha - DEBUG - Tax Pecentage:0.0
+2024-10-20 23:29:35,433 - INV-101_Abhikaran Jalonha - DEBUG - Tax Amount:0.00
+2024-10-20 23:29:35,433 - INV-101_Abhikaran Jalonha - DEBUG - Taxable Value:350.00
+2024-10-20 23:29:35,433 - INV-101_Abhikaran Jalonha - DEBUG - Quantity:1
+2024-10-20 23:29:35,433 - INV-101_Abhikaran Jalonha - DEBUG - Discount:None
+2024-10-20 23:29:35,433 - INV-101_Abhikaran Jalonha - DEBUG - Cost Price:350.00
+2024-10-20 23:29:35,433 - INV-101_Abhikaran Jalonha - DEBUG - Rate:350.00
+2024-10-20 23:29:35,433 - INV-101_Abhikaran Jalonha - DEBUG - Item:Dermatologist Consultation
+2024-10-20 23:29:35,433 - INV-101_Abhikaran Jalonha - DEBUG - SGST Amount:0.0
+2024-10-20 23:29:35,433 - INV-101_Abhikaran Jalonha - DEBUG - CGST Amount:0.0
+2024-10-20 23:29:35,433 - INV-101_Abhikaran Jalonha - DEBUG - IGST Amount:None
+2024-10-20 23:29:35,433 - INV-101_Abhikaran Jalonha - DEBUG - SGST Rate:0.0
+2024-10-20 23:29:35,433 - INV-101_Abhikaran Jalonha - DEBUG - CGST Rate:0.0
+2024-10-20 23:29:35,433 - INV-101_Abhikaran Jalonha - DEBUG - IGST Rate:None
+2024-10-20 23:29:35,433 - INV-101_Abhikaran Jalonha - DEBUG - --------------------------
+2024-10-20 23:29:35,433 - INV-101_Abhikaran Jalonha - DEBUG - Ahaglow Advanced Skin Rejuvenating  Face Wash Gel 556.34 632.20 (-12%)1 PAC556.34100.14 (18%)656.48
+2024-10-20 23:29:35,433 - INV-101_Abhikaran Jalonha - DEBUG - Amount:656.48
+2024-10-20 23:29:35,433 - INV-101_Abhikaran Jalonha - DEBUG - Tax Pecentage:18.0
+2024-10-20 23:29:35,433 - INV-101_Abhikaran Jalonha - DEBUG - Tax Amount:100.14
+2024-10-20 23:29:35,433 - INV-101_Abhikaran Jalonha - DEBUG - Taxable Value:556.34
+2024-10-20 23:29:35,433 - INV-101_Abhikaran Jalonha - DEBUG - Quantity:1 PAC
+2024-10-20 23:29:35,433 - INV-101_Abhikaran Jalonha - DEBUG - Discount:-12%
+2024-10-20 23:29:35,433 - INV-101_Abhikaran Jalonha - DEBUG - Cost Price:632.20
+2024-10-20 23:29:35,433 - INV-101_Abhikaran Jalonha - DEBUG - Rate:556.34
+2024-10-20 23:29:35,433 - INV-101_Abhikaran Jalonha - DEBUG - Item:Ahaglow Advanced Skin Rejuvenating  Face Wash Gel
+2024-10-20 23:29:35,433 - INV-101_Abhikaran Jalonha - DEBUG - SGST Amount:50.07
+2024-10-20 23:29:35,433 - INV-101_Abhikaran Jalonha - DEBUG - CGST Amount:50.07
+2024-10-20 23:29:35,433 - INV-101_Abhikaran Jalonha - DEBUG - IGST Amount:None
+2024-10-20 23:29:35,433 - INV-101_Abhikaran Jalonha - DEBUG - SGST Rate:18.0
+2024-10-20 23:29:35,433 - INV-101_Abhikaran Jalonha - DEBUG - CGST Rate:18.0
+2024-10-20 23:29:35,433 - INV-101_Abhikaran Jalonha - DEBUG - IGST Rate:None
+2024-10-20 23:29:35,433 - INV-101_Abhikaran Jalonha - DEBUG - --------------------------
+2024-10-20 23:29:35,433 - INV-101_Abhikaran Jalonha - DEBUG - Acutret 10 capsules  146.79 183.48 (-20%)1 STRP146.7917.61 (12%)164.40
+2024-10-20 23:29:35,434 - INV-101_Abhikaran Jalonha - DEBUG - Amount:164.40
+2024-10-20 23:29:35,434 - INV-101_Abhikaran Jalonha - DEBUG - Tax Pecentage:12.0
+2024-10-20 23:29:35,434 - INV-101_Abhikaran Jalonha - DEBUG - Tax Amount:17.61
+2024-10-20 23:29:35,434 - INV-101_Abhikaran Jalonha - DEBUG - Taxable Value:146.79
+2024-10-20 23:29:35,434 - INV-101_Abhikaran Jalonha - DEBUG - Quantity:1 STRP
+2024-10-20 23:29:35,434 - INV-101_Abhikaran Jalonha - DEBUG - Discount:-20%
+2024-10-20 23:29:35,434 - INV-101_Abhikaran Jalonha - DEBUG - Cost Price:183.48
+2024-10-20 23:29:35,434 - INV-101_Abhikaran Jalonha - DEBUG - Rate:146.79
+2024-10-20 23:29:35,434 - INV-101_Abhikaran Jalonha - DEBUG - Item:Acutret 10 capsules
+2024-10-20 23:29:35,434 - INV-101_Abhikaran Jalonha - DEBUG - SGST Amount:8.805
+2024-10-20 23:29:35,434 - INV-101_Abhikaran Jalonha - DEBUG - CGST Amount:8.805
+2024-10-20 23:29:35,434 - INV-101_Abhikaran Jalonha - DEBUG - IGST Amount:None
+2024-10-20 23:29:35,434 - INV-101_Abhikaran Jalonha - DEBUG - SGST Rate:12.0
+2024-10-20 23:29:35,434 - INV-101_Abhikaran Jalonha - DEBUG - CGST Rate:12.0
+2024-10-20 23:29:35,434 - INV-101_Abhikaran Jalonha - DEBUG - IGST Rate:None
+2024-10-20 23:29:35,434 - INV-101_Abhikaran Jalonha - DEBUG - --------------------------
+2024-10-20 23:29:35,434 - INV-101_Abhikaran Jalonha - DEBUG - Biluma cream - 15 gm  462.37 525.42 (-12%)1 PAC462.3783.23 (18%)545.60
+2024-10-20 23:29:35,434 - INV-101_Abhikaran Jalonha - DEBUG - Amount:545.60
+2024-10-20 23:29:35,434 - INV-101_Abhikaran Jalonha - DEBUG - Tax Pecentage:18.0
+2024-10-20 23:29:35,434 - INV-101_Abhikaran Jalonha - DEBUG - Tax Amount:83.23
+2024-10-20 23:29:35,434 - INV-101_Abhikaran Jalonha - DEBUG - Taxable Value:462.37
+2024-10-20 23:29:35,434 - INV-101_Abhikaran Jalonha - DEBUG - Quantity:1 PAC
+2024-10-20 23:29:35,434 - INV-101_Abhikaran Jalonha - DEBUG - Discount:-12%
+2024-10-20 23:29:35,434 - INV-101_Abhikaran Jalonha - DEBUG - Cost Price:525.42
+2024-10-20 23:29:35,434 - INV-101_Abhikaran Jalonha - DEBUG - Rate:462.37
+2024-10-20 23:29:35,434 - INV-101_Abhikaran Jalonha - DEBUG - Item:Biluma cream - 15 gm
+2024-10-20 23:29:35,434 - INV-101_Abhikaran Jalonha - DEBUG - SGST Amount:41.615
+2024-10-20 23:29:35,434 - INV-101_Abhikaran Jalonha - DEBUG - CGST Amount:41.615
+2024-10-20 23:29:35,434 - INV-101_Abhikaran Jalonha - DEBUG - IGST Amount:None
+2024-10-20 23:29:35,434 - INV-101_Abhikaran Jalonha - DEBUG - SGST Rate:18.0
+2024-10-20 23:29:35,434 - INV-101_Abhikaran Jalonha - DEBUG - CGST Rate:18.0
+2024-10-20 23:29:35,434 - INV-101_Abhikaran Jalonha - DEBUG - IGST Rate:None
+2024-10-20 23:29:35,434 - INV-101_Abhikaran Jalonha - DEBUG - --------------------------
+2024-10-20 23:29:35,434 - INV-101_Abhikaran Jalonha - DEBUG - Triluma Cream - 15 gm  535.04 629.46 (-15%)1 TUB535.0464.21 (12%)599.25
+2024-10-20 23:29:35,434 - INV-101_Abhikaran Jalonha - DEBUG - Amount:599.25
+2024-10-20 23:29:35,434 - INV-101_Abhikaran Jalonha - DEBUG - Tax Pecentage:12.0
+2024-10-20 23:29:35,434 - INV-101_Abhikaran Jalonha - DEBUG - Tax Amount:64.21
+2024-10-20 23:29:35,434 - INV-101_Abhikaran Jalonha - DEBUG - Taxable Value:535.04
+2024-10-20 23:29:35,434 - INV-101_Abhikaran Jalonha - DEBUG - Quantity:1 TUB
+2024-10-20 23:29:35,434 - INV-101_Abhikaran Jalonha - DEBUG - Discount:-15%
+2024-10-20 23:29:35,434 - INV-101_Abhikaran Jalonha - DEBUG - Cost Price:629.46
+2024-10-20 23:29:35,434 - INV-101_Abhikaran Jalonha - DEBUG - Rate:535.04
+2024-10-20 23:29:35,434 - INV-101_Abhikaran Jalonha - DEBUG - Item:Triluma Cream - 15 gm
+2024-10-20 23:29:35,434 - INV-101_Abhikaran Jalonha - DEBUG - SGST Amount:32.105
+2024-10-20 23:29:35,434 - INV-101_Abhikaran Jalonha - DEBUG - CGST Amount:32.105
+2024-10-20 23:29:35,434 - INV-101_Abhikaran Jalonha - DEBUG - IGST Amount:None
+2024-10-20 23:29:35,434 - INV-101_Abhikaran Jalonha - DEBUG - SGST Rate:12.0
+2024-10-20 23:29:35,434 - INV-101_Abhikaran Jalonha - DEBUG - CGST Rate:12.0
+2024-10-20 23:29:35,434 - INV-101_Abhikaran Jalonha - DEBUG - IGST Rate:None
+2024-10-20 23:29:35,434 - INV-101_Abhikaran Jalonha - DEBUG - --------------------------
+2024-10-20 23:29:35,434 - INV-101_Abhikaran Jalonha - DEBUG - Isotroin 10 MG - 10 Capsule  156.36 177.68 (-12%)2 STRP312.7137.53 (12%)350.24
+2024-10-20 23:29:35,434 - INV-101_Abhikaran Jalonha - DEBUG - Amount:350.24
+2024-10-20 23:29:35,434 - INV-101_Abhikaran Jalonha - DEBUG - Tax Pecentage:12.0
+2024-10-20 23:29:35,434 - INV-101_Abhikaran Jalonha - DEBUG - Tax Amount:37.53
+2024-10-20 23:29:35,434 - INV-101_Abhikaran Jalonha - DEBUG - Taxable Value:312.71
+2024-10-20 23:29:35,434 - INV-101_Abhikaran Jalonha - DEBUG - Quantity:2 STRP
+2024-10-20 23:29:35,434 - INV-101_Abhikaran Jalonha - DEBUG - Discount:-12%
+2024-10-20 23:29:35,434 - INV-101_Abhikaran Jalonha - DEBUG - Cost Price:177.68
+2024-10-20 23:29:35,434 - INV-101_Abhikaran Jalonha - DEBUG - Rate:156.36
+2024-10-20 23:29:35,434 - INV-101_Abhikaran Jalonha - DEBUG - Item:Isotroin 10 MG - 10 Capsule
+2024-10-20 23:29:35,434 - INV-101_Abhikaran Jalonha - DEBUG - SGST Amount:18.765
+2024-10-20 23:29:35,435 - INV-101_Abhikaran Jalonha - DEBUG - CGST Amount:18.765
+2024-10-20 23:29:35,435 - INV-101_Abhikaran Jalonha - DEBUG - IGST Amount:None
+2024-10-20 23:29:35,435 - INV-101_Abhikaran Jalonha - DEBUG - SGST Rate:12.0
+2024-10-20 23:29:35,435 - INV-101_Abhikaran Jalonha - DEBUG - CGST Rate:12.0
+2024-10-20 23:29:35,435 - INV-101_Abhikaran Jalonha - DEBUG - IGST Rate:None
+2024-10-20 23:29:35,435 - INV-101_Abhikaran Jalonha - DEBUG - --------------------------
+2024-10-20 23:29:35,435 - INV-101_Abhikaran Jalonha - DEBUG - Cetaphil DAM Advance Ultra-Hydrati- ng Lotion Face - 100 gm  386.31 438.98 (-12%)1 TUB386.3169.53 (18%)455.84
+2024-10-20 23:29:35,435 - INV-101_Abhikaran Jalonha - DEBUG - Amount:455.84
+2024-10-20 23:29:35,435 - INV-101_Abhikaran Jalonha - DEBUG - Tax Pecentage:18.0
+2024-10-20 23:29:35,435 - INV-101_Abhikaran Jalonha - DEBUG - Tax Amount:69.53
+2024-10-20 23:29:35,435 - INV-101_Abhikaran Jalonha - DEBUG - Taxable Value:386.31
+2024-10-20 23:29:35,435 - INV-101_Abhikaran Jalonha - DEBUG - Quantity:1 TUB
+2024-10-20 23:29:35,435 - INV-101_Abhikaran Jalonha - DEBUG - Discount:-12%
+2024-10-20 23:29:35,435 - INV-101_Abhikaran Jalonha - DEBUG - Cost Price:438.98
+2024-10-20 23:29:35,435 - INV-101_Abhikaran Jalonha - DEBUG - Rate:386.31
+2024-10-20 23:29:35,435 - INV-101_Abhikaran Jalonha - DEBUG - Item:Cetaphil DAM Advance Ultra-Hydrati- ng Lotion Face - 100 gm
+2024-10-20 23:29:35,435 - INV-101_Abhikaran Jalonha - DEBUG - SGST Amount:34.765
+2024-10-20 23:29:35,435 - INV-101_Abhikaran Jalonha - DEBUG - CGST Amount:34.765
+2024-10-20 23:29:35,435 - INV-101_Abhikaran Jalonha - DEBUG - IGST Amount:None
+2024-10-20 23:29:35,435 - INV-101_Abhikaran Jalonha - DEBUG - SGST Rate:18.0
+2024-10-20 23:29:35,435 - INV-101_Abhikaran Jalonha - DEBUG - CGST Rate:18.0
+2024-10-20 23:29:35,435 - INV-101_Abhikaran Jalonha - DEBUG - IGST Rate:None
+2024-10-20 23:29:35,435 - INV-101_Abhikaran Jalonha - DEBUG - --------------------------
+2024-10-20 23:29:35,435 - INV-101_Abhikaran Jalonha - INFO - Extracted data from list of items purchased.
+2024-10-20 23:29:35,435 - INV-101_Abhikaran Jalonha.log - DEBUG - Checking invoice number: INV-101
+2024-10-20 23:29:35,435 - INV-101_Abhikaran Jalonha.log - DEBUG - Invoice number passed pattern check
+2024-10-20 23:29:35,435 - INV-101_Abhikaran Jalonha.log - DEBUG - Parsed invoice date: 2024-01-24 00:00:00
+2024-10-20 23:29:35,435 - INV-101_Abhikaran Jalonha.log - DEBUG - Parsed due date: 2024-01-24 00:00:00
+2024-10-20 23:29:35,435 - INV-101_Abhikaran Jalonha.log - DEBUG - Invoice date check passed
+2024-10-20 23:29:35,435 - INV-101_Abhikaran Jalonha.log - DEBUG - Due date check passed
+2024-10-20 23:29:35,435 - INV-101_Abhikaran Jalonha.log - DEBUG - Date logic check passed
+2024-10-20 23:29:35,435 - INV-101_Abhikaran Jalonha.log - DEBUG - Calculated total amount: 3653.5600000000004, expected: 3654.0
+2024-10-20 23:29:35,435 - INV-101_Abhikaran Jalonha.log - DEBUG - Total amount consistency check passed
+2024-10-20 23:29:35,435 - INV-101_Abhikaran Jalonha.log - DEBUG - Valid tax percentage count: 8
+2024-10-20 23:29:35,435 - INV-101_Abhikaran Jalonha.log - DEBUG - Valid quantity count: 8
+2024-10-20 23:29:35,435 - INV-101_Abhikaran Jalonha.log - INFO - Final confidence score: 1.0

@@ -1,0 +1,175 @@
+{
+    "invoice_number": "INV-73",
+    "invoice_date": "15 Feb 2024",
+    "due_date": "26 Oct 2023",
+    "gstin": "23AADCU2395N1ZY",
+    "place_of_supply": "23-MADHYA PRADESH",
+    "total_amount": 5791.0,
+    "sale_info": {
+        "items": [
+            "DermaQ Comprehensive Hair Health  Diagnostic Test",
+            "Hair Nutrition Plan",
+            "x Shampoo",
+            "LONITAB 2.5 mg",
+            "Anaboom AD Lotion - 50 ml",
+            "Uprise D-3 60K Capsules - 12",
+            "ME-12 OD (15 tabs)",
+            "tab dutamax 0.5 mg",
+            "Uprise-D3 60K - 8 Capsule"
+        ],
+        "rate": [
+            1521.6,
+            499.17,
+            350.43,
+            157.14,
+            241.63,
+            324.93,
+            100.18,
+            102.14,
+            216.62
+        ],
+        "cost_price": [
+            3804.0,
+            1499.0,
+            398.21,
+            178.57,
+            274.58,
+            369.24,
+            113.84,
+            116.07,
+            246.16
+        ],
+        "discount": [
+            "-60%",
+            "-66.7%",
+            "-12%",
+            "-12%",
+            "-12%",
+            "-12%",
+            "-12%",
+            "-12%",
+            "-12%"
+        ],
+        "quantity": [
+            "1",
+            "1",
+            "1 BTL",
+            "9 STRP",
+            "1 BTL",
+            "1 STRP",
+            "6 STRP",
+            "2 STRP",
+            "1 STRP"
+        ],
+        "taxable_value": [
+            1521.6,
+            499.17,
+            350.43,
+            1414.29,
+            241.63,
+            324.93,
+            601.07,
+            204.29,
+            216.62
+        ],
+        "tax_amount": [
+            0.0,
+            0.0,
+            42.05,
+            169.71,
+            43.49,
+            38.99,
+            72.13,
+            24.51,
+            25.99
+        ],
+        "tax_percentage": [
+            0.0,
+            0.0,
+            12.0,
+            12.0,
+            18.0,
+            12.0,
+            12.0,
+            12.0,
+            12.0
+        ],
+        "amount": [
+            1521.6,
+            499.17,
+            392.48,
+            1584.0,
+            285.12,
+            363.92,
+            673.2,
+            228.8,
+            242.62
+        ],
+        "sgst_amount": [
+            0.0,
+            0.0,
+            21.025,
+            84.855,
+            21.745,
+            19.495,
+            36.065,
+            12.255,
+            12.995
+        ],
+        "cgst_amount": [
+            0.0,
+            0.0,
+            21.025,
+            84.855,
+            21.745,
+            19.495,
+            36.065,
+            12.255,
+            12.995
+        ],
+        "igst_amount": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "sgst_rate": [
+            0.0,
+            0.0,
+            12.0,
+            12.0,
+            18.0,
+            12.0,
+            12.0,
+            12.0,
+            12.0
+        ],
+        "cgst_rate": [
+            0.0,
+            0.0,
+            12.0,
+            12.0,
+            18.0,
+            12.0,
+            12.0,
+            12.0,
+            12.0
+        ],
+        "igst_rate": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ]
+    }
+}

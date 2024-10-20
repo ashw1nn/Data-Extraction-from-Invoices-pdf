@@ -1,0 +1,126 @@
+2024-10-20 23:29:34,848 - INV-106_Kamakshi Thakkar - DEBUG - Logger initialized and logging to file.
+2024-10-20 23:29:34,848 - INV-106_Kamakshi Thakkar - INFO - Initializing PDF reader for file: Jan to Mar/INV-106_Kamakshi Thakkar.pdf
+2024-10-20 23:29:34,849 - INV-106_Kamakshi Thakkar - INFO - PDF reader initialized successfully.
+2024-10-20 23:29:34,849 - INV-106_Kamakshi Thakkar - INFO - PDF contains only 1 page, Extracting data from PDF...
+2024-10-20 23:29:34,875 - INV-106_Kamakshi Thakkar - DEBUG - TA X  I N V O I C E O R I G I N A L  F O R  R E C I P I E N T 
+UNCUE DERMACARE PRIVATE LIMITED
+GSTIN 23AADCU2395N1ZY     
+C/o KARUNA GUPTA KURELE, 1st Floor
+S.P Bungalow Ke Pichhe, Shoagpur Shahdol, Shahdol
+Shahdol, MADHYA PRADESH, 484001
+Mobile +91 8585960963   Email ruhi@dermaq.in
+Invoice #: INV-106 Invoice Date: 27 Jan 2024 Due Date: 27 Jan 2024
+Customer Details:
+Kamakshi Thakkar
+Place of Supply: 
+23-MADHYA PRADESH
+#Item Rate / Item QtyTaxable ValueTax AmountAmount
+1Comprehensive Hair & Health Test - S-
+ilver  1,474.00
+1,699.00 
+(-13.24%)22,948.000.00 (0%)2,948.00
+2Arachitol Nano (60k) 4*5ml  299.58
+340.43 (-12%)3 BTL898.73107.85 (12%)1,006.58
+3Neurobion Forte - 30 tablets   30.58
+34.75 (-12%)3 STRP91.7316.51 (18%)108.24
+Taxable Amount ₹3,938.46
+CGST 6.0% ₹53.92
+SGST 6.0% ₹53.92
+CGST 9.0% ₹8.26
+SGST 9.0% ₹8.26
+Round Off 0.18
+Total₹4,063.00
+Total Discount ₹602.02
+Total Items / Qty : 3 / 8.000 Total amount (in words):  INR Four Thousand And Sixty-Three Rupees Only .
+Amount Paid
+Pay using UPI: 
+Bank Details:
+Bank:Kotak Mahindra Bank
+Account #: 1146860541
+IFSC Code: kkbk0000725
+Branch: PUNE - CHINCHWAD
+UnCue Dermacare Pvt LtdFor UNCUE DERMACARE PRIVATE LIMITED  
+Authorized Signatory 
+Swipe | Simple Invoicing, Billing and Payments | Visit getswipe.in
+Page 1 / 1 This is a computer generated document and requires no signature.Powered By
+
+2024-10-20 23:29:34,876 - INV-106_Kamakshi Thakkar - INFO - Extracted basic data from PDF
+2024-10-20 23:29:34,876 - INV-106_Kamakshi Thakkar - DEBUG - Invoice Number: INV-106
+2024-10-20 23:29:34,876 - INV-106_Kamakshi Thakkar - DEBUG - Invoice Date: 27 Jan 2024
+2024-10-20 23:29:34,876 - INV-106_Kamakshi Thakkar - DEBUG - Due Date: 27 Jan 2024
+2024-10-20 23:29:34,876 - INV-106_Kamakshi Thakkar - DEBUG - GSTIN: 23AADCU2395N1ZY
+2024-10-20 23:29:34,876 - INV-106_Kamakshi Thakkar - DEBUG - Total Amount: ₹4063.0
+2024-10-20 23:29:34,876 - INV-106_Kamakshi Thakkar - DEBUG - Place of Supply: 23-MADHYA PRADESH
+2024-10-20 23:29:34,876 - INV-106_Kamakshi Thakkar - DEBUG - 1Comprehensive Hair & Health Test - S-
+ilver  1,474.00
+1,699.00 
+(-13.24%)22,948.000.00 (0%)2,948.00
+2Arachitol Nano (60k) 4*5ml  299.58
+340.43 (-12%)3 BTL898.73107.85 (12%)1,006.58
+3Neurobion Forte - 30 tablets   30.58
+34.75 (-12%)3 STRP91.7316.51 (18%)108.24
+2024-10-20 23:29:34,876 - INV-106_Kamakshi Thakkar - INFO - Extracting data from list of items purchased...
+2024-10-20 23:29:34,876 - INV-106_Kamakshi Thakkar - DEBUG - Comprehensive Hair & Health Test - S- ilver  1,474.00 1,699.00  (-13.24%)22,948.000.00 (0%)2,948.00
+2024-10-20 23:29:34,876 - INV-106_Kamakshi Thakkar - DEBUG - Amount:2,948.00
+2024-10-20 23:29:34,876 - INV-106_Kamakshi Thakkar - DEBUG - Tax Pecentage:0.0
+2024-10-20 23:29:34,876 - INV-106_Kamakshi Thakkar - DEBUG - Tax Amount:0.00
+2024-10-20 23:29:34,876 - INV-106_Kamakshi Thakkar - DEBUG - Taxable Value:2,948.00
+2024-10-20 23:29:34,876 - INV-106_Kamakshi Thakkar - DEBUG - Quantity:2
+2024-10-20 23:29:34,876 - INV-106_Kamakshi Thakkar - DEBUG - Discount:-13.24%
+2024-10-20 23:29:34,876 - INV-106_Kamakshi Thakkar - DEBUG - Cost Price:1,699.00
+2024-10-20 23:29:34,876 - INV-106_Kamakshi Thakkar - DEBUG - Rate:1,474.00
+2024-10-20 23:29:34,876 - INV-106_Kamakshi Thakkar - DEBUG - Item:Comprehensive Hair & Health Test - S- ilver
+2024-10-20 23:29:34,876 - INV-106_Kamakshi Thakkar - DEBUG - SGST Amount:0.0
+2024-10-20 23:29:34,876 - INV-106_Kamakshi Thakkar - DEBUG - CGST Amount:0.0
+2024-10-20 23:29:34,876 - INV-106_Kamakshi Thakkar - DEBUG - IGST Amount:None
+2024-10-20 23:29:34,876 - INV-106_Kamakshi Thakkar - DEBUG - SGST Rate:0.0
+2024-10-20 23:29:34,876 - INV-106_Kamakshi Thakkar - DEBUG - CGST Rate:0.0
+2024-10-20 23:29:34,876 - INV-106_Kamakshi Thakkar - DEBUG - IGST Rate:None
+2024-10-20 23:29:34,876 - INV-106_Kamakshi Thakkar - DEBUG - --------------------------
+2024-10-20 23:29:34,876 - INV-106_Kamakshi Thakkar - DEBUG - Arachitol Nano (60k) 4*5ml  299.58 340.43 (-12%)3 BTL898.73107.85 (12%)1,006.58
+2024-10-20 23:29:34,876 - INV-106_Kamakshi Thakkar - DEBUG - Amount:1,006.58
+2024-10-20 23:29:34,876 - INV-106_Kamakshi Thakkar - DEBUG - Tax Pecentage:12.0
+2024-10-20 23:29:34,876 - INV-106_Kamakshi Thakkar - DEBUG - Tax Amount:107.85
+2024-10-20 23:29:34,876 - INV-106_Kamakshi Thakkar - DEBUG - Taxable Value:898.73
+2024-10-20 23:29:34,876 - INV-106_Kamakshi Thakkar - DEBUG - Quantity:3 BTL
+2024-10-20 23:29:34,876 - INV-106_Kamakshi Thakkar - DEBUG - Discount:-12%
+2024-10-20 23:29:34,876 - INV-106_Kamakshi Thakkar - DEBUG - Cost Price:340.43
+2024-10-20 23:29:34,876 - INV-106_Kamakshi Thakkar - DEBUG - Rate:299.58
+2024-10-20 23:29:34,876 - INV-106_Kamakshi Thakkar - DEBUG - Item:Arachitol Nano (60k) 4*5ml
+2024-10-20 23:29:34,876 - INV-106_Kamakshi Thakkar - DEBUG - SGST Amount:53.925
+2024-10-20 23:29:34,876 - INV-106_Kamakshi Thakkar - DEBUG - CGST Amount:53.925
+2024-10-20 23:29:34,876 - INV-106_Kamakshi Thakkar - DEBUG - IGST Amount:None
+2024-10-20 23:29:34,876 - INV-106_Kamakshi Thakkar - DEBUG - SGST Rate:12.0
+2024-10-20 23:29:34,876 - INV-106_Kamakshi Thakkar - DEBUG - CGST Rate:12.0
+2024-10-20 23:29:34,876 - INV-106_Kamakshi Thakkar - DEBUG - IGST Rate:None
+2024-10-20 23:29:34,876 - INV-106_Kamakshi Thakkar - DEBUG - --------------------------
+2024-10-20 23:29:34,876 - INV-106_Kamakshi Thakkar - DEBUG - Neurobion Forte - 30 tablets   30.58 34.75 (-12%)3 STRP91.7316.51 (18%)108.24
+2024-10-20 23:29:34,876 - INV-106_Kamakshi Thakkar - DEBUG - Amount:108.24
+2024-10-20 23:29:34,876 - INV-106_Kamakshi Thakkar - DEBUG - Tax Pecentage:18.0
+2024-10-20 23:29:34,876 - INV-106_Kamakshi Thakkar - DEBUG - Tax Amount:16.51
+2024-10-20 23:29:34,876 - INV-106_Kamakshi Thakkar - DEBUG - Taxable Value:91.73
+2024-10-20 23:29:34,876 - INV-106_Kamakshi Thakkar - DEBUG - Quantity:3 STRP
+2024-10-20 23:29:34,876 - INV-106_Kamakshi Thakkar - DEBUG - Discount:-12%
+2024-10-20 23:29:34,876 - INV-106_Kamakshi Thakkar - DEBUG - Cost Price:34.75
+2024-10-20 23:29:34,876 - INV-106_Kamakshi Thakkar - DEBUG - Rate:30.58
+2024-10-20 23:29:34,877 - INV-106_Kamakshi Thakkar - DEBUG - Item:Neurobion Forte - 30 tablets
+2024-10-20 23:29:34,877 - INV-106_Kamakshi Thakkar - DEBUG - SGST Amount:8.255
+2024-10-20 23:29:34,877 - INV-106_Kamakshi Thakkar - DEBUG - CGST Amount:8.255
+2024-10-20 23:29:34,877 - INV-106_Kamakshi Thakkar - DEBUG - IGST Amount:None
+2024-10-20 23:29:34,877 - INV-106_Kamakshi Thakkar - DEBUG - SGST Rate:18.0
+2024-10-20 23:29:34,877 - INV-106_Kamakshi Thakkar - DEBUG - CGST Rate:18.0
+2024-10-20 23:29:34,877 - INV-106_Kamakshi Thakkar - DEBUG - IGST Rate:None
+2024-10-20 23:29:34,877 - INV-106_Kamakshi Thakkar - DEBUG - --------------------------
+2024-10-20 23:29:34,877 - INV-106_Kamakshi Thakkar - INFO - Extracted data from list of items purchased.
+2024-10-20 23:29:34,877 - INV-106_Kamakshi Thakkar.log - DEBUG - Checking invoice number: INV-106
+2024-10-20 23:29:34,877 - INV-106_Kamakshi Thakkar.log - DEBUG - Invoice number passed pattern check
+2024-10-20 23:29:34,877 - INV-106_Kamakshi Thakkar.log - DEBUG - Parsed invoice date: 2024-01-27 00:00:00
+2024-10-20 23:29:34,877 - INV-106_Kamakshi Thakkar.log - DEBUG - Parsed due date: 2024-01-27 00:00:00
+2024-10-20 23:29:34,877 - INV-106_Kamakshi Thakkar.log - DEBUG - Invoice date check passed
+2024-10-20 23:29:34,877 - INV-106_Kamakshi Thakkar.log - DEBUG - Due date check passed
+2024-10-20 23:29:34,877 - INV-106_Kamakshi Thakkar.log - DEBUG - Date logic check passed
+2024-10-20 23:29:34,877 - INV-106_Kamakshi Thakkar.log - DEBUG - Calculated total amount: 4062.8199999999997, expected: 4063.0
+2024-10-20 23:29:34,877 - INV-106_Kamakshi Thakkar.log - DEBUG - Total amount consistency check passed
+2024-10-20 23:29:34,877 - INV-106_Kamakshi Thakkar.log - DEBUG - Valid tax percentage count: 3
+2024-10-20 23:29:34,877 - INV-106_Kamakshi Thakkar.log - DEBUG - Valid quantity count: 3
+2024-10-20 23:29:34,877 - INV-106_Kamakshi Thakkar.log - INFO - Final confidence score: 1.0

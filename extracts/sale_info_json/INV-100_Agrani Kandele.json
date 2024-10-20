@@ -1,0 +1,85 @@
+{
+    "invoice_number": "INV-100",
+    "invoice_date": "24 Jan 2024",
+    "due_date": "24 Jan 2024",
+    "gstin": "23AADCU2395N1ZY",
+    "place_of_supply": "23-MADHYA PRADESH",
+    "total_amount": 1284.0,
+    "sale_info": {
+        "items": [
+            "Acne UV Gel - 30 SPF",
+            "Clindac-A mist spray",
+            "AKNAYBAR soap"
+        ],
+        "rate": [
+            531.99,
+            392.07,
+            184.2
+        ],
+        "cost_price": [
+            709.32,
+            445.54,
+            209.32
+        ],
+        "discount": [
+            "-25%",
+            "-12%",
+            "-12%"
+        ],
+        "quantity": [
+            "1 UNT",
+            "1 BTL",
+            "1 BOX"
+        ],
+        "taxable_value": [
+            531.99,
+            392.07,
+            184.2
+        ],
+        "tax_amount": [
+            95.76,
+            47.05,
+            33.16
+        ],
+        "tax_percentage": [
+            18.0,
+            12.0,
+            18.0
+        ],
+        "amount": [
+            627.75,
+            439.12,
+            217.36
+        ],
+        "sgst_amount": [
+            47.88,
+            23.525,
+            16.58
+        ],
+        "cgst_amount": [
+            47.88,
+            23.525,
+            16.58
+        ],
+        "igst_amount": [
+            null,
+            null,
+            null
+        ],
+        "sgst_rate": [
+            18.0,
+            12.0,
+            18.0
+        ],
+        "cgst_rate": [
+            18.0,
+            12.0,
+            18.0
+        ],
+        "igst_rate": [
+            null,
+            null,
+            null
+        ]
+    }
+}
